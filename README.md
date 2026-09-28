@@ -58,10 +58,10 @@ Ich habe keine Zahlen erfunden. Jede Angabe hat eine Quelle oder ist als Faustre
 |---|---|---|---|---|---|---|---|
 | **Keimung** | jetzt bis ca. 01.–05.10. | dunkel (im Tuch) | – | 20–25 °C | Tuch feucht | Tuch feucht halten | **Nein** |
 | **Sämling** | ca. 2 Wochen nach dem Auflaufen | 18/6 (an 18:00, aus 12:00) | ca. 60 cm, Dimmer 25–40 % | 22–25 °C / nicht unter ca. 20 °C | 65–75 % | sehr wenig, im Umkreis von 5–10 cm um den Stängel | **Nein** (die Erde reicht) |
-| **Wachstum** | Auto: ca. Woche 2–4 · Photo: bis zum Umschalten | 18/6 | 45–60 cm, Dimmer schrittweise 40 → 80 % | 22–28 °C (ideal 24–26) / 18–22 °C | 55–70 % | gründlich gießen, dann abtrocknen lassen | **Ja**, Bio·Grow, erst halbe Dosis |
-| **Gemischte Phase** (Auto blüht, Photo wächst) | ca. 26.10.–22.11. | 18/6 | ca. 45 cm, 60–80 %, bei gesunden Blättern schrittweise bis 100 % | wie Wachstum | 50–60 % | je Pflanze einzeln | Auto: Blüte-Mischung · Photo: Bio·Grow |
+| **Wachstum** | Auto: ca. Woche 3–4 (12.–25.10.) · Photo: nach der Sämlingsphase bis zum Umschalten | 18/6 | 45–60 cm, Dimmer schrittweise 40 → 80 % | 22–28 °C (ideal 24–26) / 18–22 °C | 55–70 % | gründlich gießen, dann abtrocknen lassen | **Ja**, Bio·Grow, erst halbe Dosis |
+| **Gemischte Phase** (Auto blüht, Photo wächst) | ca. 26.10.–22.11. | 18/6 | ca. 45 cm **zur höchsten Spitze** (meist die Auto), 60–80 %, bei gesunden Blättern schrittweise bis 100 % | wie Wachstum | 50–60 % | je Pflanze einzeln | Auto: Blüte-Mischung · Photo: Bio·Grow |
 | **Frühe Blüte** (Blütewoche 1–4) | Auto: ab ca. 26.10. · Photo: ab dem Umschalten (23.11.) | Auto zuerst 18/6 · ab dem Umschalten 12/12 (an 18:00, aus 06:00) | ab dem Umschalten 35–45 cm, 100 % | 22–26 °C / 18–22 °C | 50–60 % | Bedarf steigt deutlich | **Ja**, Bio·Grow + Bio·Bloom + Top·Max |
-| **Späte Blüte** (ab Blütewoche 5) | Auto: ab ca. 23.11. · Photo: ab ca. 21.12. | 12/12 | 35–45 cm, 100 % | 20–26 °C / höchstens ca. 4 °C kühler | 40–55 %, in der Dunkelphase höchstens 60 % | Bedarf hoch | **Ja**; die letzten ca. 7 Tage vor der Ernte nur Wasser |
+| **Späte Blüte** (ab Blütewoche 5) | Auto: ab ca. 23.11. · Photo: ab ca. 21.12. | 12/12 | 35–45 cm, 100 % | 20–26 °C / höchstens ca. 4 °C kühler, nicht unter 18 °C | 40–55 %, in der Dunkelphase höchstens 60 % | Bedarf hoch | **Ja**; die letzten ca. 7 Tage vor der Ernte nur Wasser |
 | **Trocknen** | 10–14 Tage | dunkel | – | 15–20 °C | 55–65 % | – | – |
 | **Curing** (Nachreifen im Glas) | mind. 2–4 Wochen | dunkel | – | 15–21 °C | 58–62 % im Glas | – | – |
 
@@ -72,7 +72,7 @@ Ich habe keine Zahlen erfunden. Jede Angabe hat eine Quelle oder ist als Faustre
 3. **Die Autoflower direkt in ihren Endtopf pflanzen.** Nie umtopfen, nicht toppen, nicht stark entblättern. Erlaubt ist nur sanftes Biegen (LST) bis zur frühen Blüte.
 4. **Das Licht jeden Tag zur gleichen Uhrzeit** an- und ausschalten lassen (Zeitschaltuhr oder App).
 5. **In der 12/12-Blüte ist es im Zelt 12 Stunden stockdunkel.** Keine Lichtlecks, das Zelt in der Dunkelphase (06:00–18:00) nie öffnen.
-6. **Die Höhe im Griff behalten.** Back 2 Future spätestens bei 40 cm (höchstens 50 cm) auf Blüte umschalten und flach trainieren.
+6. **Die Höhe im Griff behalten.** Back 2 Future spätestens bei 40 cm auf Blüte umschalten und flach trainieren. Mehr Reserve hat dein Zelt nicht.
 7. **Luftfeuchte in der Blüte niedrig halten** (Schimmelgefahr) und **immer für Luftbewegung** sorgen.
 8. **Täglich kurz nachsehen, wöchentlich Notizen machen:** Höhe, Temperatur, Luftfeuchte, Gießmengen.
 9. **Nach den Trichomen ernten** (Harzdrüsen, mit Lupe), nicht nach dem Kalender.
@@ -138,9 +138,9 @@ Diese Punkte ändern Details im Plan. Schau bitte nach und sag mir Bescheid, fal
 
 | Regel | Was bedeutet das für dich? | Paragraf |
 |---|---|---|
-| Ab 18 Jahren: **höchstens 3 Pflanzen gleichzeitig**, am Wohnsitz bzw. gewöhnlichen Aufenthalt | 2 Pflanzen sind ok. | § 9 Abs. 1 |
+| Ab 18 Jahren: **höchstens 3 Pflanzen gleichzeitig**, am Wohnsitz bzw. gewöhnlichen Aufenthalt | 2 Pflanzen sind ok. „Wohnsitz“ heißt im KCanG: Du hast die Wohnung seit mindestens 6 Monaten (§ 1 Nr. 16). Bist du erst kürzlich umgezogen, sag mir Bescheid, dann schauen wir uns „gewöhnlicher Aufenthalt“ an (§ 1 Nr. 17). | § 9 Abs. 1, § 1 Nr. 16/17 |
 | **Schutz vor Zugriff durch Dritte, besonders Kinder und Jugendliche** | Gilt **schon jetzt für die keimenden Samen**, später für Pflanzen, Zelt, **Trockenplatz**, Gläser und Ernte. „Dritte“ sind nach dem Wortlaut alle außer dir, also auch Mitbewohner und Besuch. Welche Maßnahmen reichen, sagt das Gesetz nicht, dort steht nur „geeignete Maßnahmen und Sicherheitsvorkehrungen“. 🔧 Meine Empfehlung: abschließbarer Raum oder ein Schloss an den Zelt-Reißverschlüssen, dazu eine abschließbare Box für Samen, Ernte und Gläser. Verstoß: Bußgeld bis 30.000 €. | § 10, § 36 |
-| **Zuhause höchstens 50 g**, gerechnet nach Trocknungsgewicht, und zwar **alles zusammen**: Blüten, blütennahe Blätter und sonstiges Pflanzenmaterial | Schon die Auto allein kann über 50 g bringen (Sensi-Bericht: 115 g 📄). Die Grenze gilt für alles, was du **gleichzeitig** besitzt: Reste der Auto-Ernte zählen mit, wenn die Photo trocken ist. Mehr als 50 g bis 60 g ist eine Ordnungswidrigkeit, mehr als 60 g eine Straftat. Den Überschuss darfst du weder behalten noch weitergeben. **Praktisch musst du ihn also vernichten.** Ausdrücklich steht das nicht im Gesetz, es folgt aber aus § 3 und § 9 Abs. 2. Ob frisches Material während des Trocknens schon mitzählt, sagt das Gesetz nicht ausdrücklich. | § 3 Abs. 2, § 34, § 36 |
+| **Zuhause höchstens 50 g**, gerechnet nach Trocknungsgewicht, und zwar **alles zusammen**: Blüten, blütennahe Blätter und sonstiges Pflanzenmaterial | Schon die Auto allein kann über 50 g bringen (Sensi-Bericht: 115 g 📄). Die Grenze gilt für alles, was du **gleichzeitig** besitzt: Reste der Auto-Ernte zählen mit, **sobald die Photo geerntet ist**. **Nach dem Wortlaut zählt Erntegut schon ab dem Abschneiden** – eben mit dem Gewicht, das es trocken haben wird („bezogen auf das Gewicht nach dem Trocknen“). Eine amtliche Auslegung habe ich nicht gelesen. Mehr als 50 g bis 60 g ist eine Ordnungswidrigkeit, mehr als 60 g eine Straftat. Den Überschuss darfst du weder behalten noch weitergeben. **Praktisch musst du ihn also vernichten**, am besten gleich bei der Ernte ([Abschnitt 14](#14-ernte-trocknen-curing)). Ausdrücklich steht das nicht im Gesetz, es folgt aber aus § 3 und § 9 Abs. 2. | § 3 Abs. 2, § 34, § 36 |
 | Unterwegs höchstens 25 g | – | § 3 Abs. 1 |
 | **Keine Weitergabe** der Ernte | Auch kein Verschenken, auch nicht an Partner oder Mitbewohner, und **auch kein „Joint anbieten“**. Das ist strafbar. | § 9 Abs. 2, § 2 Abs. 1 Nr. 8, § 34 |
 | **Keine Extraktion** von Cannabinoiden (außer CBD) | z. B. keine Öle oder Konzentrate herstellen | § 2 Abs. 2 |
@@ -166,7 +166,7 @@ Diese Punkte ändern Details im Plan. Schau bitte nach und sag mir Bescheid, fal
 | Genetik | Wedding Cheesecake × Banana Kush × Hindu Kush Automatic, 75 % Indica / 25 % Sativa | ✅ |
 | Typ | Autoflower (blüht nach Alter, unabhängig von der Lichtdauer) | ✅ |
 | Blütezeit | „7 bis 9 Wochen“, je nach Phänotyp | ✅ |
-| Wuchs | kompakt, mittlere Höhe, kegelförmig, dichte Blüten, verträgt kühleres Klima | ✅ |
+| Wuchs | kompakt, mittlere Höhe, verträgt kühleres Klima; Blüten dicht und kegelförmig | ✅ |
 | Offizieller Sensi-Growbericht (indoor) | **78 Tage von Samen bis Ernte**, 115 g trocken, 24,97 % THC (Labor), 18/6 durchgehend | 📄 |
 | Weitere Details aus dem Bericht | Vorblüte Anfang Woche 4, Blütenhärchen in Woche 5, Endhöhe ca. 97 cm, Ernte bei ca. 10 % klaren / 80 % milchigen / 10 % bernsteinfarbenen Trichomen. **Achtung:** Die Pflanze wuchs unter einer 1000-W-Natriumdampflampe und wurde zweimal umgetopft (1 → 3 → 5 L), obwohl Sensi allgemein rät, Autos nicht umzutopfen. | 📄 |
 | Andere Höhenangaben | Sensi-Pflanzenseite (DE) 25–80 cm, Shops 50–120 cm. Gesamtdauer laut Shops 9–14 Wochen. | 📄 |
@@ -220,7 +220,7 @@ Die Auto blüht von selbst und bringt mit langen Tagen (18/6) mehr Ertrag. Die P
 ### Wann und wie einpflanzen?
 
 1. **Wann:** wenn die Keimwurzel **ca. 0,5–2 cm** lang ist. Nicht länger warten, die feinen Wurzelhärchen brechen leicht (RQS). 📄
-2. **Töpfe vorher vorbereiten** ([Abschnitt 10](#10-erde-und-töpfe)): Erde einfüllen und **gleichmäßig anfeuchten**, bis unten etwas herausläuft. Abtropfen lassen.
+2. **Töpfe vorher vorbereiten** ([Abschnitt 10](#10-erde-und-töpfe)): Erde einfüllen und **gleichmäßig anfeuchten**, bis sie sich überall wie ein ausgedrückter Schwamm anfühlt (beim Zusammendrücken tropft kaum etwas). **Nicht** literweise durchgießen, der kleine Keimling kann das Wasser im kühlen Zelt lange nicht verbrauchen. 🔧
 3. **Loch** mit Finger oder Stift, **ca. 0,5 cm tief, höchstens 1 cm**. Sensi nennt 2–5 mm, Bud Voyage ca. 0,5 cm, RQS 3–5 mm. 📄
 4. Samen **mit Pinzette oder sauberen Fingern an der Schale** fassen, **Wurzel zeigt nach unten**, ins Loch legen. 📄
 5. **Locker mit Erde bedecken, nicht festdrücken.** Mit der Sprühflasche leicht anfeuchten.
@@ -243,7 +243,7 @@ Die Auto blüht von selbst und bringt mit langen Tagen (18/6) mehr Ertrag. Die P
   2. Die Abluft auf die kleinste Stufe stellen.
   3. Nach den ersten echten Blättern die Haube **stundenweise abnehmen**: am 1. Tag 2–3 Stunden, dann täglich 1–2 Stunden länger, über 3–5 Tage.
   4. Nicht zu lange drauflassen, sonst steigt die Gefahr der Umfallkrankheit.
-- **Licht:** Lampe hoch hängen (ca. 60 cm) und stark dimmen (25–40 %) ([Abschnitt 8](#8-licht)).
+- **Licht:** Lampe hoch hängen (ca. 60 cm über den Keimlingen) und stark dimmen (25–40 %) ([Abschnitt 8](#8-licht)). Stell den kleinen Anzuchttopf der Photo auf eine Kiste, damit beide Keimlinge ähnlich weit von der Lampe entfernt sind.
 - **Gießen:** sehr wenig, nur im Umkreis von 5–10 cm um den Stängel, erst wenn die Oberfläche angetrocknet ist ([Abschnitt 12](#12-gießen)).
 - **Dünger:** **Nein.** Die Light-Mix-Erde ist leicht vorgedüngt ([Abschnitt 11](#11-dünger)).
 - **Sanfte Luftbewegung**, aber kein direkter Windstoß auf den Keimling.
@@ -277,7 +277,7 @@ Das ist die wichtigste Entscheidung im gemischten Zelt.
 **Warum der Hauptplan?** 🔧 In einem 200-cm-Zelt ist bei einer stark streckenden Sorte die Höhe dein größtes Risiko. Außerdem darfst du zuhause ohnehin nur 50 g besitzen ([Abschnitt 4](#4-rechtliches-in-deutschland)), ein Maximalertrag bringt dir also wenig. Das ist meine Abwägung, keine Studie.
 
 **Umschalt-Regel (Hauptplan).** Schalte auf 12/12, sobald das **Erste** von beiden eintritt:
-- **a)** Back 2 Future ist **40 cm** hoch, gemessen von der Erdoberfläche bis zur höchsten Spitze. **50 cm darf sie auf keinen Fall überschreiten.** 🧮 40 cm × 2–2,5 Streckung ≈ 80–100 cm, das passt gerade unter die Lampe ([Abschnitt 13](#13-pflanzentraining-und-höhe)).
+- **a)** Back 2 Future ist **40 cm** hoch, gemessen von der Erdoberfläche bis zur höchsten Spitze. Mehr Reserve gibt es nicht: 🧮 40 cm × 2–2,5 Streckung ≈ 80–100 cm, das passt gerade unter die Lampe. Schon 45–50 cm könnten sich auf 100–125 cm strecken, also mehr als du Platz hast ([Abschnitt 13](#13-pflanzentraining-und-höhe)). Liegt sie schon darüber: sofort umschalten und die Triebe flach binden.
 - **b)** Es ist **Montag, 23.11.2026**.
 
 Zusätzlich gilt (🔧):
@@ -297,17 +297,17 @@ Alle Daten sind **Planwerte**. Sorte, Phänotyp und ein kühler Winterraum könn
 | 05.–18.10. | Woche 2–3 | Sämling: nur Wasser, wenig | Sämling: nur Wasser, wenig | 18/6 · Dimmer in kleinen Schritten erhöhen |
 | 12.–25.10. | Woche 3–4 | ab 3–4 Blattetagen **LST** · ca. 2 Wochen nach dem Auflaufen Bio·Grow **halbe Dosis** | LST · **Umtopfen in 25 L**, sobald die Wurzeln den kleinen Topf füllen · danach Bio·Grow | 18/6 |
 | 19.10.–01.11. | Woche 4–5 | **Vorblüte** (Woche 4), **erste Blütenhärchen** (Woche 5, ca. 26.10.–01.11.) → **Blüte-Mischung** beginnen: Bio·Grow + Bio·Bloom + Top·Max, je halbe Dosis | Wachstum · **optional Topping** bei 4–6 Nodien | 18/6 |
-| 02.–22.11. | Woche 6–8 | Blüte mit Streckung (die Auto wächst noch deutlich), bei Bedarf stützen | Wachstum + LST · **letztes Topping spätestens 09.–13.11.** · Höhe 2 × pro Woche messen · **Lichttest** (siehe [Abschnitt 8](#8-licht)) | 18/6 · Lampe ca. 45 cm, 60–100 % |
+| 02.–22.11. | Woche 6–8 | Blüte mit Streckung (die Auto wächst noch deutlich), bei Bedarf stützen | Wachstum + LST · **letztes Topping spätestens 09.–13.11.** · Höhe 2 × pro Woche messen · **Lichttest ca. eine Woche vor dem Umschalten**, z. B. Sa/So 14./15.11. zwischen 12:00 und ca. 15:30 (siehe [Abschnitt 8](#8-licht)) | 18/6 · Lampe ca. 45 cm, 60–100 % |
 | 16.–22.11. | Woche 8 | – | **unteres Drittel ausputzen** (Lollipopping) | 18/6 |
 | **So 22.11. abends** | – | – | Timer/App umstellen: Aus-Zeit von 12:00 auf **06:00** | – |
 | **Mo 23.11.** | Tag 56 | läuft weiter, jetzt unter 12/12 | **erster 12/12-Tag**, Zelt ab jetzt 06:00–18:00 zu | **12/12: an 18:00, aus 06:00** · 100 % |
 | 30.11.–07.12. | Tag 63–70 | ab ca. Tag 63–70: **Trichome alle 2 Tage prüfen** | erste Blütenhärchen (7–14 Tage nach dem Umschalten) | 12/12 |
 | bis ca. 14.12. | Tag 77 | – | Streckung endet (ca. 3 Wochen nach dem Umschalten). Höhe messen und notieren. | 12/12 |
 | **14.12.2026–04.01.2027** | Tag 77–98 | **ERNTEFENSTER** (Sensi-Bericht: Tag 78 = 15.12.) · letzte ca. 7 Tage nur Wasser · ernten, **während das Licht an ist** · **außerhalb des Zelts trocknen** | Blüte · optional leichtes Entblättern um Blütetag 21–28 (14.–21.12.) | 12/12 |
-| danach | – | 10–14 Tage trocknen, dann Curing ≥ 2–4 Wochen · **wiegen (50-g-Grenze)** | – | – |
+| danach | – | **schon bei der Ernte wiegen und hochrechnen (50-g-Grenze)**, Überschuss vernichten · 10–14 Tage trocknen, dann Curing ≥ 2–4 Wochen · nach dem Trocknen noch einmal wiegen | – | – |
 | ab Mo 04.01.2027 | Blütewoche 7 | – | **Trichome alle 2 Tage prüfen** | 12/12 |
 | **18.01.–01.02.2027** (Puffer bis ca. 15.02.) | nach 8–10 (bis 12) Blütewochen | – | **ERNTEFENSTER** (8–10 Blütewochen) · letzte ca. 7 Tage nur Wasser | 12/12 bis zur Ernte |
-| danach | – | – | im leeren, geputzten Zelt trocknen (10–14 Tage), dann Curing bis in den März · **wiegen** | Lampe aus |
+| danach | – | – | **bei der Ernte wiegen und hochrechnen**, Überschuss vernichten · im leeren, geputzten Zelt trocknen (10–14 Tage), dann Curing bis in den März | Lampe aus |
 
 ---
 
@@ -324,14 +324,14 @@ Alle Daten sind **Planwerte**. Sorte, Phänotyp und ein kühler Winterraum könn
 | Abdeckung | Handbuch: 2 × 4 ft (ca. 61 × 122 cm = 0,74 m²). Der EU-Shop nennt 70 × 140 cm Kern- und 90 × 150 cm Maximalfläche 📄. |
 | Lieferumfang | Dimmerbox, Treiber, Stromkabel, **2 Seilratschen („YOYO“)**, Daisy-Chain-Kabel |
 | Betriebstemperatur | −20 bis **35 °C** (nicht darüber betreiben) |
-| Montage | mindestens 2,5 cm (1 Zoll) Abstand zum Zeltdach · Schutzklasse I, also **geerdete Steckdose** · nicht direkt hineinschauen, Hersteller empfiehlt Schutzbrille · keine fremden Dimmgeräte anschließen |
+| Montage | mindestens 2,5 cm (1 Zoll) Abstand zum Zeltdach · Schutzklasse I, also **geerdete Steckdose** · während des Betriebs nicht hineinschauen und eine Schutzbrille tragen (Herstellervorgabe) · keine fremden Dimmgeräte anschließen |
 
 **Dimmerbox (✅ Handbuch):**
 - **Drehen** stellt die Helligkeit von 0–100 % ein. **Drücken** wechselt zwischen **Linked / Auto / Manual**.
 - **Manual:** Der Knopf steuert An/Aus und Helligkeit.
 - **Auto:** Die Lampe folgt **Zeitplan und Helligkeit aus der Spider-Farmer-App**. Der Knopf ist dann gesperrt, alle Dimmer-Angaben dieser Anleitung stellst du dann **in der App** ein.
 - **Im Auto-Modus nicht auf den Knopf drücken:** Sonst wechselst du den Modus, und der Zeitplan läuft nicht mehr.
-- Das Display geht nur bei 0 % von selbst aus ✅. In der Blüte also abkleben, falls es im Zelt leuchtet.
+- Laut Handbuch geht das Display bei 0 % von selbst aus ✅. Leuchtet es in der Blüte im Zelt, abkleben.
 
 **🧮 Dein Zelt (1,2 m²) ist ca. 60 % größer als die im Handbuch angegebene Abdeckung (0,74 m²).**
 - Hänge die Lampe **längs** (115 cm entlang der 150-cm-Seite).
@@ -361,7 +361,7 @@ Alle Daten sind **Planwerte**. Sorte, Phänotyp und ein kühler Winterraum könn
 | Sämling (ca. 1.–2. Woche nach dem Auflaufen) | ca. 60 cm | 25–40 % | Werden die Keimlinge lang und dünn → etwas tiefer oder heller |
 | Frühes Wachstum | 45–60 cm | 40–60 % | in kleinen Schritten alle paar Tage erhöhen |
 | Spätes Wachstum | ca. 45 cm | 60–80 % | – |
-| **Gemischte Phase** (Auto blüht, Photo wächst, ca. 26.10.–22.11.) | ca. 45 cm | 60–80 %, bei gesunden, nicht gebleichten Spitzen schrittweise bis 100 % | Maßstab ist die Photo |
+| **Gemischte Phase** (Auto blüht, Photo wächst, ca. 26.10.–22.11.) | ca. 45 cm **zur höchsten Spitze** (in dieser Phase meist die Auto) | 60–80 %, bei gesunden, nicht gebleichten Spitzen schrittweise bis 100 % | Beim Hochdimmen auf die Pflanze achten, die der Lampe am nächsten ist |
 | Blüte (ab dem Umschalten) | **35–45 cm** | **100 %** | Nicht näher als ca. 35 cm, sonst Hotspot in der Mitte |
 
 - **Zu viel Licht** erkennst du an gebleichten, hellgelben oder weißen obersten Blättern oder an Blättern, die sich nach oben wölben. Dann dimmen oder höher hängen.
@@ -383,8 +383,10 @@ Alle Daten sind **Planwerte**. Sorte, Phänotyp und ein kühler Winterraum könn
 2. Die erste 12-Stunden-Dunkelphase ist dann **Mo 23.11., 06:00–18:00**.
 3. Prüfe am Montagmorgen, ob die Lampe um 06:00 wirklich ausgeht. 🧮
 
+**Umschalten an einem anderen Tag** (weil die Photo schon 40 cm hat): genauso – am Abend davor, während das Licht an ist, die Aus-Zeit auf 06:00 stellen. Die erste Dunkelphase ist dann am nächsten Tag 06:00–18:00. Lollipopping und Lichttest entsprechend vorziehen.
+
 **Lichtdichtheit (für die Photo entscheidend):**
-- **Einmal VOR dem Umschalten testen**, z. B. am 21. oder 22.11. zwischen 12:00 und 18:00. Dann ist die Lampe bei 18/6 ohnehin aus, und draußen ist es hell.
+- **Einmal VOR dem Umschalten testen, ca. eine Woche vorher** (z. B. Sa/So 14./15.11.), damit du noch Zeit zum Abdichten hast. Und zwar **zwischen 12:00 und ca. 15:30**: Dann ist die Lampe bei 18/6 ohnehin aus, und draußen ist es noch hell. Ende November wird es etwa ab 16:00–16:30 dunkel, dann findet der Test keine Lecks mehr. 🔧
   - Oberkörper ins Zelt, Reißverschluss so weit wie möglich schließen.
   - Ca. 10 Minuten warten, bis sich die Augen gewöhnt haben.
   - Lichtpunkte an Reißverschlüssen, Nähten, Schlauchdurchführungen und Zuluftöffnungen suchen und abdichten.
@@ -432,8 +434,8 @@ Gemessen **auf Pflanzenhöhe, im Schatten**, nicht an der Zeltwand. Die Werte si
 | Sämling | 22–25 °C | ca. 20–22 °C | 65–75 % | 0,4–0,8 |
 | Wachstum | 22–28 °C (ideal 24–26) | 18–22 °C | 55–70 % | 0,8–1,2 |
 | Frühe Blüte (Blütewoche 1–4) | 22–26 °C | 18–22 °C | 50–60 % | 1,0–1,4 |
-| Späte Blüte (ab Blütewoche 5) | 20–26 °C | 18–20 °C | 40–55 %, **in der Dunkelphase höchstens 60 %** | 1,2–1,6 |
-| Letzte 1–2 Wochen | 20–24 °C | 18–20 °C | 40–50 % | – |
+| Späte Blüte (ab Blütewoche 5) | 20–26 °C | höchstens ca. 4 °C kühler als bei Licht an, nicht unter 18 °C | 40–55 %, **in der Dunkelphase höchstens 60 %** | 1,2–1,6 |
+| Letzte 1–2 Wochen | 20–24 °C | höchstens ca. 4 °C kühler als bei Licht an, nicht unter 18 °C | 40–50 % | – |
 
 **Temperaturunterschied zwischen Licht an und Licht aus:**
 - Ideal sind 2–4 °C, im Wachstum sind bis ca. 5–8 °C tolerierbar.
@@ -532,7 +534,7 @@ BioBizz beschreibt **All-Mix** als stärker vorgedüngt (📄, ältere Produktbe
 
 1. Erde im Sack etwas **auflockern**.
 2. Töpfe füllen, **nicht festpressen**, nur leicht klopfen.
-3. **Gleichmäßig durchfeuchten**, bis unten etwas herausläuft. Abtropfen lassen.
+3. **Gleichmäßig anfeuchten**, bis die Erde sich überall wie ein ausgedrückter Schwamm anfühlt (beim Zusammendrücken tropft kaum etwas). Tipp: Erde vor dem Einfüllen in einer Wanne anfeuchten und durchmischen. 🔧 CANNA empfiehlt bei seiner Erde zwar, bis zum ersten Ablaufen zu gießen 📄. Mit einem kleinen Keimling im großen Topf und im kühlen Winterzelt ist das aber eher zu viel Wasser.
 4. Dann den gekeimten Samen einsetzen ([Abschnitt 6](#6-keimung--was-du-jetzt-tust)).
 5. **Den offenen Erdsack gut verschließen.** Trauermücken legen gern Eier in offene Erde.
 
@@ -541,7 +543,7 @@ BioBizz beschreibt **All-Mix** als stärker vorgedüngt (📄, ältere Produktbe
 **Wann?** Das erste Zeichen, dass die Wurzeln den Topf füllen: Ein Topf, der bisher 2–3 Tage feucht blieb, ist plötzlich nach einem Tag leicht 📄. Oft sieht man auch Wurzeln an den Abzugslöchern.
 
 1. Den kleinen Topf am Vortag etwas antrocknen lassen, dann rutscht der Ballen leichter heraus.
-2. Den 25-L-Topf füllen und durchfeuchten. In der Mitte ein Loch in Ballengröße machen.
+2. Den 25-L-Topf füllen und anfeuchten (feucht wie ein ausgedrückter Schwamm, nicht nass). In der Mitte ein Loch in Ballengröße machen.
 3. Den Ballen **vorsichtig** herausdrücken, nicht an der Pflanze ziehen. Einsetzen, locker auffüllen.
 4. **Danach nur rund um den Ballen gießen**, nicht den ganzen Topf durchnässen. Die Wurzeln sollen sich nach außen zum Wasser vorarbeiten.
 
@@ -592,7 +594,7 @@ Angaben in **ml pro Liter Wasser**, Microbes in g/L. „Veg*“ ist die Wachstum
 | Alg·A·Mic | – | 2 | 2 | 2 | 3 | 3 | 4 | 4 | 3 | 2 | Wasser | Ernte |
 | Microbes (1 × pro Woche, bei hohem Bedarf 2 ×) | 0,4 g | 0,4 g | 0,2 g | 0,2 g | 0,4 g | 0,4 g | 0,4 g | 0,2 g | 0,2 g | 0,2 g | Wasser | Ernte |
 
-**Wichtig:** Ältere BioBizz-Tabellen im Internet haben andere Werte. Steht auf deinem Sack **nicht** „Peat Free“ bzw. „torffrei“, sag mir Bescheid.
+**Wichtig:** Ältere BioBizz-Tabellen im Internet haben andere Werte. Steht auf deinem Sack **nicht** „Peat Free“ bzw. „torffrei“, gilt die Tabelle oben nicht wörtlich. **Dein Anfänger-Plan unten passt trotzdem**, denn er beginnt vorsichtig und richtet sich nach der Pflanze. Sag mir Bescheid, wenn du die Werte für die klassische Light-Mix willst.
 
 ### Mein Anfänger-Plan für deine zwei Pflanzen
 
@@ -635,7 +637,7 @@ Im BioBizz-Schema ist W9 die Wasser-Woche vor der Ernte in W10. **Richte dich na
 4. **Nächsten Dünger** zugeben, umrühren, usw. **Nie Konzentrate direkt zusammenkippen.**
 5. **Zum Schluss den pH messen** (Tropfentest oder pH-Stift).
 6. **pH einstellen:**
-   - **Über 6,5:** **Bio·Down tropfenweise** zugeben, umrühren, neu messen, bis ca. 6,2–6,5 erreicht sind. Bio·Down wirkt stark, also wirklich nur tropfenweise und nach jedem Tropfen neu messen. Wie stark ein Tropfen wirkt, hängt von deinem Wasser ab (Karbonathärte).
+   - **Über 6,5:** **Bio·Down in kleinen Portionen** mit der Spritze zugeben (Dosierhinweis auf dem Etikett beachten), umrühren, neu messen, bis ca. 6,2–6,5 erreicht sind. Wie viel du brauchst, hängt von deinem Wasser ab (Karbonathärte). **Notiere die Gesamtmenge:** Bei gleichem Wasser und gleicher Mischung brauchst du beim nächsten Mal ungefähr gleich viel, dann reicht eine Kontrollmessung. 🔧
    - **Zwischen 6,0 und 6,5:** nichts tun.
    - **Unter 6,0:** Bio·Up (selten nötig).
 7. **Sofort verwenden.** Organische Nährlösung nicht lagern.
@@ -705,10 +707,12 @@ Im BioBizz-Schema ist W9 die Wasser-Woche vor der Ernte in W10. **Richte dich na
 
 → **Es bleiben ca. 100–115 cm für die Pflanze** (ab Erdoberfläche). Hängt der Aktivkohlefilter über der Lampe, entsprechend weniger.
 
-📄 Nach dem Umschalten **streckt sich eine Photoperiode typischerweise auf das 1,5- bis 2-fache**, manchmal mehr, meist in den ersten ca. 3 Wochen. Back 2 Future gilt als stark streckend.
-→ **Umschalten bei 40 cm, auf keinen Fall über 50 cm** ([Abschnitt 7](#7-der-zeitplan-bis-zur-ernte)). Am Umschalttag und an Blütetag 21 die Höhe messen und notieren.
+📄 Nach dem Umschalten **streckt sich eine Photoperiode typischerweise auf das 1,5- bis 2-fache**, manchmal mehr (2,5- bis 3-fach), meist in den ersten ca. 3 Wochen. Back 2 Future gilt als stark streckend, deshalb plant diese Anleitung mit dem 2- bis 2,5-fachen.
 
-**Unterschiedlich hohe Pflanzen:** Die Lampe richtet sich nach der **höchsten** Spitze. Stelle die kleinere Pflanze auf eine stabile Kiste, damit beide Spitzen ähnlich weit von der Lampe entfernt sind.
+🔧 **Miss nach dem Aufhängen einmal nach:** Wie hoch hängt die Lampenunterseite bei ganz hochgezogenen Seilratschen über dem Zeltboden? Zieh 35–45 cm und die Topfhöhe ab. Das ist deine echte maximale Pflanzenhöhe.
+→ **Umschalten bei 40 cm**, mehr Reserve gibt es nicht ([Abschnitt 7](#7-der-zeitplan-bis-zur-ernte)). Am Umschalttag und an Blütetag 21 die Höhe messen und notieren.
+
+**Unterschiedlich hohe Pflanzen:** Die Lampe richtet sich nach der **höchsten** Spitze. Stelle die kleinere Pflanze auf eine stabile Kiste, damit beide Spitzen ähnlich weit von der Lampe entfernt sind. **Die Photo steht spätestens am Umschalttag wieder auf dem Boden**, denn die Höhenrechnung oben gilt nur ohne Kiste. Nach dem Umschalten darf höchstens die Auto erhöht stehen.
 
 ### LST (Low Stress Training) – für beide Pflanzen
 
@@ -765,10 +769,18 @@ Ab Blütewoche 4–5 werden die Blütenstände schwer. Stütze sie mit **Bambuss
 - **Trocknen außerhalb des Zelts:** Im Zelt ist es zu warm und es gibt Licht. Die Feuchtigkeit der trocknenden Pflanze wäre außerdem Schimmelgefahr für die blühende Photo.
 - **Der Trockenplatz muss:**
   - **dunkel und kühl** sein (ca. 15–20 °C),
-  - **für Kinder und Dritte unzugänglich** sein (§ 10 KCanG), z. B. ein abschließbarer Schrank oder Raum,
+  - **für Kinder und Dritte unzugänglich** sein (§ 10 KCanG),
   - einen **Luftaustausch** haben, denn eine frisch geerntete Pflanze gibt viel Wasser ab 📄. In einem geschlossenen Schrank oder Karton steigt die Luftfeuchte schnell über 65 %.
+- 🔧 **Am besten:** ein **abschließbarer kleiner Raum** (z. B. Abstellkammer), in dem ein kleiner Ventilator gegen die Wand läuft. Ein abgeschlossener Schrank geht nur, wenn du ihn täglich 1–2 × kurz lüftest und das Hygrometer dort unter ca. 65 % bleibt. Alternative: ein kleines, abschließbares Trockenzelt mit Mini-Aktivkohlefilter (hilft auch gegen den Geruch).
 - Häng dort ein **zweites Hygrometer** auf und lies es täglich ab.
 - **Geruch:** Trocknende Blüten riechen stark, und hier gibt es keinen Aktivkohlefilter. Wähle den Platz entsprechend.
+
+### Vor dem Trocknen: 50-g-Grenze einplanen
+
+- 📄 Beim Trocknen verlieren Blüten ca. 70–80 % ihres Gewichts, übrig bleiben also ca. 20–30 % des Frischgewichts.
+- 🔧 Wiege die geschnittenen Blüten gleich nach der Ernte, rechne das Trockengewicht hoch und behalte nur so viel, dass du **zusammen mit allem, was du schon hast, sicher unter 50 g** bleibst.
+- Große Blätter und dicke Stängel können nach dem Wortlaut als „sonstiges Pflanzenmaterial“ mitzählen. 🔧 Deshalb gleich bei der Ernte abschneiden und entsorgen, statt sie mitzutrocknen. Hänge Äste statt der ganzen Pflanze auf.
+- 🔧 Den Überschuss sofort unbrauchbar machen, z. B. klein schneiden und mit Erde oder Bioabfall vermischt entsorgen (eine amtliche Vorgabe dafür habe ich nicht gefunden). Niemals verschenken.
 
 ### Trocknen
 
@@ -779,7 +791,7 @@ Ab Blütewoche 4–5 werden die Blütenstände schwer. Stütze sie mit **Bambuss
 | Licht | **dunkel**, Licht baut Cannabinoide ab |
 | Luft | sanft und **indirekt**: Ventilator gegen die Wand, **nie direkt auf die Blüten** |
 | Dauer | **ca. 10–14 Tage** (Spanne 7–14). Trocken in weniger als ca. 7 Tagen = zu schnell (Heugeruch). |
-| Methode | ganze Pflanze oder 30–45 cm lange Äste kopfüber aufhängen, 5–10 cm Abstand. Oder abgeschnittene Blüten auf ein Trockennetz. |
+| Methode | 30–45 cm lange Äste kopfüber aufhängen (ganze Pflanzen nur, wenn die 50-g-Planung das zulässt), 5–10 cm Abstand. Oder abgeschnittene Blüten auf ein Trockennetz. |
 | Fertig, wenn | **dünne Stängel beim Biegen knacken** statt sich zu biegen. Blüten außen trocken, innen noch leicht federnd. |
 
 - **Trimmen:** große Blätter gleich bei der Ernte ab, kleine Zuckerblätter nach dem Trocknen („Dry Trim“, schont die Aromen). Liegt die Luftfeuchte am Trockenplatz dauerhaft über ca. 60–65 %, lieber gleich alles trimmen („Wet Trim“). 📄
@@ -801,7 +813,7 @@ Ab Blütewoche 4–5 werden die Blütenstände schwer. Stütze sie mit **Bambuss
 7. **Mindestens 2–4 Wochen** curen, besser 4–8 Wochen.
 8. **Schimmel** (weißer Flaum, muffiger Geruch) → **wegwerfen, nicht probieren.** Schimmelgifte überstehen das Trocknen 📄.
 
-**Gesetz nicht vergessen:** Wiege **alles** getrocknete Material, also Blüten **und** aufbewahrte Blätter oder Schnittreste, mit einer Feinwaage. Zuhause sind insgesamt höchstens 50 g erlaubt, auch Reste der Auto-Ernte zählen mit. Den Rest musst du vernichten ([Abschnitt 4](#4-rechtliches-in-deutschland)).
+**Gesetz nicht vergessen:** Wiege nach dem Trocknen noch einmal **alles**, also Blüten **und** aufbewahrte Blätter oder Schnittreste, mit einer Feinwaage. Zuhause sind insgesamt höchstens 50 g erlaubt, auch Reste der Auto-Ernte zählen mit, sobald die Photo geerntet ist. Den Rest musst du vernichten ([Abschnitt 4](#4-rechtliches-in-deutschland)).
 
 ---
 
@@ -905,7 +917,7 @@ Ab Blütewoche 4–5 werden die Blütenstände schwer. Stütze sie mit **Bambuss
 ### Lampe
 
 - Nicht über 35 °C betreiben, mindestens 2,5 cm Abstand zum Zeltdach.
-- Nicht direkt hineinschauen, der Hersteller empfiehlt eine Schutzbrille.
+- Während des Betriebs nicht hineinschauen, laut Hersteller dabei eine Schutzbrille tragen ✅. Nach dem Umschalten arbeitest du immer unter der leuchtenden Lampe, also immer mit Brille.
 - Vor dem Reinigen den Stecker ziehen, die Dioden nicht anfassen ✅.
 
 ### Feuer
@@ -964,7 +976,7 @@ Scheren mit Alkohol desinfizieren.
 | **Mehrfachsteckdose mit Schutzkontakt und Überspannungsschutz** | Strom für Lüfter, Clip-Fans, Lampe | Elektrohandel / Baumarkt, gute Markenqualität |
 | **FI-Adapter** (nur wenn der Stromkreis keinen FI-Schutz hat) | Stromschlagschutz | Elektrohandel / Baumarkt |
 | **Messbecher, 2–3 Einwegspritzen (5–10 ml), 2 Gießkannen oder Kanister (5–10 L)** | Dünger dosieren, getrennte Mischungen | Drogerie / Apotheke / Baumarkt |
-| **Schutzbrille** | Herstellervorgabe bei Arbeiten an der Lampe ✅ | Baumarkt |
+| **Schutzbrille** | bei allen Arbeiten im Zelt, während die Lampe leuchtet (Herstellervorgabe ✅) | Baumarkt |
 
 ### C) Bis ca. 12.10. (Beginn LST)
 
@@ -1047,7 +1059,7 @@ Scheren mit Alkohol desinfizieren.
 6. **Ob der App-Zeitplan der Lampe offline und nach Stromausfall weiterläuft,** konnte ich nicht klären. Einmal selbst testen ([Abschnitt 8](#8-licht)).
 7. **Shop-Links** habe ich per Websuche gefunden, aber nicht geöffnet. Preise, Lieferumfang und Verfügbarkeit bitte prüfen.
 8. **Lüftergröße:** Die Quellen empfehlen 100 mm bis 150 mm. Entscheidend sind deine Zeltöffnung und die Raumtemperatur.
-9. **Rechtliches:** Ob frisches Material beim Trocknen schon zur 50-g-Grenze zählt und welche Schutzmaßnahmen nach § 10 genau reichen, sagt das Gesetz nicht ausdrücklich. Eine offizielle Auslegung konnte ich nicht lesen.
+9. **Rechtliches:** Nach dem Wortlaut zählt Erntegut schon ab dem Abschneiden zur 50-g-Grenze (mit seinem späteren Trockengewicht). Wie Stängel gewertet werden und welche Schutzmaßnahmen nach § 10 genau reichen, sagt das Gesetz nicht ausdrücklich. Eine amtliche Auslegung konnte ich nicht lesen.
 10. **„Helmkopf“ bei Keimlingen:** Für die übliche Praxis habe ich keine belastbare Quelle gefunden.
 
 ---
