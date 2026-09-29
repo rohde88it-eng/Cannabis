@@ -581,7 +581,7 @@ BioBizz beschreibt **All-Mix** als stärker vorgedüngt (📄, ältere Produktbe
 
 ### Das offizielle Schema (✅ BioBizz Nutrient Schedule 2026, Light·Mix Peat Free)
 
-Angaben in **ml pro Liter Wasser**, Microbes in g/L. „Veg*“ ist die Wachstumsphase. Sie darf laut BioBizz **so lange dauern wie nötig**.
+Angaben in **ml pro Liter Wasser**, Microbes in g/L. „Veg\*“ ist die Wachstumsphase. Sie darf laut BioBizz **so lange dauern wie nötig**.
 
 | Produkt | Anzucht | Veg* | Blüte W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
