@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Erzeugt aus README.md eine druckfertige PDF (A4) über Chromium im Headless-Modus.
+"""Erzeugt aus einer Markdown-Datei eine druckfertige PDF (A4) über Chromium im Headless-Modus.
 
-Aufruf:  python3 scripts/build_pdf.py
+Aufruf:
+  python3 scripts/build_pdf.py              # README.md -> Cannabis-Anbau-Anleitung.pdf
+  python3 scripts/build_pdf.py handbuch     # Handbuch/Cannabis-Anbau-Handbuch.md -> Cannabis-Anbau-Handbuch.pdf
 Benötigt: pip install markdown · Chromium (Pfad über CHROME oder Standardpfad unten)
 """
 import os
@@ -13,8 +15,24 @@ import tempfile
 import markdown
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(ROOT, "README.md")
-OUT = os.path.join(ROOT, "Cannabis-Anbau-Anleitung.pdf")
+
+# Dokumente: Quelle, Ziel, Kopfzeile, HTML-Titel, Kapitel-Anker mit sichtbaren Link-Adressen
+DOCS = {
+    "anleitung": {
+        "src": os.path.join(ROOT, "README.md"),
+        "out": os.path.join(ROOT, "Cannabis-Anbau-Anleitung.pdf"),
+        "header": "Cannabis-Anbau für Einsteiger · Stand 28.09.2026",
+        "title": "Cannabis-Anbau für Einsteiger – Schritt-für-Schritt-Anleitung",
+        "url_chapters": ["17-zubehör-mit-links"],
+    },
+    "handbuch": {
+        "src": os.path.join(ROOT, "Handbuch", "Cannabis-Anbau-Handbuch.md"),
+        "out": os.path.join(ROOT, "Cannabis-Anbau-Handbuch.pdf"),
+        "header": "Cannabis-Anbau-Handbuch · Stand 29.09.2026",
+        "title": "Cannabis-Anbau-Handbuch – allgemeiner, ausführlicher Leitfaden",
+        "url_chapters": [],
+    },
+}
 CHROME = os.environ.get("CHROME", "/opt/pw-browsers/chromium-1194/chrome-linux/chrome")
 
 
@@ -57,7 +75,7 @@ CSS = r"""
   size: A4;
   margin: 16mm 14mm 18mm 14mm;
   @bottom-center { content: "Seite " counter(page) " von " counter(pages); font: 8pt "DejaVu Sans", sans-serif; color: #666; }
-  @top-right { content: "Cannabis-Anbau für Einsteiger · Stand 28.09.2026"; font: 7.5pt "DejaVu Sans", sans-serif; color: #888; }
+  @top-right { content: "__HEADER__"; font: 7.5pt "DejaVu Sans", sans-serif; color: #888; }
 }
 @page :first { @top-right { content: none; } }
 html { font-family: "DejaVu Sans", "Liberation Sans", "Noto Color Emoji", sans-serif; font-size: 9.6pt; line-height: 1.45; color: #1d1d1d; }
@@ -81,6 +99,7 @@ table { border-collapse: collapse; width: 100%; margin: 5pt 0 9pt; font-size: 8.
 thead { display: table-header-group; }
 tr { break-inside: avoid; }
 th { background: #1f5f2e; color: #fff; text-align: left; font-weight: bold; padding: 3.5pt 4pt; border: 1px solid #1f5f2e; vertical-align: top; }
+th strong, th em, th a { color: #fff; }
 td { padding: 3pt 4pt; border: 1px solid #c9d3c9; vertical-align: top; }
 tbody tr:nth-child(even) td { background: #f6f9f6; }
 table.wide { font-size: 7.3pt; }
@@ -92,7 +111,7 @@ section.zubehoer td a[href^="http"]::after { content: " – " attr(href); color:
 """
 
 
-def build_html(md_text):
+def build_html(md_text, doc):
     md = markdown.Markdown(
         extensions=["tables", "toc", "sane_lists"],
         extension_configs={"toc": {"slugify": slugify, "permalink": False}},
@@ -113,28 +132,34 @@ def build_html(md_text):
 
     html = re.sub(r"<table>.*?</table>", mark_wide, html, flags=re.S)
 
-    # Zubehör-Kapitel in eine Section packen (für sichtbare URLs im Druck)
-    html = re.sub(
-        r'(<h2 class="chapter" id="17-zubehör-mit-links">.*?)(?=<h2 class="chapter")',
-        r'<section class="zubehoer">\1</section>',
-        html,
-        flags=re.S,
-    )
+    # Kapitel mit Einkaufslinks in eine Section packen (für sichtbare URLs im Druck)
+    for anchor in doc["url_chapters"]:
+        html = re.sub(
+            r'(<h2 class="chapter" id="' + re.escape(anchor) + r'">.*?)(?=<h2 class="chapter"|$)',
+            r'<section class="zubehoer">\1</section>',
+            html,
+            flags=re.S,
+        )
 
     # Titelblock: H1 + erstes Zitat + Einleitungsabsatz hervorheben
     html = re.sub(r"(<h1[^>]*>.*?</h1>\s*<blockquote>.*?</blockquote>)", r'<div class="titelblock">\1</div>', html, count=1, flags=re.S)
 
     return f"""<!doctype html>
 <html lang="de"><head><meta charset="utf-8">
-<title>Cannabis-Anbau für Einsteiger – Schritt-für-Schritt-Anleitung</title>
-<style>{CSS}</style></head>
+<title>{doc["title"]}</title>
+<style>{CSS.replace("__HEADER__", doc["header"])}</style></head>
 <body>{html}</body></html>"""
 
 
 def main():
-    with open(SRC, encoding="utf-8") as f:
+    name = sys.argv[1] if len(sys.argv) > 1 else "anleitung"
+    if name not in DOCS:
+        sys.exit("Unbekanntes Dokument: %s (möglich: %s)" % (name, ", ".join(DOCS)))
+    doc = DOCS[name]
+    OUT = doc["out"]
+    with open(doc["src"], encoding="utf-8") as f:
         md_text = f.read()
-    html = build_html(md_text)
+    html = build_html(md_text, doc)
     with tempfile.TemporaryDirectory() as tmp:
         html_path = os.path.join(tmp, "anleitung.html")
         with open(html_path, "w", encoding="utf-8") as f:
