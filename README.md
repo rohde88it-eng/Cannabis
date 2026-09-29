@@ -4,6 +4,8 @@
 
 Diese Anleitung ist genau für deine Situation geschrieben. Sie beantwortet deine Fragen zu Keimung, Zeitplan bis zur Blüte und Ernte, Erde, Dünger, Licht, Temperatur, Wasser und Zubehör (mit Links). Außerdem steht drin, worauf du achten musst.
 
+**Ausführlicher und allgemein:** Im selben Repository liegt das *Cannabis-Anbau-Handbuch* (`Handbuch/Cannabis-Anbau-Handbuch.md` bzw. `Cannabis-Anbau-Handbuch.pdf`, Stand 29.09.2026). Es behandelt den Anbau unabhängig von bestimmten Sorten in 32 Kapiteln.
+
 ---
 
 ## Wie verlässlich sind die Angaben?
