@@ -88,11 +88,11 @@ Ich habe keine Zahlen bewusst erfunden. Angaben sollen eine Quelle haben oder al
 | Phase | Dauer (ca.) | Licht | PPFD (µmol/m²/s) | Temperatur an / aus | Luftfeuchte | Gießen | Dünger |
 |---|---|---|---|---|---|---|---|
 | **Keimung** | 1–7 Tage | dunkel | – | 20–25 °C | Tuch oder Erde feucht | feucht halten, nicht nass | nein |
-| **Sämling** | 2–3 Wochen | 18/6 | 100–300 | 22–25 / 18–21 °C | 65–80 % | sehr wenig, um den Stängel | vorgedüngte Erde: nein |
-| **Wachstum** | 3–8 Wochen (frei) | 18/6 | 300–600 | 22–28 / 18–22 °C | 55–70 % | gründlich, dann abtrocknen | Wachstumsdünger, erst 50 % |
+| **Sämling** | 2–3 Wochen | 18/6 | 100–300 | 22–25 / 18–21 °C | 55–80 % (sinkend) | sehr wenig, um den Stängel | vorgedüngte Erde: nein |
+| **Wachstum** | 3–8 Wochen (frei, typisch 4–8) | 18/6 | 300–600 | 22–28 / 18–22 °C | 55–70 % | gründlich, dann abtrocknen | Wachstumsdünger, erst 50 % |
 | **Frühe Blüte** (Woche 1–4) | 4 Wochen | 12/12 | 700–1.000 | 22–27 / 18–22 °C | 50–60 % | Bedarf steigt stark | Blütedünger nach Schema |
-| **Späte Blüte** (ab Woche 5) | 3–6 Wochen | 12/12 | 700–1.000 | 20–26 °C / höchstens ca. 4 °C kühler | 40–55 % | Bedarf hoch | nach Schema, zum Ende weniger |
-| **Letzte Woche** | ca. 7 Tage | 12/12 | wie oben | 20–24 °C | 40–50 % | nach Bedarf | meist nur Wasser (Schema) |
+| **Späte Blüte** (ab Woche 5) | 3–6 Wochen | 12/12 | 700–1.000 | 20–26 °C / 2–4 °C kühler, nicht unter ca. 18 °C | 45–55 %, ab ca. Woche 7 40–50 % | Bedarf hoch | nach Schema, zum Ende weniger |
+| **Letzte Woche** | ca. 7 Tage | 12/12 | wie oben | 20–24 °C | 40–50 %, höchstens 58 % | nach Bedarf | meist nur Wasser (Schema) |
 | **Trocknen** | 10–14 Tage | dunkel | – | 15–20 °C | 55–65 % | – | – |
 | **Curing** | 2–4 Wochen, besser 4–8 | dunkel | – | 15–21 °C | 58–62 % im Glas | – | – |
 
@@ -119,7 +119,7 @@ Ich habe keine Zahlen bewusst erfunden. Angaben sollen eine Quelle haben oder al
 12. **In der 12/12-Blüte ist das Zelt 12 Stunden stockdunkel.** Keine Lichtlecks, in der Dunkelphase nie öffnen ([Kapitel 6](#6-licht)).
 13. **Luftbewegung rund um die Uhr**, Abluft nie stundenlang aus.
 14. **Luftfeuchte in der Blüte niedrig**, besonders nachts und in den letzten Wochen: Grauschimmel ist der größte Feind der Ernte ([Kapitel 22](#22-krankheiten)).
-15. **Autoflowers:** nie umtopfen, nicht toppen, nicht stark entlauben.
+15. **Autoflowers:** möglichst nicht umtopfen (höchstens einmal sehr früh), nicht toppen, nicht stark entlauben.
 16. **Immer nur eine Sache ändern** und am Neuaustrieb nach 5–10 Tagen beurteilen ([Kapitel 23](#23-diagnose-was-hat-meine-pflanze)).
 17. **Täglich kurz nachsehen, wöchentlich notieren.**
 
@@ -412,7 +412,7 @@ Wer versteht, wie Cannabis wächst und blüht, trifft bessere Entscheidungen und
 - 🔧 Trockenmittelbeutel in den Behälter (eigene Ergänzung, nicht belegt).
 - 🔧 Kalten Behälter erst öffnen, wenn er Raumtemperatur hat (Kondenswasser).
 - 🔧 **Nicht einfrieren**, solange du die Samenfeuchte nicht kennst: Die Studie arbeitete mit definierten Feuchten.
-- **Abschließbar aufbewahren** (§ 10 KCanG).
+- **Vor Zugriff geschützt aufbewahren** (§ 10 KCanG), 🔧 am besten abgeschlossen.
 - **Keimrate:** 📄 Ein großer Züchter erwartet bei direkt bezogenen Samen 90–100 % Keimung, garantiert sie aber nicht. Manche Anbieter geben eine **Keimgarantie** unter Bedingungen (z. B. Foto des nicht gekeimten Samens innerhalb einer Frist).
 
 ### Reguläre Samen: Geschlecht bestimmen
@@ -463,7 +463,7 @@ Wenn du doch reguläre Samen nutzt, musst du Männchen erkennen und entfernen, *
 - **Raumtemperatur** möglichst zwischen ca. 18 und 25 °C. Dachgeschoss im Sommer und kalter Keller im Winter sind schwierig ([Kapitel 7](#7-klima-und-lüftung)).
 - **Luftfeuchte des Raums:** Die Abluft kann dem Zelt nur so viel Wasser entziehen, wie die nachströmende Raumluft aufnehmen kann (absolute Feuchte). 🧮 Beispiel: Raum 18 °C/65 %, Zelt nachts 20 °C/55 %: Dann bringt die nachströmende Luft mehr Wasserdampf herein, als die Abluft hinausträgt, die Abluft befeuchtet das Zelt.
 - **Abluftweg:** idealerweise nach draußen (Fenster, Abluftrohr) oder in einen gut gelüfteten Nebenraum. Abluft in die Wohnung bringt im Winter Wärme, aber auch viel Feuchtigkeit (Schimmelgefahr an kalten Außenwänden).
-- **Abschließbar** (§ 10 KCanG), **außer Reichweite von Kindern**.
+- **Vor Zugriff geschützt** (§ 10 KCanG), 🔧 am besten abschließbar, **außer Reichweite von Kindern**.
 - **Stromanschluss** in der Nähe, geerdete Steckdose, FI-Schutz ([Kapitel 8](#8-zelt-technik-strom-und-kosten)).
 - **Boden:** wasserfest oder mit Wanne, nicht auf kaltem Fliesenboden ohne Dämmung.
 - **Lärm:** Abluftlüfter laufen rund um die Uhr ([Kapitel 8](#8-zelt-technik-strom-und-kosten)).
@@ -537,7 +537,7 @@ Wenn du doch reguläre Samen nutzt, musst du Männchen erkennen und entfernen, *
 |---|---|---|
 | Keimung | 1–7 Tage | 1–7 Tage |
 | Sämling | 2–3 Wochen | 1–2 Wochen |
-| Wachstum | 3–8 Wochen (frei wählbar) | 2–4 Wochen (fest) |
+| Wachstum | 3–8 Wochen (frei wählbar, typisch 4–8) | 2–4 Wochen (fest) |
 | Blüte | 8–10 Wochen (7–13) | 5–8 Wochen |
 | **Samen bis Ernte** | **ca. 3–5 Monate** (sehr lange Sorten mehr) | **ca. 8–15 Wochen** (Züchter meist 10–12) |
 | Trocknen | 10–14 Tage | 10–14 Tage |
@@ -721,7 +721,7 @@ Wenn du doch reguläre Samen nutzt, musst du Männchen erkennen und entfernen, *
 |---|---|---|
 | gebleichte, weiß-gelbe Spitzen direkt unter der Lampe | zu viel Licht oder zu schnell gesteigert | eine Stufe dimmen oder höher hängen, **nicht** mehr düngen |
 | Blätter wölben sich nach oben („Taco“) | Licht plus Blatthitze, zu hohes VPD | höher hängen, Klima prüfen |
-| Bleiche trotz „sicherer“ PPFD | Blatttemperatur oder VPD außerhalb des Bereichs | erst Klima korrigieren |
+| Ausbleichen trotz „sicherer“ PPFD | Blatttemperatur oder VPD außerhalb des Bereichs | erst Klima korrigieren |
 | lang, blass, große Abstände zwischen den Nodien | zu wenig Licht | tiefer hängen oder heller |
 | verbrannte Spitzen, obwohl die PPFD passt | Strahlungswärme (v. a. HPS) | höher hängen |
 | Blüte stockt, neue Blätter wie im Wachstum | Lichtleck, Timerfehler | abdichten, Timer prüfen |
@@ -750,11 +750,11 @@ Gemessen **auf Pflanzenhöhe, im Schatten**, nicht an der Zeltwand und nicht im 
 | Phase | Licht an | Licht aus | Luftfeuchte (RLF) | VPD-Richtwert |
 |---|---|---|---|---|
 | Keimung | 20–25 °C | 20–25 °C | – (Tuch/Erde feucht) | – |
-| Sämling, Stecklinge | 22–25 °C | ca. 18–21 °C | 65–80 % | 0,4–0,8 kPa |
+| Sämling, Stecklinge | 22–25 °C | ca. 18–21 °C | 55–80 % (von Woche 1 bis 3 sinkend) | 0,4–1,0 kPa |
 | Wachstum | 22–28 °C (ideal ca. 24–26) | 18–22 °C | 55–70 % | 0,8–1,2 kPa |
 | Frühe Blüte (Woche 1–4) | 22–27 °C | 18–22 °C | 50–60 % | 1,0–1,4 kPa |
 | Späte Blüte (ab Woche 5) | 20–26 °C | 2–4 °C kühler als bei Licht an, nicht unter ca. 18 °C | 45–55 %, nachts höchstens ca. 60 % | 1,2–1,6 kPa |
-| Letzte 1–2 Wochen | 20–24 °C | wie späte Blüte | 40–50 %, **58 % als harte Obergrenze** | – |
+| Ab ca. Blütewoche 7 bis Ernte | 20–24 °C | wie späte Blüte | 40–50 %, **58 % als harte Obergrenze** | – |
 | Trocknen | 15–20 °C | – | 55–65 % | – |
 | Curing (im Glas) | 15–21 °C | – | 58–62 % | – |
 
@@ -763,7 +763,7 @@ Gemessen **auf Pflanzenhöhe, im Schatten**, nicht an der Zeltwand und nicht im 
 - 🔧 **Über ca. 30 °C** wird es für die meisten Pflanzen Stress. Viele LED-Lampen haben außerdem eine maximale Betriebstemperatur (z. B. 35 °C bei der Spider-Farmer-SE-Serie ✅). Handbuch deiner Lampe lesen.
 - **Unter ca. 15–16 °C** wächst Cannabis deutlich langsamer. 🔧
 - **Tag-Nacht-Unterschied:** 📄 Die White Papers empfehlen eine moderate Nachtabsenkung von 2–4 °C (nach Myster & Moe 1995); eine Praxisquelle toleriert im Wachstum bis ca. 6–8 °C, in der späten Blüte nur 2–4 °C. 🔧 Mein Kompromiss: im Wachstum höchstens ca. 5 °C, **in der späten Blüte 2–4 °C**. Grund siehe nächster Abschnitt.
-- **In der Blüte nachts höchstens ca. 60 % Luftfeuchte, in der späten Blüte 45–55 %.** 📄 Grauschimmel braucht über ca. 70 % Luftfeuchte, ca. 17–24 °C, freies Wasser und stehende Luft (Punja u. a. 2025). Im dichten Bestand ist es 15–25 % feuchter als am Sensor (Zhang u. a. 2020), deshalb 🔧 diese Sicherheitsreserve.
+- **In der Blüte nachts höchstens ca. 60 % Luftfeuchte, ab Woche 5 45–55 %, ab ca. Woche 7 40–50 % mit 58 % als harter Obergrenze (auch nachts).** 📄 Grauschimmel braucht über ca. 70 % Luftfeuchte, ca. 17–24 °C, freies Wasser und stehende Luft (Punja u. a. 2025). Im dichten Bestand ist es um ca. 15–25 Prozentpunkte feuchter als am Sensor (Zhang u. a. 2020, Gewächshausstudie, zitiert in den White Papers), deshalb 🔧 diese Sicherheitsreserve.
 
 ### Warum die Luftfeuchte nachts steigt
 
@@ -780,7 +780,7 @@ Warme Luft kann mehr Wasserdampf aufnehmen als kalte. Kühlt die Luft beim Wechs
 
 📄 Die White Papers nennen die Zeit direkt nach „Licht aus“ **die gefährlichste Stunde des Tages**: Ohne Gegenmaßnahmen kann die Luftfeuchte innerhalb einer Stunde auf über 85 % steigen, und an kalten Flächen bildet sich Kondenswasser. **Deshalb:** kleiner Temperaturunterschied, Abluft in der Dunkelphase **nicht abschalten**, sondern nur langsamer laufen lassen.
 
-📄 **Im Blätterdach ist es feuchter** als in der Zeltluft: In einer Gewächshausstudie (Zhang u. a. 2020) lag die Luftfeuchte im Bestand ca. 15–25 % höher als in der Umgebung. Dichte Pflanzen brauchen deshalb Luftbewegung **durch** das Blätterdach.
+📄 **Im Blätterdach ist es feuchter** als in der Zeltluft: In einer Gewächshausstudie (Zhang u. a. 2020) lag die Luftfeuchte im Bestand ca. 15–25 % höher als in der Umgebung (die White Papers meinen damit Prozentpunkte: 60 % im Raum können über 80 % in den Blüten bedeuten). Dichte Pflanzen brauchen deshalb Luftbewegung **durch** das Blätterdach.
 
 ### VPD (Dampfdruckdefizit) verstehen
 
@@ -928,7 +928,7 @@ Ein Growzelt ist ein lichtdichter Stoffkasten mit reflektierender Innenseite, Ge
 | **Öffnungen passend zum Lüfter** (100, 125 oder 150 mm) | Lüfter, Filter, Schlauch und Öffnung müssen zusammenpassen |
 | **Höhe** | Photoperioden strecken sich stark. 🔧 Für Photoperioden möglichst 180–200 cm, für kleine Autos reichen 140–160 cm. |
 | **Bodenwanne** | fängt Wasser auf |
-| **Abschließbare Reißverschlüsse** (oder Schloss nachrüsten) | § 10 KCanG: Schutz vor Zugriff, besonders durch Kinder |
+| **Abschließbare Reißverschlüsse** (oder Schloss nachrüsten) | 🔧 naheliegende Maßnahme für § 10 KCanG (Schutz vor Zugriff, besonders durch Kinder und Jugendliche; ein Schloss schreibt das Gesetz nicht vor) |
 | **Innenmaß ≠ Nennmaß** | 🔧 immer nachmessen |
 
 **Welche Größe?** Das hängt von Pflanzenzahl, Pflanzentyp und Raum ab. Siehe [Kapitel 5](#5-planung-ort-größe-zeit-und-budget) (Planungstabelle) und [Kapitel 6](#6-licht) (passende Lampe).
@@ -1006,7 +1006,7 @@ Ein Growzelt ist ein lichtdichter Stoffkasten mit reflektierender Innenseite, Ge
 **FI-Schutzschalter (Fehlerstrom-Schutzschalter, RCD):**
 - 📄 **Typ A mit höchstens 30 mA** ist der Standard für Wohngebäude und dient dem Personenschutz. Laut einer Sekundärquelle ist er für Steckdosenstromkreise bis 32 A in Neuanlagen seit 2018 vorgeschrieben (Norm DIN VDE 0100-410, Normtext nicht eingesehen).
 - Im Sicherungskasten nachsehen: Schalter mit **Prüftaste** und Aufschrift „30 mA“.
-- **Altbauten haben oft keinen FI.** 🔧 Dann eine **Elektrofachkraft** fragen oder einen **FI-Zwischenstecker** (PRCD) verwenden. Arbeiten an der festen Installation nur durch Fachleute.
+- **Altbauten haben oft keinen FI.** 🔧 Dann eine **Elektrofachkraft** fragen. Als Übergangslösung gibt es **FI-Zwischenstecker** (PRCD); dazu habe ich keine Quelle geprüft. Arbeiten an der festen Installation nur durch Fachleute.
 
 **🔧 Allgemeine Regeln** (verbreitete Elektro-Sicherheitspraxis):
 - Steckdosenleisten **hoch am Gestänge oder außerhalb des Zelts**, nie auf dem Boden, wo Wasser hinläuft.
@@ -1168,7 +1168,7 @@ Das Medium (Substrat) hält die Wurzeln, speichert Wasser und Luft und puffert F
 | Phase | Wie gießen | Menge (Orientierung) | Wie oft (Orientierung) |
 |---|---|---|---|
 | **Keimung** | Tuch oder Erde feucht halten, Sprühflasche | ein paar Sprühstöße | bei Bedarf |
-| **Sämling im großen Topf** | nur im **Umkreis von 5–10 cm um den Stängel** | ca. 50–250 ml, langsam steigend | wenn die Oberfläche angetrocknet ist, oft alle 2–4 Tage |
+| **Sämling im großen Topf** | nur in einem **Ring wenige cm um den Stängel** 📄 | keine belegte Menge; nur so viel, dass die oberen Zentimeter rund um den Stängel feucht werden 🔧 | wenn die Oberfläche angetrocknet ist, oft alle 2–4 Tage |
 | **Sämling im kleinen Topf** (0,5–1 L) | bis der Topf gleichmäßig feucht ist | ca. 0,1–0,3 L | wenn der Topf leicht ist |
 | **Wachstum** (Wurzeln füllen den Topf) | langsam in mehreren Durchgängen, **bis ca. 10–20 % unten herauslaufen** | ca. **25–30 % des Topfvolumens** | oft alle 2–4 Tage |
 | **Blüte** | wie Wachstum | wie Wachstum | oft alle 1–3 Tage |
@@ -1325,7 +1325,7 @@ Genaueres zu den Medien steht in [Kapitel 9](#9-anbaumedien-und-töpfe).
 **Allgemein gilt bei allen Schemata:**
 - ✅ Sie sind laut den Herstellern selbst **Empfehlungen, kein Gesetz** („aren't an iron law“, CANNA; „recommendations only“, GH).
 - 🔧 **Einsteiger beginnen mit ca. 50 % der angegebenen Dosis** und steigern, wenn die Pflanze gesund und sattgrün bleibt.
-- 🔧 **Autoflowers:** Kein Hersteller nennt eine eigene Dosierung. 📄 Hobbyquellen raten zu 50–80 % des Schemas.
+- **Autoflowers:** ✅ In den Düngeschemata, die ich gelesen habe, steht keine eigene Autoflower-Dosierung. 📄 Hobbyquellen raten zu 50–80 % des Schemas.
 - ✅ Längere Wachstums- oder Blütephase: CANNA (Ausgabe V25.01) und Advanced Nutrients empfehlen, die passende Woche **zu wiederholen**.
 
 #### BioBizz 2026, torffrei (organisch, Erde) ✅
@@ -1590,7 +1590,7 @@ Ein Samen ist eine ruhende, fertig angelegte Pflanze. Im Inneren liegen die Keim
 - **Blasse Samen** können trotzdem keimen, geben laut Sekundärliteratur aber oft schwächere Pflanzen 📄.
 - **Lagerung übriger Samen:** 📄 kühl, dunkel und trocken, z. B. in einem luftdicht verschlossenen Behälter im Kühlschrank. 🔧 Ein Päckchen Trockenmittel (Silicagel) im Behälter und das Datum auf dem Etikett helfen. Den kalten Behälter erst öffnen, wenn er Raumtemperatur hat, sonst schlägt sich Feuchtigkeit auf den Samen nieder.
 - **Samen gehören schon vor der Keimung außer Reichweite von Kindern und Dritten** (§ 10 KCanG, siehe [Kapitel 2](#2-rechtliches-in-deutschland)).
-- 🔧 **Ein, zwei Ersatzsamen einplanen.** Auch bei guten Samen keimt nicht jeder. Bei frischen feminisierten Samen guter Qualität nennt die Sekundärliteratur oft über 90 % Keimrate 📄. Beachte beim Nachlegen die Pflanzenzahl (höchstens 3 gleichzeitig je Erwachsenem).
+- 🔧 **Ein, zwei Ersatzsamen bereithalten.** Auch bei guten Samen keimt nicht jeder. Bei frischen feminisierten Samen guter Qualität nennt die Sekundärliteratur oft über 90 % Keimrate 📄. **Pflanze nie mehr gekeimte Samen ein, als du freie Plätze bis 3 hast** ([Kapitel 2](#2-rechtliches-in-deutschland)). Ob ein gekeimter Samen im Küchentuch schon zählt, ist ungeklärt. Am sichersten keimst du einen Ersatzsamen erst, wenn einer ausgefallen ist.
 
 ### Die richtigen Bedingungen
 
@@ -1598,7 +1598,7 @@ Ein Samen ist eine ruhende, fertig angelegte Pflanze. Im Inneren liegen die Keim
 |---|---|---|
 | **Temperatur** | **20–25 °C, möglichst gleichmäßig** | 📄 Züchter nennen 20–25 °C (Sensi ca. 21 °C, RQS und Dutch Passion 20–25 °C), die White Papers 21–25 °C. |
 | Zu kalt | Kälte macht die Keimung deutlich langsamer und unzuverlässiger. 🔧 Unter ca. 18 °C lohnt eine Heizmatte mit Thermostat. | 📄 Die Studienlage ist uneinheitlich und stammt von Nutz- und Wildhanf: In einer Abschlussarbeit (Byrd, Virginia Tech) keimten Samen unter 10 °C auch nach über 20 Tagen nicht, in einer Studie mit Wildformen (Dumani u. a. 2024) keimten bei 10 °C in 14 Tagen noch ca. 68 %. Beides nur aus Sekundärquellen. |
-| Zu warm | über ca. 28 °C vermeiden | 🔧 Abgeleitet, keine Quelle nennt eine feste Obergrenze. In einer Nutzhanf-Studie (Geneve u. a. 2022) keimten die Samen bei ca. 29,6 °C am **schnellsten** 📄. Das ist aber ein Wert für die Geschwindigkeit, kein Zielwert: Schwankungen und Hitze gelten als häufige Ursache für Ausfälle. |
+| Zu warm | über ca. 28 °C vermeiden | 📄 Die White Papers raten, über ca. 28 °C zu vermeiden, und nennen Schwankungen und Hitze als häufige Ursache für Ausfälle. In einer Nutzhanf-Studie (Geneve u. a. 2022) keimten die Samen bei ca. 29,6 °C am **schnellsten** 📄. Das ist ein Wert für die Geschwindigkeit, kein Zielwert. |
 | **Feuchtigkeit** | feucht wie ein **ausgewrungener Schwamm**, kein stehendes Wasser | 📄 Dutch Passion berichtet von einem Versuch: 15 von 15 leicht angefeuchteten Samen keimten, von 15 nass liegenden überlebten nur 3 knapp (nicht im Original geprüft). |
 | Licht | dunkel oder dämmrig | 📄 |
 | Luft | Der Samen braucht Sauerstoff. Nicht in einem luftdichten Beutel ohne Luftraum „ersticken“ lassen. | 🔧 |
@@ -1610,8 +1610,8 @@ Ein Samen ist eine ruhende, fertig angelegte Pflanze. Im Inneren liegen die Keim
 | Methode | So geht's | Vorteile | Nachteile |
 |---|---|---|---|
 | **Küchentuch** (am häufigsten) | 2–3 Lagen Küchenpapier anfeuchten, überschüssiges Wasser abtropfen lassen, Samen mit Abstand darauflegen, mit feuchtem Papier bedecken, zwischen zwei umgedrehte Teller oder in eine Dose mit Deckel legen | Man sieht die Keimwurzel und weiß genau, wann man einpflanzen muss | Beim Umsetzen kann die zarte Wurzel brechen. Das Tuch kann austrocknen. |
-| **Direkt ins Substrat** | Samen ca. 0,5–1 cm tief in feuchte Erde oder Anzuchterde legen, locker bedecken | Kein Umsetzen, keine Wurzelverletzung | Man sieht nicht, was passiert. Zu nasse Erde lässt den Samen faulen. |
-| **Wasserglas (Vorquellen)** | Samen 12–24 Stunden in zimmerwarmem Wasser liegen lassen, danach ins Tuch oder direkt ins Substrat | Weicht harte oder alte Schalen auf | Nicht tagelang im Wasser lassen: Der Samen braucht Sauerstoff. 🔧 |
+| **Direkt ins Substrat** | Samen ca. 1–1,5 cm tief (📄 White Papers; in deren Fehlertabelle 0,5–1,5 cm) in feuchte Erde oder Anzuchterde legen, locker bedecken | Kein Umsetzen, keine Wurzelverletzung | Man sieht nicht, was passiert. Zu nasse Erde lässt den Samen faulen. |
+| **Wasserglas (Vorquellen)** | Samen 12–24 Stunden in zimmerwarmem Wasser liegen lassen, danach ins Tuch oder direkt ins Substrat | Weicht harte oder alte Schalen auf | 🔧 Nicht tagelang im Wasser lassen, der Samen braucht Sauerstoff (📄 White Papers: 12–24 Stunden). 📄 Ein Züchter (Bud Voyage) nennt für seine Wasserglas-Methode dagegen 2–10 Tage bis zur Keimung (nur Suchauszug; ob die Samen so lange im Wasser bleiben, geht daraus nicht hervor). |
 | Anzuchtwürfel (Steinwolle, Torf/Kokos-Quelltabs) | Würfel nach Herstellerangabe vorbereiten, Samen hineinlegen | Leicht umzusetzen, gut für Kokos oder Hydro | Steinwolle muss vorbereitet werden (pH), sonst eher für Fortgeschrittene 🔧 |
 
 📄 Quellen: Züchteranleitungen (Sensi Seeds, Royal Queen Seeds, Dutch Passion), White Papers „Seeds and germination“. Die Züchterseiten konnte ich nur als Suchauszug lesen.
@@ -1628,15 +1628,15 @@ Ein Samen ist eine ruhende, fertig angelegte Pflanze. Im Inneren liegen die Keim
 
 ### Wie lange dauert es?
 
-- **Meist 1–3 Tage (24–72 Stunden)** bis die Keimwurzel sichtbar ist. 📄
+- **Meist 1–3 Tage (24–72 Stunden)**, bis die Keimwurzel sichtbar ist. 📄
 - **Manche Samen brauchen bis zu ca. 7 Tage**, laut Sensi selten bis zu 14 Tage. 📄
 - 🔧 **Nach ca. 10 Tagen ohne Keimwurzel** sind die Chancen gering. Gibt es eine Keimgarantie, dann die Bedingungen des Händlers lesen (oft Foto nötig) und den Samen nicht wegwerfen.
 
 ### Wann und wie einpflanzen?
 
-1. **Wann:** Wenn die Keimwurzel **ca. 0,5–2 cm** lang ist 📄 (Sensi „wenige mm“, RQS 1–2 cm, White Papers 0,5–1,5 cm). Nicht zu lange warten: Die feinen Wurzelhärchen brechen leicht, und die Wurzel kann ins Papier wachsen.
+1. **Wann:** Wenn die Keimwurzel **ca. 0,5–2 cm** lang ist 📄 (Sensi „wenige mm“, RQS 1–2 cm, White Papers 0,5–1,5 cm). Nicht zu lange warten: Die feinen Wurzelhärchen brechen leicht (📄 RQS). 🔧 Außerdem kann die Wurzel ins Papier einwachsen (verbreitete Beobachtung, keine Quelle gefunden).
 2. **Topf vorbereiten:** Substrat einfüllen und **gleichmäßig anfeuchten**, sodass es sich überall wie ein ausgedrückter Schwamm anfühlt. Nicht literweise durchgießen. 🔧
-3. **Loch ca. 0,5–1 cm tief** stechen (Sensi 2–5 mm, RQS 3–5 mm, White Papers bei Direktsaat 1–1,5 cm) 📄.
+3. **Loch ca. 0,3–0,5 cm tief** stechen, höchstens ca. 1 cm (📄 für vorgekeimte Samen: Sensi 2–5 mm, RQS 3–5 mm, Bud Voyage ca. 0,5 cm).
 4. Samen mit **Pinzette oder sauberen Fingern an der Schale** fassen, **Wurzel nach unten** ins Loch legen.
 5. **Locker bedecken, nicht festdrücken.** Mit der Sprühflasche leicht anfeuchten.
 6. **Licht an, sobald der Keimling die Erde durchbricht.** Sonst wird er lang und dünn ([Kapitel 14](#14-sämlingsphase)).
@@ -1645,7 +1645,7 @@ Ein Samen ist eine ruhende, fertig angelegte Pflanze. Im Inneren liegen die Keim
 
 | Pflanzentyp | Empfehlung | Quelle |
 |---|---|---|
-| **Autoflower** | **direkt in den Endtopf** | 📄 Züchter (Sensi, Dutch Passion). Ein Gewächshausversuch (Bhattacharya & Zittel 2023, Fachzeitschrift) fand: Umsetzen aus kleinen 40-ml-Anzuchtzellen in ca. 11-L-Töpfe an Tag 8 oder 15 schadete nicht, an Tag 22 blieben zwei von drei Sorten nur etwa halb so hoch. Wenn umtopfen, dann nur sehr früh. |
+| **Autoflower** | **direkt in den Endtopf** | 📄 Züchter (Sensi, Dutch Passion). Ein Gewächshausversuch mit drei **CBD-Hanf**-Autoflower-Sorten (Bhattacharya & Zittel 2023, Bericht im Branchenmagazin *Cannabis Business Times*, kein Peer-Review) fand: Umsetzen aus kleinen 40-ml-Anzuchtzellen in ca. 11-L-Töpfe an Tag 8 oder 15 schadete nicht. An Tag 22 blieben zwei von drei Sorten nur etwa halb so hoch oder kleiner. Wenn umtopfen, dann nur sehr früh. |
 | **Photoperiode** | kleiner Anzuchttopf (ca. 0,25–1 L) mit Abzugslöchern, später umtopfen ([Kapitel 14](#14-sämlingsphase)). Direkt in den Endtopf geht auch, dann anfangs besonders wenig gießen. | 📄 / 🔧 |
 
 ### Was schiefgehen kann
@@ -1691,11 +1691,13 @@ Die Sämlingsphase dauert ungefähr **2–3 Wochen ab dem Auflaufen**. In dieser
 | Licht (PPFD) | 100–200 µmol/m²/s | 200–300 µmol/m²/s | 250–350 µmol/m²/s |
 | Lichtdauer | 18/6 (Photoperiode), Autos 18/6 bis 20/4 | wie Woche 1 | wie Woche 1 |
 | Dünger | keiner | vorgedüngte Erde: keiner · Kokos/Hydro: ca. 25 % Stärke (EC ca. 0,3–0,6) | vorgedüngte Erde: meist noch keiner · Kokos/Hydro: EC ca. 0,6–0,8 |
-| Gießen | sehr wenig, im Umkreis von 5–10 cm um den Stängel | wenig, Oberfläche leicht antrocknen lassen | etwas mehr, weiter sparsam |
+| Gießen | sehr wenig, im Ring wenige cm um den Stängel | wenig, Oberfläche leicht antrocknen lassen | etwas mehr, weiter sparsam |
 
 - 🧮 **DLI zur Einordnung:** 200 µmol/m²/s × 18 h × 0,0036 ≈ 13 mol/m²/Tag.
 - 📄 **Vorgedüngte Erde** (z. B. „Light Mix“-Erden) trägt einen Sämling laut Sekundärquellen oft bis Woche 3–4 ohne zusätzlichen Dünger. Die genauen Werte je Erde stehen in [Kapitel 11](#11-nährstoffe-und-düngung).
 - **Kokos und Hydro** enthalten keine Nährstoffe. Dort wird von Anfang an schwach gedüngt ([Kapitel 9](#9-anbaumedien-und-töpfe), [Kapitel 11](#11-nährstoffe-und-düngung)).
+- 📄 **Widerspruch in der Quelle:** Dieselben White Papers raten zur Vorbeugung gegen die Umfallkrankheit, die Luftfeuchte nach den ersten echten Blättern **Richtung 40–50 %** zu senken (nach University of Minnesota Extension). 🔧 Die Tabellenwerte gelten für gesunde Sämlinge bei sparsamem Gießen. Bei nasser Erde, stehender Luft oder ersten Anzeichen der Umfallkrankheit die Luftfeuchte zügig auf ca. 50 % senken.
+- 📄 **Licht in Woche 3:** Die 250–350 µmol/m²/s stammen aus dem Keimungskapitel der White Papers. Deren Lichtkapitel nennt für Sämlinge 100–250, das Spider-Farmer-Handbuch 100–300 ✅. 🔧 Steigere langsam und achte auf helle Blattspitzen ([Kapitel 6](#6-licht)).
 
 ### Licht für Sämlinge
 
@@ -1703,23 +1705,23 @@ Die Sämlingsphase dauert ungefähr **2–3 Wochen ab dem Auflaufen**. In dieser
 - **Starke Lampen hoch hängen und stark dimmen.** 📄 Zu starkes Licht aus kurzer Entfernung kann Sämlinge schädigen (Dutch Passion). Allgemeine Abstandstabellen gelten nicht für jede Lampe. Richte dich nach der Herstellerangabe deiner Lampe und nach der Pflanze ([Kapitel 6](#6-licht)).
 - **Zeichen für zu wenig Licht:** langer, dünner Stängel, großer Abstand zwischen Keimblättern und erstem Blattpaar, Pflanze kippt um.
 - **Zeichen für zu viel Licht:** Blätter hellgelb oder gebleicht, Blattränder wölben sich nach oben.
-- 🔧 **Vergeilter Sämling:** Licht etwas näher oder heller, sanfte Luftbewegung, Stängel mit einem Holzstäbchen stützen. Beim Umtopfen kann man ihn etwas tiefer setzen. Das ist verbreitete Praxis, belegen konnte ich es nicht.
+- 📄 **Vergeilter Sämling:** Licht etwas näher oder heller, beim Umtopfen den Stängel etwas tiefer setzen (White Papers, ohne Studienbeleg). 🔧 Sanfte Luftbewegung und ein Holzstäbchen als Stütze helfen zusätzlich.
 
 ### Luftfeuchte halten: die Haube
 
 Liegt die Luftfeuchte deutlich unter ca. 60 %, etwa bei trockener Heizungsluft im Winter:
 1. Einen **durchsichtigen Becher, eine abgeschnittene PET-Flasche oder eine Anzuchthaube** über den Sämling stülpen (mit kleinen Luftlöchern). 📄 Laut White Papers hält eine Haube die Zielfeuchte in den ersten 7–10 Tagen gut.
 2. Abluft auf kleinster Stufe.
-3. Nach den ersten echten Blättern die Haube **stundenweise abnehmen**, über 3–5 Tage steigern. 🔧
+3. 📄 Nach den ersten echten Blättern die Haube **stundenweise abnehmen**, z. B. am ersten Tag 2–3 Stunden, dann täglich 1–2 Stunden länger, über 3–5 Tage (Recherche-Dossier, Sekundärquelle).
 4. Kondenswasser an der Haube ist ein Zeichen, dass es zu feucht ist: öfter lüften. 🔧
 
 **Nicht zu lange drauflassen:** Dauernde Nässe fördert die Umfallkrankheit (siehe unten).
 
 ### Gießen im Sämlingsalter
 
-- **Wenig und gezielt.** Im großen Topf nur im **Umkreis von ca. 5–10 cm um den Stängel** gießen, damit die Wurzeln dem Wasser folgen und der übrige Topf nicht tagelang nass bleibt. 📄 (Sensi beschreibt Gießen im Ring)
+- **Wenig und gezielt.** Im großen Topf nur in einem **Ring wenige Zentimeter um den Stängel** gießen (📄 Sensi: „a few cm“, ein Recherche-Dossier: ca. 3 cm), damit der übrige Topf nicht tagelang nass bleibt. 🔧 Mit dem Wachstum den Ring allmählich weiter nach außen legen.
 - **Erst gießen, wenn die Oberfläche leicht angetrocknet ist.**
-- **Keine festen ml-Angaben:** Für Sämlinge habe ich keine belegten Mengen gefunden. 🔧 Als grobe Orientierung: im großen Topf anfangs etwa ein Schnapsglas bis eine Tasse (ca. 50–250 ml) rund um den Stängel, im 0,5–1-L-Topf so viel, dass der Topf gleichmäßig feucht ist, aber unten kaum etwas herausläuft.
+- **Keine festen ml-Angaben:** Für Sämlinge habe ich keine belegten Mengen gefunden. 🔧 Gieße nach Methode: im großen Topf nur so viel rund um den Stängel, dass dort die oberen Zentimeter feucht werden. Im 0,5–1-L-Topf so viel, dass der Topf gleichmäßig feucht ist, aber unten kaum etwas herausläuft. Heb den Topf vorher und nachher an, um ein Gefühl für das Gewicht zu bekommen.
 - **Nicht im Wasser stehen lassen.** Untersetzer nach ca. 15–30 Minuten leeren. 🔧
 
 ### Die Umfallkrankheit (Damping-off)
@@ -1734,12 +1736,12 @@ Liegt die Luftfeuchte deutlich unter ca. 60 %, etwa bei trockener Heizungsluft i
 - frische, saubere Erde (keine gebrauchte Erde aus alten Töpfen)
 - sparsam gießen
 - sanfte Luftbewegung
-- Haube nicht zu lange drauflassen, **nach den ersten echten Blättern die Luftfeuchte senken**
+- Haube nicht zu lange drauflassen, **nach den ersten echten Blättern die Luftfeuchte senken** (📄 Richtung 40–50 %)
 - saubere Töpfe und Werkzeuge
 
 ### Umtopfen (nur Photoperioden)
 
-**Warum überhaupt in Stufen?** 🔧/📄 Ein kleiner Wurzelballen in einem riesigen Topf kann nur einen kleinen Teil des Wassers aufnehmen. Der Rest der Erde bleibt tagelang nass: Sauerstoffmangel an den Wurzeln, Trauermücken, Wurzelfäule. Growers nennen das „Overpotting“. Stofftöpfe sind hier gutmütiger, weil sie schneller abtrocknen.
+**Warum überhaupt in Stufen?** 🔧/📄 Ein kleiner Wurzelballen in einem riesigen Topf kann nur einen kleinen Teil des Wassers aufnehmen. Der Rest der Erde bleibt tagelang nass: Sauerstoffmangel an den Wurzeln, Trauermücken, Wurzelfäule. Grower nennen das „Overpotting“. Stofftöpfe sind hier gutmütiger, weil sie schneller abtrocknen.
 
 **Topfgröße bestimmt das Wachstum mit.** 📄 Eine Meta-Analyse von 65 Topfgrößen-Versuchen an verschiedenen Pflanzen (Poorter u. a. 2012) fand: Eine Verdopplung des Topfvolumens brachte im Mittel ca. 43 % mehr Pflanzenmasse. Zu kleine Töpfe bremsen also, lange bevor man Wurzeln sieht.
 
@@ -1747,14 +1749,14 @@ Liegt die Luftfeuchte deutlich unter ca. 60 %, etwa bei trockener Heizungsluft i
 
 | Stufe | Topf | Dauer (ca.) | Umtopfen, wenn … |
 |---|---|---|---|
-| Anzucht | Anzuchtwürfel oder -topf, 25–250 ml | 10–14 Tage | Wurzeln an mehreren Seiten sichtbar |
+| Anzucht | Anzuchtwürfel oder -topf, ca. 25–100 ml (📄 White Papers; Dutch Passion nennt mindestens 0,25 L) | 10–14 Tage | Wurzeln an mehreren Seiten sichtbar |
 | Frühes Wachstum | 0,5–1 L | 1–2 Wochen | der Ballen ganz herausrutscht und weiße Wurzelspitzen am Rand zeigt |
 | Wachstum | 4–7 L | 1–2 Wochen | der Topf täglich austrocknet |
 | Endtopf (indoor) | 11–19 L, teils mehr ([Kapitel 9](#9-anbaumedien-und-töpfe)) | bis zur Ernte | – |
 
 Viele Grower lassen die mittlere Stufe weg (0,5–1 L → Endtopf). Das geht, wenn du im großen Topf anfangs nur um den Ballen herum gießt. 🔧
 
-**Wann ist es Zeit?** (📄 White Papers, Royal Queen Seeds) Achte auf **mindestens zwei** dieser Zeichen:
+**Wann ist es Zeit?** (📄 White Papers, Royal Queen Seeds; sortiert nach Verlässlichkeit) 🔧 Verlass dich möglichst auf **mindestens zwei** dieser Zeichen:
 1. Der Topf, der vorher 2–3 Tage feucht blieb, ist **nach einem Tag leicht**.
 2. **Ballen-Test:** Topf kippen, Stängel zwischen zwei Fingern halten, Ballen herausgleiten lassen. **Bereit:** Er bleibt ganz, weiße Wurzelspitzen am Rand. **Zu früh:** Erde bröselt ab. **Zu spät:** braune, im Kreis laufende Wurzelmatte.
 3. **Wurzelspitzen an den Abzugslöchern.** Wächst schon eine Wurzelmatte heraus, bist du spät dran.
@@ -1775,7 +1777,7 @@ Viele Grower lassen die mittlere Stufe weg (0,5–1 L → Endtopf). Das geht, we
 
 📄 Die White Papers empfehlen, gegen Ende der Lichtphase oder unter gedimmtem Licht umzutopfen, weil die Pflanze dann weniger Wasser verdunstet. Das ist Praxiskonvention, nicht belegt.
 
-**Autoflowers nicht umtopfen** (siehe [Kapitel 13](#13-keimung) und [Kapitel 17](#17-autoflowers)).
+**Autoflowers möglichst nicht umtopfen:** direkt in den Endtopf oder, wenn es sein muss, nur einmal und sehr früh (spätestens ca. Tag 15; siehe [Kapitel 13](#13-keimung) und [Kapitel 17](#17-autoflowers)).
 
 ---
 
@@ -1788,7 +1790,7 @@ In der **vegetativen Phase** baut die Pflanze Blätter, Stängel und Wurzeln auf
 📄 (White Papers, SecretLeaf-Dossier)
 - Die Pflanze bildet **zügig neue Nodien** und immer größere Blätter mit 5–7 (bis 9) Fingern.
 - Das Wurzelwerk durchzieht den Topf, der Wasserbedarf steigt deutlich.
-- Ab ca. Woche 3–6 erscheinen einzelne **Vorblüten** in den Blattachseln der oberen Nodien. Daran erkennst du bei regulären Samen das Geschlecht ([Kapitel 4](#4-samen-genetik-und-sortenwahl)).
+- 📄 Ab ca. Woche 3–6 **der Wachstumsphase** (Quellen uneinig: 3–4 bzw. 4–6) erscheinen einzelne **Vorblüten** in den Blattachseln der oberen Nodien. Daran erkennst du bei regulären Samen das Geschlecht ([Kapitel 4](#4-samen-genetik-und-sortenwahl)).
 
 ### Bedingungen
 
@@ -1817,11 +1819,11 @@ In der **vegetativen Phase** baut die Pflanze Blätter, Stängel und Wurzeln auf
 | Woche ab Auflaufen | Was passiert | Was du tust |
 |---|---|---|
 | 1–2 | Sämling ([Kapitel 14](#14-sämlingsphase)) | wenig gießen, kein Dünger (vorgedüngte Erde), Licht sanft |
-| 3 | 3–4 Nodien, Wachstum zieht an | **LST beginnen** ([Kapitel 18](#18-pflanzentraining)), Dünger mit halber Dosis |
+| 3 | 3–4 Nodien, Wachstum zieht an | **LST beginnen** ([Kapitel 18](#18-pflanzentraining)). Dünger: in vorgedüngter Erde erst, wenn die Pflanze aufhellt (meist ab Woche 3–4), dann mit halber Dosis; in Kokos/Hydro nach Schema steigern |
 | 3–4 | Wurzeln füllen den kleinen Topf | **umtopfen** in den Endtopf (oder Zwischentopf) |
-| 4–6 | 4–6 Nodien | **optional Topping**, LST fortsetzen, Dünger auf volle Dosis |
-| 5–7 | Pflanze füllt ihre Fläche | **ScrOG-Netz** einziehen, falls geplant; Triebe einflechten |
-| letzte 1–2 Wochen vor dem Umschalten | – | **letztes Topping spätestens 10–14 Tage vorher**, letztes Umtopfen 7–14 Tage vorher, Lollipopping kurz vor oder nach dem Umschalten, **Lichtdichtheit testen** |
+| 4–6 | 4–6 Nodien | **optional Topping**, LST fortsetzen, **ScrOG-Netz** einziehen, falls geplant ([Kapitel 18](#18-pflanzentraining)), Dünger auf volle Dosis |
+| 5–7 | Pflanze füllt ihre Fläche | Triebe einflechten; umschalten, wenn das Netz zu ca. 70–80 % (📄 Praxisanleitung) bzw. die Fläche zu 80–90 % (📄 White Papers) gefüllt ist |
+| letzte 1–2 Wochen vor dem Umschalten | – | **letztes Topping spätestens 10–14 Tage vorher**, letztes Umtopfen 📄 7–14 Tage vorher (White Papers; ein anderes Dossier nennt mindestens 14 Tage) und immer **vor** dem Einziehen eines Netzes, Lollipopping kurz vor oder nach dem Umschalten, **Lichtdichtheit testen** |
 
 ### Checkliste vor dem Umschalten auf 12/12
 
@@ -1838,20 +1840,20 @@ In der **vegetativen Phase** baut die Pflanze Blätter, Stängel und Wurzeln auf
 
 - Nur die **Aus-Zeit** vorverlegen (z. B. von 12:00 auf 06:00), die An-Zeit bleibt ([Kapitel 6](#6-licht)).
 - 📄 **Ab jetzt ist die Dunkelphase heilig**: Zelt in der Dunkelphase nicht öffnen.
-- 📄 Die Tagesdosis Licht sinkt um ein Drittel. Intensität schrittweise nachziehen.
-- 🔧 **Höhe am Umschalttag messen und notieren**, und nochmal an Blütetag 21. So kennst du den Streckfaktor deiner Sorte.
+- 🧮 Bei gleicher Intensität sinkt die Tagesdosis Licht um ein Drittel (12 statt 18 Stunden). Intensität schrittweise nachziehen.
+- 📄 **Höhe am Umschalttag messen und notieren**, und nochmal an Blütetag 21 (Tipp der White Papers). So kennst du den Streckfaktor deiner Sorte.
 
 ### Autoflowers in der Wachstumsphase
 
-Siehe [Kapitel 17](#17-autoflowers). Kurz: ca. 2–4 Wochen, nicht verlängerbar, **nur sanftes LST**, kein Umtopfen, kein Topping.
+Siehe [Kapitel 17](#17-autoflowers). Kurz: ca. 2–4 Wochen, nicht verlängerbar, **nur sanftes LST**, kein Umtopfen (höchstens einmal sehr früh), kein Topping.
 
 ---
 
 ## 16. Blütephase Woche für Woche
 
-Bei Photoperioden beginnt die Blüte mit dem **Umschalten auf 12/12**. 📄 Sie dauert bei typischen Hybriden **8–10 Wochen**, bei Indica-lastigen Sorten 7–8, bei langen Sativa-Typen 11–13 Wochen (White Papers, zitiert Hesami 2023). **Die Pflanze sagt dir, in welcher Woche sie ist**, nicht der Kalender.
+Bei Photoperioden beginnt die Blüte mit dem **Umschalten auf 12/12**. 📄 Sie dauert bei typischen Hybriden **8–10 Wochen**, bei reinen Indica-Typen 7–8, bei langen Sativa-Typen 11–13 Wochen (White Papers, zitiert Hesami 2023; die Etiketten sind nur grobe Anhaltspunkte, siehe [Kapitel 4](#4-samen-genetik-und-sortenwahl)). **Die Pflanze sagt dir, in welcher Woche sie ist**, nicht der Kalender.
 
-In diesem Kapitel zählt **„Blütewoche 1“ ab dem ersten 12/12-Tag**. Bei Autoflowers zählt man meist ab den ersten Blütenhärchen ([Kapitel 17](#17-autoflowers)).
+In diesem Kapitel zählt **„Blütewoche 1“ ab dem ersten 12/12-Tag**. 🔧 Bei Autoflowers zähle ich die Blütewochen ab den ersten Blütenhärchen; eine einheitliche Konvention habe ich nicht gefunden ([Kapitel 17](#17-autoflowers)).
 
 ### Der Blüteverlauf
 
@@ -1869,9 +1871,9 @@ In diesem Kapitel zählt **„Blütewoche 1“ ab dem ersten 12/12-Tag**. Bei Au
 | Blütewoche | Licht an | Licht aus | Luftfeuchte | PPFD |
 |---|---|---|---|---|
 | 1–2 | 22–27 °C | 18–22 °C | 50–60 % | schrittweise auf 700–900 (Hersteller bis 1.000) |
-| 3–4 | 22–26 °C | 18–22 °C | 50–55 % | 700–1.000 |
-| 5–7 | 20–26 °C | höchstens ca. 4 °C kühler, nicht unter 18 °C | 45–55 % | 700–1.000 |
-| ab 8 | 20–24 °C | wie oben | 40–50 %, **höchstens 55–58 %** | wie oben |
+| 3–4 | 22–27 °C | 18–22 °C | 50–55 % | 700–1.000 |
+| 5–6 | 20–26 °C | 2–4 °C kühler als bei Licht an, nicht unter ca. 18 °C | 45–55 %, nachts höchstens ca. 60 % | 700–1.000 |
+| ab 7 bis Ernte | 20–24 °C | wie oben | 40–50 % (📄 White Papers: ab Woche 7), **58 % als harte Obergrenze** | wie oben |
 
 📄 **Zum Vergleich** die White Papers („Flowering stages“) für **kommerzielle** Räume (Kokos, Tropfbewässerung, teils CO₂): Tag 26–28 °C, Nacht 21–24 °C, Luftfeuchte Woche 1 65–70 % → Woche 4 58–62 % → Mast 55–62 % → Reife 40–50 %, PPFD 800–1.100. Ein Faktencheck der White Papers hat ältere, zu hohe Feuchteangaben für die späte Blüte ausdrücklich korrigiert. **Für den Heimanbau mit Schimmelrisiko ist die vorsichtigere Tabelle oben sicherer.**
 
@@ -1879,7 +1881,7 @@ In diesem Kapitel zählt **„Blütewoche 1“ ab dem ersten 12/12-Tag**. Bei Au
 
 - 📄 Übliche Streckfaktoren: **kompakte/Indica-lastige Sorten ca. ×1,5, typische Hybriden ca. ×2, Sativa-lastige ×2,5 und mehr** (Branchenkonvention, keine Studie). Auch Spektrum, Temperatur und Topping beeinflussen die Streckung.
 - **Regel:** maximale Umschalthöhe = nutzbare Höhe ÷ Streckfaktor. **Unbekannte Sorte → ×2**, also bei der Hälfte der verfügbaren Höhe umschalten ([Kapitel 5](#5-planung-ort-größe-zeit-und-budget)).
-- 🔧 **Wird es trotzdem zu hoch:** Triebe waagerecht binden (LST), im Netz einflechten, einzelne Spitzen notfalls supercroppen (nur in der frühen Streckphase, mit Vorsicht), Lampe so hoch wie möglich, Topf tiefer stellen (z. B. Untersetzer statt Podest). **Nicht** die Lampe näher als den Mindestabstand an die Spitzen lassen.
+- 🔧 **Wird es trotzdem zu hoch:** Triebe waagerecht binden (LST), im Netz einflechten, Lampe so hoch wie möglich, Topf tiefer stellen (z. B. Untersetzer statt Podest). Supercropping in der Streckphase ist umstritten (📄 Quellen uneinig) und nur etwas für Fortgeschrittene ([Kapitel 18](#18-pflanzentraining)). **Nicht** die Lampe näher als den Mindestabstand an die Spitzen lassen.
 
 ### Wasser und Dünger in der Blüte
 
@@ -1895,7 +1897,7 @@ In diesem Kapitel zählt **„Blütewoche 1“ ab dem ersten 12/12-Tag**. Bei Au
 |---|---|
 | Lichtlecks in der Dunkelphase | abdichten, Anzeigen abkleben; 📄 starke oder wiederholte Unterbrechungen können die Blüte stören |
 | zu spät oder zu stark entlaubt | nach Woche 3–4 keine größeren Eingriffe; Blätter sind die „Zuckerfabrik“ |
-| Luftfeuchte in der späten Blüte zu hoch | 40–50 % ab ca. Woche 7, nachts höchstens ca. 60 %; dichte Blüten + hohe Feuchte = Grauschimmelgefahr |
+| Luftfeuchte in der späten Blüte zu hoch | ab Woche 5 45–55 % (nachts höchstens ca. 60 %), ab ca. Woche 7 40–50 % (auch nachts höchstens 58 %); dichte Blüten + hohe Feuchte = Grauschimmelgefahr |
 | Düngerbrand | Dosis senken, genug Wasser pro Gießgang |
 | nach Kalender statt nach Trichomen geerntet | ein paar Tage mehr bis zur Reife sind besser als eine exakte Woche |
 | Pflanze zu hoch geworden | beim nächsten Mal früher umschalten, mehr trainieren |
@@ -1929,13 +1931,13 @@ Autoflowers blühen **nach Alter**, nicht nach Lichtdauer. 📄 Das Merkmal stam
 | Blüte | ca. 5–8 Wochen | Dünger laut Schema, reduziert |
 | Ernte | meist ca. Woche 10–12 ab Keimung (Praxisdatenbank: 8–12; Datenblätter teils später) | nach Trichomen |
 
-⚠️ 📄 **Züchterangaben widersprechen sich oft**, z. B. „nur drei Monate“ bei einer Sorte, deren eigenes Datenblatt 12–16 Wochen ergibt. **Plane mit der Obergrenze.** Züchterangaben zählen meist ab dem Auflaufen, nicht ab dem Keimtuch.
+⚠️ 📄 **Züchterangaben widersprechen sich oft**, z. B. „nur drei Monate“ bei einer Sorte, deren eigenes Datenblatt 12–16 Wochen ergibt. **Plane mit der Obergrenze.** Ob ab Keimung oder ab Auflaufen gezählt wird, sagen Züchter selten dazu (📄 RQS: „ab Keimung“, White Papers: „ab dem Austrieb“). 🔧 Rechne vorsichtshalber ein paar Tage dazu.
 
 ### Die fünf Grundregeln
 
-1. **Direkt in den Endtopf** 📄 (7–15 L üblich, unter ca. 5 L begrenzt der Topf). 📄 Wenn umtopfen, dann nur sehr früh: Im Gewächshausversuch (Bhattacharya & Zittel 2023) war Umsetzen an Tag 8 oder 15 unproblematisch, an Tag 22 blieben zwei von drei Sorten nur halb so hoch.
+1. **Direkt in den Endtopf** 📄 (7–15 L üblich, unter ca. 5 L begrenzt der Topf). 📄 Wenn umtopfen, dann nur sehr früh: Im Gewächshausversuch mit CBD-Hanf-Autoflowers (Bhattacharya & Zittel 2023, Branchenmagazin, kein Peer-Review) war Umsetzen an Tag 8 oder 15 unproblematisch, an Tag 22 blieben zwei von drei Sorten nur etwa halb so hoch oder kleiner.
 2. **Nur sanftes LST**, bis zur frühen Blüte. 📄 **Kein Topping, kein FIM, kein Supercropping**, **keine starke Entlaubung** (Praxisdatenbank; RQS: „nur Low-Stress-Methoden“).
-3. **Weniger Dünger:** 🔧 ca. 50–75 % des Herstellerschemas. 📄 Kein Hersteller nennt eine eigene Auto-Dosierung; Hobbyquellen raten zu 50–80 %.
+3. **Weniger Dünger:** 🔧 ca. 50–75 % des Herstellerschemas. ✅ In den Düngeschemata, die ich gelesen habe ([Kapitel 11](#11-nährstoffe-und-düngung)), steht keine eigene Autoflower-Dosierung. 📄 Hobbyquellen raten zu 50–80 %.
 4. **Nicht überwässern**, besonders am Anfang im großen Topf (nur um den Stängel gießen).
 5. **Stress vermeiden:** Hitze, Kälte, Trockenheit, Schädlinge wirken bei Autos stärker, weil die Zeit zur Erholung fehlt.
 
@@ -1959,11 +1961,11 @@ Das geht, ist aber ein **Kompromiss**, weil sich beide ein Licht teilen:
 
 ### Autoflowers draußen
 
-📄 Draußen ca. 100 Tage, mit Gewächshaus zwei Durchgänge pro Saison ([Kapitel 20](#20-outdoor-balkon-und-gewächshaus)). Ernte im Sommer, vor dem Herbstschimmel.
+📄 Draußen ca. 100 Tage (Züchterangabe). Zwei Durchgänge pro Saison sind möglich, mit Gewächshaus sicherer ([Kapitel 20](#20-outdoor-balkon-und-gewächshaus)). Ernte im Sommer, vor dem Herbstschimmel.
 
 ### Autoflowers klonen?
 
-📄 **Nein.** Stecklinge übernehmen die „Altersuhr“ der Mutterpflanze und blühen sofort (White Papers). Außerdem ist ein Schnitt mit Blütenständen rechtlich kein „Steckling“ ([Kapitel 2](#2-rechtliches-in-deutschland)).
+📄 **Nein.** Stecklinge übernehmen die „Altersuhr“ der Mutterpflanze (White Papers). Sie hätten also kaum eine eigene Wachstumsphase und blieben entsprechend klein; einen Versuch dazu habe ich nicht gefunden. Außerdem ist ein Schnitt mit Blütenständen rechtlich kein „Steckling“ ([Kapitel 2](#2-rechtliches-in-deutschland)).
 
 ---
 
@@ -1990,12 +1992,12 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 | **Supercropping** | ja | nein | Wachstumsphase | ca. 5–7 Tage | fortgeschritten | nur Praxis |
 | **ScrOG** (Netz) | ja | nur als Stütze | Netz vor dem Umschalten | – | mittel | nur Praxis |
 | **SoG** (viele kleine Pflanzen) | kaum sinnvoll mit 3 Pflanzen | – | – | – | mittel | Dichte-Studien |
-| **Lollipopping** | ja | höchstens minimal | kurz vor bis ca. Blütetag 10 | kurz | mittel | eine Studie positiv |
+| **Lollipopping** | ja | höchstens minimal | kurz vor bis ca. Blütetag 10 | kurz | mittel | eine Studie: höhere Cannabinoidgehalte, kein Ertragsbeleg |
 | **Entlauben** | ja, maßvoll | nein, nur tote Blätter | Blütewoche 1–4 (Quellen uneinig) | – | fortgeschritten | sortenabhängig |
 | **„Schwazzing“** | nicht für Einsteiger | nein | Blütetag 1 und ca. 21 | – | – | keine Studie |
 | **Stützen, Netz** | ja | ja | Netz vor der Streckung, Stützen ab Blütewoche 4–5 | – | Einsteiger | Praxis |
 
-📄 Nach White Papers („Defoliation and training“, „Veg management“), SecretLeaf-Dossiers, kamerplanter-Wissensdatenbank; Studien siehe unten.
+📄 Nach White Papers („Defoliation and training“, „Veg management“), SecretLeaf-Dossiers, kamerplanter-Wissensdatenbank; Studien siehe unten. 🔧 Die Spalte „Schwierigkeit“ ist meine Einschätzung (kamerplanter stuft Lollipopping, Entlauben und Supercropping als „Experte“ ein).
 
 📄 **Empfehlung der White Papers für den ersten Anbau: „nur LST, kein Topping“.**
 
@@ -2027,7 +2029,7 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 - **Letzter größerer Schnitt: mindestens 10–14 Tage vor dem Umschalten auf 12/12.** Nie in der Streckphase toppen. 📄
 
 **So geht's** (📄 Praxisanleitung):
-1. Schere oder Skalpell mit **ca. 70 % Isopropanol** desinfizieren.
+1. Schere oder Skalpell mit **ca. 70 % Isopropanol** desinfizieren (gegen Pilze und Bakterien; gegen Viroide siehe [Kapitel 22](#22-krankheiten)).
 2. **Sauber direkt über dem gewählten Knoten** schneiden, die Seitentriebe dort nicht verletzen.
 3. Wunde nicht behandeln.
 4. Ein paar Tage Wachstumspause sind normal.
@@ -2037,7 +2039,7 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 **Autoflowers nicht toppen.** 📄 Die Erholungszeit geht von der festen Lebenszeit ab. Manche Quellen halten es für möglich, wenn noch 6+ Wochen bleiben, raten aber trotzdem ab. Kontrollierte Daten gibt es nicht.
 
 **Was die Studien sagen** (📄 nur Zusammenfassungen gelesen):
-- **Massuela u. a. 2022** (Universität Hohenheim, CBD-Sorte, indoor): Getoppte Pflanzen (Schnitt am **10.** Knoten) hatten **signifikant mehr Blüten-Trockengewicht** als „gelollipoppte“ und unbehandelte Pflanzen. Der Gesamt-CBD-Ertrag unterschied sich nicht signifikant.
+- **Massuela u. a. 2022** (Universität Hohenheim, CBD-Sorte, indoor): Getoppte Pflanzen (Schnitt am **10.** Knoten) hatten **signifikant mehr Blüten-Trockengewicht** als Pflanzen mit Lollipopping und unbehandelte Pflanzen. Der Gesamt-CBD-Ertrag unterschied sich nicht signifikant.
 - **Nutzhanf-Studie 2026** (Journal of Cannabis Research): Topping am 4. Knoten brachte 23–29 % mehr Frischmasse und 17–25 % weniger Höhe. Nutzhanf, keine Drogensorte.
 - **Danziger & Bernstein 2021** (zwei Drogensorten): Einmaliges Schneiden änderte den Ertrag nicht signifikant, zweimaliges erhöhte ihn und machte die Cannabinoidgehalte gleichmäßiger.
 - **Fazit:** Topping erhöht zuverlässig Verzweigung und senkt die Höhe. Beim Ertrag ist das Bild gemischt. **Für Einsteiger ist die Höhenkontrolle der wichtigste Grund.**
@@ -2067,7 +2069,7 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 
 **Wann:** 📄 Quellen uneinig (nur Wachstumsphase oder bis in die Streckphase). 🔧 **Für Einsteiger nur in der Wachstumsphase.**
 
-**Risiko:** 📄 Die White Papers nennen körperliche Verletzungen als einen der Auslöser für Zwitterbildung (nach Punja & Holmes 2020). **Bricht die Haut**, mit Klebeband schienen. Autoflowers: nein. **Keine Studie.**
+**Risiko:** 📄 Die White Papers nennen mechanische Verletzungen als einen der Auslöser für Zwitterbildung (nach Punja & Holmes 2020). **Bricht die Haut**, mit Klebeband schienen. Autoflowers: nein. **Keine Studie.**
 
 ### ScrOG (Screen of Green)
 
@@ -2076,7 +2078,7 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 **So geht's** (📄 Praxisanleitungen):
 1. **Netz aufbauen** in der frühen bis mittleren Wachstumsphase (4–6 Nodien bzw. ca. 25–30 cm Höhe), **ca. 30–50 cm über dem Substrat**, Maschenweite **5–10 cm**.
 2. **Einflechten („Tucking“):** Sobald eine Spitze ca. 5 cm durch das Netz ragt, sie **unter dem Netz** in die nächste leere Masche biegen.
-3. **Umschalten auf 12/12, wenn ca. 70–80 % des Netzes gefüllt sind.** Die Streckung füllt den Rest.
+3. **Umschalten auf 12/12, wenn ca. 70–80 % des Netzes gefüllt sind** (die White Papers nennen 80–90 % der Fläche). Die Streckung füllt den Rest.
 4. In der Streckphase die letzten Lücken füllen, **ab Blütewoche 2–3 nicht mehr einflechten** (die Triebe verholzen).
 5. **Nach dem Netzaufbau ist Umtopfen kaum noch möglich.** Vorher in den Endtopf.
 
@@ -2122,7 +2124,7 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 
 **In der Wachstumsphase:** 📄 Praxiskonsens: nicht vor Woche 5, nur überlappende oder beschädigte Blätter.
 
-**Beweislage:** 📄 Eine Studie von 2025 (Industrial Crops and Products, zwei CBD-arme Sorten) fand: Entlauben wirkte **sortenabhängig**, bei einer Sorte mehr Cannabinoide, bei der anderen nicht durchgehend. Die Warnung der White Papers, zu starkes Schneiden koste Ertrag, ist plausibel (Blätter sind die „Zuckerfabriken“), die dort zitierte Studie belegt sie aber nicht direkt.
+**Beweislage:** 📄 Eine Studie von 2025 (Industrial Crops and Products, zwei **THC-arme** Hanfsorten, ‚Black Label‘ und ‚Mountain Strong CBD1‘, nur Suchauszug) fand: Entlauben wirkte **sortenabhängig**, bei einer Sorte mehr Cannabinoide, bei der anderen nicht durchgehend. Die Warnung der White Papers, zu starkes Schneiden koste Ertrag, ist plausibel (Blätter sind die „Zuckerfabriken“), die dort zitierte Studie belegt sie aber nicht direkt.
 
 📄 White Papers: **„Riecht es muffig, hilft mehr Luftbewegung, nicht mehr Schneiden.“**
 
@@ -2138,15 +2140,15 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 
 ### Hygiene beim Schneiden
 
-- Werkzeug vor und zwischen Pflanzen mit **ca. 70 % Isopropanol** reinigen. 📄
+- Werkzeug vor und zwischen Pflanzen mit **ca. 70 % Isopropanol** reinigen 📄 (gegen Pilze und Bakterien). ⚠️ Gegen das Hopfen-Latent-Viroid ist Alkohol nicht als wirksam belegt. Dafür verdünnte Bleiche oder je Pflanze eine frische Klinge ([Kapitel 22](#22-krankheiten)).
 - Schnittreste aus dem Zelt entfernen (Schimmel, Schädlinge). 🔧
-- **Rechtlich:** Schnittreste sind Cannabis-Pflanzenmaterial. 🔧 Entsorge sie zeitnah und unbrauchbar gemacht (z. B. mit Erde vermischt), gib sie nicht weiter.
+- ✅ **Rechtlich:** Schnittreste sind Cannabis („Pflanzen, Blüten und sonstige Pflanzenteile“, § 1 Nr. 8 KCanG) und zählen, solange du sie besitzt, mit ihrem Trockengewicht zur 50-g-Grenze (§ 3 Abs. 2). 🔧 Entsorge sie zeitnah und unbrauchbar gemacht (z. B. mit Erde vermischt), gib sie nicht weiter. Eine Vorschrift zur Art der Vernichtung habe ich für Privatpersonen nicht gefunden.
 
 ---
 
 ## 19. Mutterpflanzen und Stecklinge
 
-> ⚠️ **Rechtsvorbehalt:** Nach der Rechtsprechung von 2026 zählt **jede eingepflanzte oder in ein Medium gesteckte Pflanze** zur 3-Pflanzen-Grenze, auch die Mutterpflanze und bewurzelnde Stecklinge ([Kapitel 2](#2-rechtliches-in-deutschland)). **Mit einer Mutterpflanze hast du höchstens 2 weitere Plätze** für Blühpflanzen **oder** bewurzelnde Stecklinge. Klonen zuhause ist deshalb nur in sehr kleinem Umfang legal möglich. Dieses Kapitel beschreibt das Handwerk, nicht die Zulässigkeit im Einzelfall.
+> ⚠️ **Rechtsvorbehalt:** 📄 Zwei Gerichte haben 2026 eng ausgelegt (BayObLG: Eine im Topf verwurzelte Jungpflanze ist Cannabis. VG Köln: Schon Pflanzen im Plug oder in Nährlösung sind keine Stecklinge mehr). Höchstrichterlich ist das nicht geklärt, und beide Entscheidungen kenne ich nur aus Berichten. 🔧 Dieses Handbuch folgt der sicheren Linie: **Jede eingepflanzte oder in ein Medium gesteckte Pflanze zählt** zur 3-Pflanzen-Grenze, auch die Mutterpflanze und bewurzelnde Stecklinge ([Kapitel 2](#2-rechtliches-in-deutschland)). **Mit einer Mutterpflanze hast du höchstens 2 weitere Plätze** für Blühpflanzen **oder** bewurzelnde Stecklinge. Klonen zuhause ist deshalb nur in sehr kleinem Umfang legal möglich. Dieses Kapitel beschreibt das Handwerk, nicht die Zulässigkeit im Einzelfall.
 
 ### Warum überhaupt Stecklinge?
 
@@ -2161,11 +2163,11 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 ### Die Mutterpflanze
 
 📄 (White Papers „Mother plants“, Konventionen aus kommerziellen Betrieben)
-- **Licht:** **18/6** als Sicherheitsabstand zur Blühschwelle (manche Sorten beginnen schon bei 14–15 h zu blühen), PPFD ca. 300–500 µmol/m²/s.
+- **Licht:** **18/6** als Sicherheitsabstand zur Blühschwelle (📄 in einem Versuch legten alle getesteten Sorten bei bis zu 14 h Licht Blüten an, einige bei 15 h), PPFD ca. 300–500 µmol/m²/s.
 - **Klima:** ca. 22–26 °C, 55–70 % Luftfeuchte.
 - **Dünger:** stickstoffbetont, aber nicht zu stark. 📄 In einer Dosisstudie war ca. 160 mg/L Stickstoff optimal (Saloner & Bernstein 2020).
 - **Form:** früh toppen, 4–6 Gerüstäste aufbauen, beim Schneiden über dem ersten Knoten schneiden, **pro Durchgang höchstens etwa die Hälfte der Triebe** ernten.
-- **Alter:** 📄 Erbgutveränderungen häufen sich eher mit der Zahl der Vermehrungsrunden als mit dem Kalenderalter (Adamek u. a. 2024).
+- **Alter:** 📄 Bei Klonen aus Gewebekultur häuften sich Erbgutveränderungen mit der Zahl der Vermehrungsrunden, nicht mit dem Kalenderalter (Adamek u. a. 2024). Die White Papers übertragen das auf Mutterpflanzen.
 - 🔧 **Heimanbau-Realität:** Eine Mutter belegt dauerhaft einen der 3 Plätze. Für die meisten Heimgrower lohnt sich das nicht; neue Samen sind einfacher.
 
 ### Stecklinge schneiden
@@ -2173,7 +2175,7 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 📄 (White Papers; Studie Caplan u. a. 2018, nur Zusammenfassung)
 1. **Mutter am Vortag gut wässern.**
 2. **Triebwahl:** aufrechte, gut belichtete Triebe aus dem oberen bis mittleren Bereich, **mindestens ca. 3 mm dick und 15 cm lang** (White Papers, zitiert Esposito u. a. 2026).
-3. **Werkzeug:** saubere, scharfe Klinge. Gegen Viroide in **verdünnter Bleiche** reinigen, Alkohol reicht dafür nicht ([Kapitel 22](#22-krankheiten)).
+3. **Werkzeug:** saubere, scharfe Klinge. 📄 Gegen Viroide am besten je Pflanze eine frische Klinge, sonst in **verdünnter Bleiche** reinigen. Alkohol ist gegen Viroide nicht als wirksam belegt ([Kapitel 22](#22-krankheiten)).
 4. **Schnitt:** schräg (ca. 45°) **knapp unter einem Knoten**.
 5. **Sofort stecken:** 📄 Die Schnittstelle nicht antrocknen lassen (Luftembolie), die White Papers nennen ca. 30 Sekunden (ohne Beleg).
 6. **Untere Blätter entfernen.**
@@ -2200,15 +2202,15 @@ Training formt die Pflanze so, dass **möglichst viele Triebspitzen gleich viel 
 - **Nährlösung:** 📄 schwach, EC ca. 0,6–1,2 mS/cm (kommerzieller Kontext).
 - **Danach:** Licht schrittweise steigern, wie ein Sämling behandeln ([Kapitel 14](#14-sämlingsphase)).
 
-⚠️ **Rechtlich:** Nach dem VG Köln verlieren Pflanzen schon **im Anzucht-Plug oder in Nährlösung** die Eigenschaft „Steckling“ und zählen als Pflanze. Ob ein Steckling im **Wasserglas mit Leitungswasser** darunter fällt, ist ungeklärt.
+⚠️ **Rechtlich:** 📄 Nach dem VG Köln (Eilverfahren gegen einen Händler, nur aus Berichten bekannt) sind Pflanzen schon **im Anzucht-Plug oder in Nährlösung** keine „Stecklinge“ mehr, sondern Cannabis. 🔧 Nach der sicheren Linie zählen sie damit zur 3-Pflanzen-Grenze. Ob ein Steckling im **Wasserglas mit Leitungswasser** darunter fällt, ist ungeklärt.
 
 ### Quarantäne für fremde Stecklinge
 
-📄 (White Papers) Jede neue Pflanze **mindestens 2 Wochen**, neue Genetik besser **2–4 Wochen** getrennt halten, weil sich eine frische Viroid-Infektion über ca. 6 Wochen in der Pflanze verteilt. „Ein befallener Steckling bringt den Befall ab Tag 1 mit.“
+📄 (White Papers) Jede neue Pflanze **mindestens 2 Wochen** getrennt halten und auf Schädlinge und Krankheitszeichen prüfen. Betriebe halten neue Genetik 2–4 Wochen in Quarantäne und testen **zweimal** im Labor auf das Hopfen-Latent-Viroid, weil es sich erst nach ca. 6 Wochen in der ganzen Pflanze verteilt und oft keine Symptome macht. 🔧 Ohne Labortest schützt eine Quarantäne im Heimanbau also vor Schädlingen, **nicht** zuverlässig vor Viroiden. Ein befallener Steckling bringt den Befall vom ersten Tag an mit.
 
 ### Gewebekultur (nur zur Info)
 
-📄 Bei der In-vitro-Vermehrung wird aus winzigem Gewebe unter sterilen Laborbedingungen eine neue Pflanze gezogen, vor allem um Viroide loszuwerden (Erfolgsquote laut einer Quelle im Mittel ca. 41 %, je nach Sorte 0–100 %). Für den Heimanbau praktisch nicht relevant.
+📄 Bei der In-vitro-Vermehrung wird aus winzigem Gewebe unter sterilen Laborbedingungen eine neue Pflanze gezogen, vor allem um Viroide loszuwerden (📄 in einer Studie waren danach im Mittel ca. 41 % der Pflanzen erregerfrei, je nach Sorte 0–100 %; Punja u. a. 2025, zitiert in den White Papers). Für den Heimanbau praktisch nicht relevant.
 
 ---
 
@@ -2222,9 +2224,9 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 
 | Ort | Einschätzung |
 |---|---|
-| **Balkon, Terrasse, Garten der eigenen Wohnung am Wohnsitz** | 📄 Nach der Gesetzesbegründung (BT-Drs. 20/8704, laut Zitat des Hanfverbands) umfasst „Wohnung“ auch Gärten. Auch die FAQ des Landes Berlin halten Anbau im zur Wohnung gehörenden Garten oder auf dem Balkon für möglich (beides nur aus Suchauszügen). 🔧 **Gilt als zulässig.** |
-| **Kleingarten (Schrebergarten)** | **Umstritten.** 📄 Das Bundesgesundheitsministerium verneint (Anbau nur, wo man seinen Wohnsitz hat, und in Kleingartenlauben darf man nach § 3 Abs. 2 BKleingG nicht dauerhaft wohnen ✅). Der Hanfverband bejaht unter Berufung auf die Gesetzesbegründung. Rechtsprechung habe ich nicht gefunden. Dazu kommt das Kündigungsrisiko nach Pachtvertrag und Gartenordnung. 🔧 **Nicht empfehlenswert.** |
-| Wochenendhaus, Zweitwohnung | Nur, wenn dort Wohnsitz oder gewöhnlicher Aufenthalt besteht (§ 1 Nr. 16, 17). 🔧 Unklar, im Zweifel nicht. |
+| **Balkon, Terrasse, Garten der eigenen Wohnung am Wohnsitz** | 📄 Nach der Gesetzesbegründung (BT-Drs. 20/8704, laut Zitat des Hanfverbands) umfasst „Wohnung“ auch Gärten. Auch die FAQ des Landes Berlin halten Anbau im zur Wohnung gehörenden Garten oder auf dem Balkon für möglich (beides nur aus Suchauszügen). 🔧 **Nach meiner Einschätzung zulässig.** |
+| **Kleingarten (Schrebergarten)** | **Umstritten.** 📄 Das Bundesgesundheitsministerium verneint (Anbau nur am Wohnsitz). ✅ Eine Laube darf nach § 3 Abs. 2 BKleingG „nicht zum dauernden Wohnen geeignet sein“, dauerndes Wohnen in der Laube ist nach § 9 Abs. 1 Nr. 1 ein Kündigungsgrund; ältere Wohnrechte schützt § 18 Abs. 2. Der Hanfverband bejaht unter Berufung auf die Gesetzesbegründung. Rechtsprechung habe ich nicht gefunden. Dazu kommt das Kündigungsrisiko nach Pachtvertrag und Gartenordnung. 🔧 **Nicht empfehlenswert.** |
+| Wochenendhaus, Zweitwohnung | ✅ Anbau nur am Wohnsitz oder gewöhnlichen Aufenthalt (§ 9 Abs. 1). Eine Zweitwohnung, die du seit mindestens 6 Monaten hast und weiter nutzt, kann nach § 1 Nr. 16 selbst ein Wohnsitz sein. 📄 Die Gesetzesbegründung zählt laut Hanfverband-Zitat auch „Wochenendhäuser, Ferienwohnungen“ zur „Wohnung“. 🔧 Unklar, im Zweifel nicht. |
 | Öffentliche Flächen, Wald, fremde Grundstücke | **Nicht erlaubt.** |
 
 **Nach einem Umzug:** ✅ „Wohnsitz“ heißt im KCanG, die Wohnung **seit mindestens sechs Monaten** zu haben. Ob man am neuen Wohnort vorher anbauen darf (über den „gewöhnlichen Aufenthalt“), ist nicht geklärt.
@@ -2237,7 +2239,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 - **Garten:** abschließbares Gewächshaus, abschließbarer Pflanzkäfig (Drahtkäfig) oder abgeschlossener, umzäunter Gartenteil. Ein frei zugänglicher Vorgarten ist ungeeignet.
 - **Balkon:** Der Zugang durch die Wohnung schützt vor Fremden, **nicht** vor Kindern im Haushalt oder Besuch. Dann ein abschließbarer Käfig oder eine abschließbare Balkontür.
 - **Sichtbarkeit:** Keine Pflicht zum Sichtschutz, aber sichtbare Pflanzen laden zu Diebstahl ein, und Diebstahl ist genau der „Zugriff durch Dritte“.
-- 📄 Leitfäden der Länder für Anbauvereinigungen empfehlen draußen lückenlose Zäune und abschließbare Gewächshäuser. Für Privatpersonen gelten sie nicht, sie zeigen aber, was Behörden unter Sicherung verstehen.
+- 📄 Leitfäden der Länder für Anbauvereinigungen empfehlen draußen eine lückenlose Barriere (Zaun oder Mauer mit Übersteig- und Untergrabschutz) und wollen Gewächshäuser im Freien „wie Freiland“ gesichert sehen (nur Suchauszüge). Für Privatpersonen gelten sie nicht, sie zeigen aber, was Behörden unter Sicherung verstehen.
 - Auch **Ernte, Trockengut, Samen und Stecklinge** sichern.
 
 ### Ernte-Menge: das Hauptproblem draußen
@@ -2269,10 +2271,10 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 | 01.11. | 10:00 h | 9:43 h | 9:23 h | 10:53 h |
 
 **Was daraus folgt:**
-1. 🧮 **Unter 12 Stunden** fällt der Tag erst um den **26. September**. Wenn Outdoor-Pflanzen wie in der Praxis beschrieben schon **im August** blühen, reagieren sie auf **ca. 14,5–15,5 Stunden** Tag. Ihre kritische Tageslänge liegt also weit über 12 Stunden. Die oft gelesene Aussage „Blüte beginnt, wenn der Tag unter 12 h fällt“ ist **rechnerisch falsch**.
-2. 📄 Passend dazu: In einer Studie an **Nutzhanf** (Zhang u. a. 2021) lag die kritische Tageslänge bei drei CBD-Sorten bei **13 h 45 min bis 14 h**; 15 Minuten Unterschied verzögerten die Blüte teils um 5–13 Tage. Und: **Schon Dämmerlicht (ca. 2 µmol/m²/s) war biologisch wirksam.** Für THC-Sorten draußen gibt es keine entsprechende Studie.
+1. 🧮 **Unter 12 Stunden** fällt der Tag erst um den **26. September**. Wenn Outdoor-Pflanzen wie in der Praxis beschrieben schon **im August** blühen, beginnt die Blüte bei Tageslängen von ca. **15½ bis 13½ Stunden** (je nach Breite und Datum, siehe Tabelle). Weil sichtbare Blütenhärchen erst 1–2 Wochen nach dem Auslösen erscheinen, lag die auslösende Tageslänge eher noch höher. Die kritische Tageslänge liegt also weit über 12 Stunden. Die oft gelesene Aussage „Blüte beginnt, wenn der Tag unter 12 h fällt“ ist **rechnerisch falsch**.
+2. 📄 Passend dazu: In einer Studie an **Nutzhanf** (Zhang u. a. 2021) lag die kritische Tageslänge bei drei CBD-Sorten bei **13 h 45 min bis 14 h**; 15 Minuten Unterschied verzögerten die Blüte teils um 5–13 Tage. Und: **Schon Dämmerlicht (ca. 2 µmol/m²/s) war biologisch wirksam.** Für THC-Sorten habe ich nur Indoor-Daten gefunden: 📄 Laut White Papers legten in einem Versuch alle getesteten Sorten bei bis zu 14 Stunden Licht Blüten an, einige sogar bei 15 Stunden (Plants 12(14):2605, 2023; die White Papers geben die Studie an verschiedenen Stellen unterschiedlich wieder). Eine Freilandstudie für Deutschland habe ich nicht gefunden.
 3. 🔧 **Straßenlaternen, Bewegungsmelder, Fensterlicht** in der Nacht können die Blüte verzögern. Standort nachts prüfen.
-4. 🧮 An der Küste sind die Sommertage länger, eine bestimmte Tageslänge wird dort im Spätsommer ca. 6–8 Tage später erreicht als am Alpenrand (z. B. unter 14 h: 21.08. gegenüber 29.08.). Nach der Tagundnachtgleiche Ende September sind die Tage im Norden dafür kürzer. 🔧 Das Fenster für spät blühende Sorten ist im Norden enger.
+4. 🧮 An der Küste sind die Sommertage länger. Eine bestimmte Tageslänge wird dort später erreicht als am Alpenrand: bei 15,5 h rund 20 Tage, bei 14,5 h rund 11 Tage, bei 14 h rund 8 Tage später (z. B. unter 14 h: 21.08. gegenüber 29.08.). Nach der Tagundnachtgleiche Ende September sind die Tage im Norden dafür kürzer. 🔧 Das Fenster für spät blühende Sorten ist im Norden enger.
 5. 🔧 **Nicht zu früh rausstellen:** Anfang bis Mitte April hat der Tag erst ca. 13–14 Stunden. Sorten mit kritischer Tageslänge um 14 h könnten dann zu blühen beginnen (Folgerung aus Rechnung + Zhang 2021, nicht direkt belegt). Photoperioden deshalb **erst ab Mai** dauerhaft nach draußen.
 
 ### Saisonkalender (Mitte Deutschlands, ca. 51° N)
@@ -2287,12 +2289,12 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 | **Mai** | ab Anfang Mai **abhärten** (7–14 Tage), nach den Eisheiligen auspflanzen, in Frostlagen Ende Mai | 1. Durchgang raus, wenn kein Frost mehr droht | Schnecken kontrollieren |
 | **Juni** | Wachstum, **Stützen früh setzen**, Läuse und Schnecken kontrollieren | 2. Durchgang: Aussaat Anfang/Mitte Juni | **höchstens 3 lebende Pflanzen gleichzeitig**, auch mit Keimlingen |
 | **Juli** | stärkstes Wachstum; bei Hitze nach Wurzelraum gießen; Spinnmilben bei Hitze | 1. Durchgang blüht und reift (Ernte ca. Ende Juli) | Mit der Blüte beginnt der Geruch → Nachbarn |
-| **August** | Blütebeginn vieler Sorten (bei ca. 15,5–14,5 h Tag); Raupen in der Dämmerung suchen | 2. Durchgang wächst und blüht | Trocknung planen (Raum, 50 g) |
+| **August** | Blütebeginn vieler Sorten (Tageslänge bei 51° N fällt im August von ca. 15:20 auf 13:30 h); Raupen in der Dämmerung suchen | 2. Durchgang wächst und blüht | Trocknung planen (Raum, 50 g) |
 | **September** | Blütenmast; **ab Mitte täglich auf Grauschimmel prüfen**; Regenschutz; frühe Sorten ernten Ende September | 2. Durchgang: Ernte ca. Mitte/Ende September | – |
 | **Oktober** | **Haupternte** vieler Photoperioden; bei mehrtägigem Regen und überwiegend milchigen Trichomen früher ernten | – | drinnen trocknen, gesichert |
 | **November** | späte Sorten: hohes Ausfallrisiko (kurz, kalt, nass) | – | Pflanzenreste entfernen (Grauschimmel überwintert in totem Gewebe 📄) |
 
-🧮 **Warum späte Sorten scheitern:** Beginnt eine Sorte bei 51° N erst unter 14 h Tageslänge (ca. 25.08.) zu blühen und braucht laut Züchter 9–10 Wochen, fällt die Ernte auf ca. **27.10.–03.11.** Dann sind die Tage ca. 10 Stunden kurz, die Nächte kühl und taufeucht. 📄 Grauschimmel braucht über ca. 70 % Luftfeuchte, ca. 17–24 °C, **freies Wasser** und stehende Luft; Regen und Tau liefern das Wasser.
+🧮 **Warum späte Sorten scheitern:** Beginnt eine Sorte bei 51° N erst unter 14 h Tageslänge (ca. 25.08.) zu blühen und braucht laut Züchter 9–10 Wochen, fällt die Ernte auf ca. **27.10.–03.11.** Dann sind die Tage nur noch ca. 10 Stunden lang, die Nächte kühl und taufeucht. 📄 Grauschimmel braucht über ca. 70 % Luftfeuchte, ca. 17–24 °C, **freies Wasser** und stehende Luft; Regen und Tau liefern das Wasser.
 
 **Eisheilige und Frost:** 📄 Die Eisheiligen sind am 11.–15. Mai. Laut Deutschem Wetterdienst gibt es statistisch keinen klaren Kälteeinbruch genau an diesen Tagen; späte Frosttage treten eher bis ca. Ende Mai auf (aus Nachrichtenauszügen mit DWD-Bezug). Eine **cannabisspezifische Frostgrenze** habe ich nicht gefunden.
 
@@ -2317,7 +2319,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 
 ### Standort, Boden, Töpfe, Wasser
 
-- **Licht:** so sonnig wie möglich. 📄 Mehr Licht bringt mehr Ertrag (Guelph-Studie). 🔧 Balkon nach Süden vor Ost/West vor Nord. Eine belastbare Mindestzahl Sonnenstunden habe ich nicht gefunden.
+- **Licht:** so sonnig wie möglich. 📄 Indoor stieg der Ertrag bis zu sehr hohen Lichtstärken fast linear (Guelph-Studie, Rodriguez-Morrison u. a. 2021). 🔧 Für draußen heißt das: so sonnig wie möglich. 🔧 Balkon nach Süden vor Ost/West vor Nord. Eine belastbare Mindestzahl Sonnenstunden habe ich nicht gefunden.
 - **Wind und Unwetter:** 📄 Stützen und Bindungen **vor** dem Unwetter prüfen. 🔧 Hohe Balkone sind windiger.
 - **Boden, Hochbeet oder Topf:** 📄 Kein System ist grundsätzlich besser. Gartenboden vorher testen (pH, Salz, Struktur, ob Wasser nach Regen abläuft). Ziel-pH des Bodens 6,0–7,0. 🔧 **Töpfe** begrenzen die Pflanzengröße (50-g-Grenze) und lassen sich bei Unwetter umstellen.
 - **Wurzelraum:** 📄 ca. 18–24 °C (Praxiskonvention). 🔧 Dunkle Töpfe in praller Sonne werden heiß; im Mai kühlen kalte Nächte.
@@ -2333,21 +2335,21 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 |---|---|---|
 | **Grauschimmel** | ab Mitte der Blüte, besonders bei Regen und Tau | lockere Sorten, Abstand, Auslichten, **Regendach** (ohne die Luftbewegung zu stoppen), in der Endphase täglich prüfen, befallene Teile sofort weit weg entsorgen |
 | **Echter Mehltau** | weißer, abwischbarer Belag | Luftbewegung, Blätter entfernen |
-| **Raupen** | Kot und Bohrlöcher in Blüten, einzelne welke Blättchen. 📄 In Mitteleuropa u. a. **Maiszünsler** und **Kleine Hanfmotte**. | absammeln (in der Dämmerung), befallene Blüte großzügig entfernen; *Trichogramma*-Schlupfwespen vorbeugend beim ersten Falterflug. ⚠️ **Bt-Präparate sind für Cannabis nicht zugelassen** ✅ |
+| **Raupen** | Kot und Bohrlöcher in Blüten, einzelne welke Blättchen. 📄 In Mitteleuropa u. a. **Maiszünsler** und **Kleine Hanfmotte**. | absammeln (in der Dämmerung), befallene Blüte großzügig entfernen; 📄 *Trichogramma*-Schlupfwespen (sie parasitieren Falter-Eier) vorbeugend vor dem Raupenschlupf ausbringen (Händlerangabe). ⚠️ **Bt-Präparate sind für Cannabis nicht zugelassen** ✅ |
 | **Blattläuse** | Kolonien an Triebspitzen, Ameisen | Nützlinge (Schlupfwespen, Florfliegen), abspülen, befallene Triebe entfernen |
 | **Spinnmilben** | bei Hitze und Trockenheit | Raubmilben |
-| **Schnecken** | Fraß an Jungpflanzen | absammeln, Barrieren, Töpfe erhöht stellen. 📄 Schneckenkorn ist nur über die Gruppe „Gemüsekulturen“ zugelassen, ob das Cannabis erfasst, ist ungeklärt. |
-| **Vögel, Wildtiere** | – | 📄 keine deutschen Quellen gefunden. 🔧 Ein Drahtkäfig schützt zugleich vor Tieren, dient § 10 und stützt die Pflanze. |
+| **Schnecken** | Fraß an Jungpflanzen | absammeln, Barrieren, Töpfe erhöht stellen. ✅ Laut BVL-Datenbank gibt es nichtberuflich zugelassenes Schneckenkorn (z. B. Eisen-III-phosphat) u. a. für die Gruppe „Gemüsekulturen“, der Rauschhanf in der BVL-Systematik zugeordnet ist. Ob das den Einsatz an Cannabis rechtlich deckt, ist ungeklärt ([Kapitel 21](#21-schädlinge)). |
+| **Vögel, Wildtiere** | – | 📄 keine deutschen Quellen gefunden. 🔧 Ein Drahtkäfig schützt vor Tieren, hilft beim Schutz nach § 10 und stützt die Pflanze. |
 
-**Nützlinge draußen:** ✅ Das Ausbringen von Tieren „in der freien Natur“ braucht nach § 40 BNatSchG eine Genehmigung, außer beim biologischen Pflanzenschutz mit Arten, die im Gebiet in den letzten 100 Jahren vorkamen. **Ob ein Hausgarten oder Balkon „freie Natur“ ist und welche Handelsnützlinge heimisch sind, habe ich nicht geklärt.** 🔧 Nur Arten verwenden, die der Handel ausdrücklich für den Freilandeinsatz in Deutschland anbietet, sonst nachfragen.
+**Nützlinge draußen:** ✅ Das Ausbringen von Tieren „in der freien Natur“ braucht nach § 40 BNatSchG eine Genehmigung. Ausgenommen ist der Einsatz von Tieren zum biologischen Pflanzenschutz, wenn die Art im Gebiet in den letzten 100 Jahren in freier Natur vorkommt oder vorkam, oder wenn der Einsatz eine pflanzenschutzrechtliche Genehmigung braucht, die den Artenschutz berücksichtigt (§ 40 Abs. 1 Satz 4 Nr. 2). **Ob ein Hausgarten oder Balkon „freie Natur“ ist und welche Handelsnützlinge heimisch sind, habe ich nicht geklärt.** 🔧 Nur Arten verwenden, die der Handel ausdrücklich für den Freilandeinsatz in Deutschland anbietet, sonst nachfragen.
 
 **Pflanzenschutzmittel:** siehe [Kapitel 21](#21-schädlinge). Draußen ist die Versuchung zu spritzen größer, die Rechtslage ist dieselbe.
 
 ### Gewächshaus und Folientunnel
 
-- 📄 Vorteil: **Regen bleibt von den Blüten fern.** 🔧 Ein abschließbares Gewächshaus erfüllt zugleich § 10.
+- 📄 Vorteil: **Regen bleibt von den Blüten fern.** 🔧 Ein abschließbares Gewächshaus ist nach meiner Einschätzung eine naheliegende Schutzmaßnahme im Sinne von § 10.
 - 📄 Risiko: **Kondenswasser nachts** auf allen Flächen, auch auf Blättern. Wirksamste Gegenmaßnahme laut Praxisquellen: **lüften um Sonnenuntergang**.
-- Mit Gewächshaus sind bei Autoflowers zwei Durchgänge pro Saison realistisch.
+- 📄 Mit Gewächshaus nennt ein Züchterkalender zwei Autoflower-Durchgänge pro Saison (Dutch Passion, nur Suchauszug).
 
 ### Light Deprivation („Verdunkeln“)
 
@@ -2362,7 +2364,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 - **Traglast:** 📄 Ratgeberseiten nennen für neuere Balkone mindestens 4,0 kN/m² (ca. 400 kg/m²), für ältere teils 2,0–3,0 kN/m² (Norm nicht gelesen). 🔧 Schwere Kübel am Rand oder Geländer sind anders zu bewerten. **Nassen Topf mit der Personenwaage wiegen**, statt zu schätzen. Im Zweifel Vermieter oder Statiker fragen.
 - **Blumenkästen außen am Geländer:** Absturz- und Haftungsfragen habe ich nicht recherchiert. 🔧 Lieber innen aufstellen.
 - **Geruch:** 📄 Der Bundesgerichtshof hat 2015 (V ZR 110/14) entschieden, dass Tabakrauch vom Nachbarbalkon einen Unterlassungsanspruch begründen kann, wenn ein „verständiger durchschnittlicher Mensch“ ihn als wesentliche Beeinträchtigung empfindet. 🔧 Eine Übertragung auf Blütengeruch liegt nahe, eine Entscheidung zu Cannabispflanzen habe ich nicht gefunden.
-- **Mietrecht:** 📄 Kanzlei- und Mieterportale meinen, legaler Anbau könne nicht generell verboten werden, erhebliche Geruchsbelästigung könne aber zu Abmahnung oder Kündigung führen. **Nicht verifiziert, keine Gerichtsentscheidung gefunden.** Bauliche Veränderungen am Balkon (Sichtschutz, Gewächshaus, Bohren) brauchen in der Regel die Zustimmung des Vermieters 🔧.
+- **Mietrecht:** 📄 Kanzlei- und Mieterportale meinen, legaler Anbau könne nicht generell verboten werden, erhebliche Geruchsbelästigung könne aber zu Abmahnung oder Kündigung führen. **Nicht verifiziert, keine Gerichtsentscheidung gefunden.** 🔧 Ob bauliche Veränderungen am Balkon (Sichtschutz, Gewächshaus, Bohren) die Zustimmung des Vermieters brauchen, habe ich nicht recherchiert. Frag vorher nach.
 
 ### Ernte draußen
 
@@ -2379,11 +2381,11 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 ### Zuerst die Rechtslage: Sprühen ist praktisch keine Option
 
 ✅ **Eigene Auswertung der amtlichen BVL-Pflanzenschutzmittel-Daten** (Export eines Drittanbieters, BVL-Datenstand 02.09.2026, Abfrage am 29.09.2026):
-- Für die Kultur **„Rauschhanf“ gibt es null zugelassene Anwendungen.** Für Nutzhanf gibt es 64, alle nur für berufliche Anwender.
+- Für die Kultur **„Rauschhanf“ gibt es null zugelassene Anwendungen.** Für die Kultur „Hanf“ (gemeint ist Nutzhanf) gibt es 64 Anwendungen, alle nur für berufliche Anwender.
 - ✅ Pflanzenschutzmittel dürfen **nur in den zugelassenen Anwendungsgebieten** (Pflanze + Schädling) eingesetzt werden (§ 12 Abs. 1 PflSchG). **Verstoß: Bußgeld bis 50.000 €** (§ 68 PflSchG).
-- ✅ Eine Einzelgenehmigung für andere Anwendungsgebiete (§ 22 Abs. 2 PflSchG) können nach dem Wortlaut **nur Zulassungsinhaber und landwirtschaftliche oder gärtnerische Betriebe** beantragen, keine Privatpersonen. (Das korrigiert meine erste Anleitung.)
+- ✅ Eine Einzelgenehmigung für andere Anwendungsgebiete (§ 22 Abs. 2 PflSchG) können nach dem Wortlaut **nur der Zulassungsinhaber, gewerbliche Anwender in Betrieben der Land- und Forstwirtschaft oder des Gartenbaus sowie deren Verbände** beantragen, keine Privatpersonen.
 
-**Gängige Mittel im Überblick** ✅ (BVL-Daten; „NB“ = für nichtberufliche Anwender):
+**Gängige Mittel im Überblick** ✅ (BVL-Daten; letzte Spalte = Zulassung für nichtberufliche Anwender, auch über Kulturgruppen):
 
 | Mittel | Für Privatleute zugelassen? | Für Cannabis? |
 |---|---|---|
@@ -2392,16 +2394,16 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 | **Btk / Bt aizawai** (gegen Raupen) | ja, nur Freiland: Kohl, Obst, Ziergehölze, Weinrebe, Buchsbaum | **nein** |
 | **Spinosad** | ja, nur Zierpflanzen, Weinrebe, Kohl, Kartoffel, Zwiebel, Porree | **nein** |
 | **Beauveria bassiana** | **nein**, nur beruflich | nein |
-| **Schwefel** | ja, andere Kulturen, fast nur Freiland | **nein** |
+| **Schwefel** | ja, andere Kulturen, fast nur Freiland | **nein** (berufliche Zulassungen gibt es nur über die Gruppe „Arzneipflanzen“) |
 | **Kaliumhydrogencarbonat** (gegen Mehltau) | ja, z. B. Tomate, Gurke, Hopfen, Erdbeere | **nein** |
 | **Paraffinöl** | ja, Zierpflanzen, Obst, Wein | **nein** |
 | **Pyrethrine, Orangenöl** | ja, andere Kulturen | **nein** |
 | **Kaliseife, Rapsöl** | ja | **nur über die Gruppe „Gemüsekulturen“** (Rauschhanf ist in der BVL-Systematik über „Arzneipflanzen“ dort eingeordnet), und nur im Gewächshaus oder Freiland, **nie „Zimmer“**. **Ob das rechtlich für Cannabis gilt, ist ungeklärt.** |
-| **Nützlinge** (Raubmilben, Nematoden, Schlupfwespen, Florfliegen) | keine Pflanzenschutzmittel, keine Zulassung nötig | ✅ **ja, der legale Weg** |
+| **Nützlinge** (Raubmilben, Nematoden, Schlupfwespen, Florfliegen) | keine zugelassenen Pflanzenschutzmittel, stehen nicht in der BVL-Liste ✅ | 🔧 **drinnen der naheliegende legale Weg** (meine Auslegung); draußen § 40 BNatSchG beachten ([Kapitel 20](#20-outdoor-balkon-und-gewächshaus)) |
 
 🔧 **Meine Empfehlung:** **keine Sprühmittel auf Cannabis**, auch nicht die Gruppenzulassungen. Im Zweifel beim **Pflanzenschutzdienst deines Bundeslands** nachfragen. **Nie auf Blüten sprühen**, egal womit (Rückstände, Schimmel).
 
-📄 Außerdem: Ein „Neemöl“, das als Blattpflege- oder Stärkungsmittel verkauft wird, ist rechtlich schwer einzuordnen (die BVL-Liste der Pflanzenstärkungsmittel war im Export leer). 🔧 Nicht gegen Schädlinge einsetzen.
+✅ Die Liste der Pflanzenstärkungsmittel war im BVL-Export leer. 🔧 Ein „Neemöl“, das als Blattpflege- oder Stärkungsmittel verkauft wird, kann ich deshalb rechtlich nicht einordnen. Nicht gegen Schädlinge einsetzen.
 
 ### Integrierter Pflanzenschutz: vorbeugen, beobachten, Nützlinge
 
@@ -2430,13 +2432,13 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 | 8 | Klimaprotokoll | Min/Max | in der Blüte nachts über ca. 60 % Luftfeuchte, Kondenswasser → Klima korrigieren |
 | 9 | Notiz, Foto | Datum, Befund, Maßnahme | mit Vorwochen vergleichen |
 
-- **Gelbtafeln bekämpfen nicht, sie warnen früh.** 📄 Für ein kleines Zelt reichen 1–2 tiefe und eine hohe Tafel. Ob blaue Tafeln gegen Thripse besser wirken, ist nur Praxiswissen.
+- **Gelbtafeln bekämpfen nicht, sie warnen früh.** 🔧 Für ein kleines Zelt reichen 1–2 tiefe und eine hohe Tafel (📄 die White Papers nennen nur eine Dichte für große Räume). Ob blaue Tafeln gegen Thripse besser wirken, ist nur Praxiswissen.
 - **Lupe:** 30× für Spinnmilben, **60–100×** (Clip-Mikroskop) für Weichhaut- und Rostmilben. 📄
 
 **Nützlinge richtig einsetzen** (📄 White Papers):
 - **Früh oder vorbeugend.** Nützlinge holen eine explodierende Population nicht mehr ein.
 - **Scheitert der Einsatz**, liegt es meist an falscher Bestimmung, einem vergessenen Lebensstadium (z. B. im Boden) oder ungeeignetem Klima.
-- ⚠️ **Klimakonflikt in der Blüte:** Viele Raubmilben brauchen feuchte Luft (*Phytoseiulus persimilis* über ca. 60 %, *Amblyseius swirskii* über ca. 70 %, *A. cucumeris* ab ca. 60 %). Gegen Grauschimmel sollen es in der Blüte aber 45–55 % sein. **Deshalb Schädlinge möglichst in der Wachstumsphase lösen** und in der Blüte Arten wählen, die trockenere Luft vertragen (*Neoseiulus californicus*).
+- ⚠️ **Klimakonflikt in der Blüte:** Viele Raubmilben arbeiten am besten bei feuchter Luft (*Phytoseiulus persimilis* über ca. 60 %, *Amblyseius swirskii* am besten über ca. 70 %, *A. cucumeris* ab ca. 60 %). Gegen Grauschimmel sollen es ab der mittleren Blüte aber 45–55 % oder weniger sein. **Deshalb Schädlinge möglichst in der Wachstumsphase lösen** und in der Blüte Arten wählen, die trockenere Luft vertragen (*Neoseiulus californicus*).
 - Temperatur- und Feuchteangaben für Nützlinge stammen meist aus Händler- und Kammerseiten (nur Suchauszüge). 🔧 **Beim Kauf das Datenblatt des Lieferanten beachten.**
 
 ### Die Schädlinge im Einzelnen
@@ -2445,7 +2447,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 
 | Schädling | Erkennen | Entwicklung (grob) | Nützlinge (Bedingungen) |
 |---|---|---|---|
-| **Trauermücken** (*Bradysia*) | schwarze, träge Fliegen (2–4 mm) über nasser Erde; Larven glasig-weiß mit schwarzem Kopf (5–7 mm) in der oberen Erdschicht | Ei bis Fliege ca. 18–28 Tage | **SF-Nematoden** (*Steinernema feltiae*, Bodentemperatur ca. 8–28 °C, unter ca. 10 °C schwächer); Bodenraubmilbe *Stratiolaelaps scimitus* (ca. 15–25 °C) |
+| **Trauermücken** (*Bradysia*) | schwarze, träge Fliegen (2–4 mm) über nasser Erde; Larven glasig-weiß mit schwarzem Kopf (5–7 mm) in der oberen Erdschicht | Ei bis Fliege ca. 18–28 Tage | **SF-Nematoden** (*Steinernema feltiae*, Bodentemperatur ca. 8–28 °C, unter ca. 10 °C schwächer); Bodenraubmilbe *Stratiolaelaps scimitus* (Optimum ca. 15–25 °C) |
 | **Spinnmilben** (*Tetranychus urticae*) | feine helle Saugpünktchen, Milben (0,3–0,5 mm) und Eier an Blattunterseiten, später Gespinst und Bronzefärbung; heiße, trockene Stellen zuerst | ca. 1–2 Wochen, bei Hitze schneller | *Phytoseiulus persimilis* (Spezialist, Luftfeuchte über ca. 60 %, kühler); *Neoseiulus californicus* (16–32 °C, verträgt trockenere Luft, vorbeugend) |
 | **Thripse** | silbrige Schabestreifen mit schwarzen Kotpunkten; Tiere 1–2 mm, länglich; verpuppen sich in der Erde | ca. 14–21 Tage | *Amblyseius cucumeris* oder *A. swirskii* (ca. 100–300/m², Wirkung nach ca. 3 Wochen sichtbar); gegen Bodenstadien *Stratiolaelaps* |
 | **Blattläuse** (u. a. Hanfblattlaus *Phorodon cannabis*) | Kolonien an Triebspitzen und Blattunterseiten, weiße Häutungsreste, klebriger **Honigtau**, schwarzer Rußtau, Ameisen | ca. 7–10 Tage, lebendgebärend | **artgerechte** Schlupfwespen (*Aphidius colemani* gegen Grüne Pfirsichblattlaus, *A. matricariae* gegen Hanfblattlaus), Florfliegenlarven, Marienkäfer |
@@ -2467,7 +2469,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 **Spinnmilben im Detail:**
 - 📄 Sie lieben **warm und trocken** (Praxis: über ca. 25 °C, unter ca. 50 % Luftfeuchte). Blätter über weißem Papier abklopfen, dann sieht man die Milben laufen.
 - 📄 **Erfolg an lebenden Milben messen**, nicht am alten Schadbild. Geschädigte Blätter heilen nicht.
-- 📄 In einer in einem Video zusammengefassten Studie (Landwirtschaftliche Universität Athen) wurden Raubmilben drei Wochen nach dem Pflanzen vorbeugend in Beuteln ausgebracht; in Woche 9 gab es weniger als 2 Spinnmilben pro Pflanze gegenüber über 75 ohne Nützlinge. Welche Kultur und welche Arten, bleibt im Transkript unklar.
+- 📄 Eine Studie der Landwirtschaftlichen Universität Athen (nur aus einem Video-Transkript bekannt) verglich zwei Cannabis-Gewächshäuser, eines mit und eines ohne Nützlinge. Drei Wochen nach dem Umpflanzen wurden Beutel mit ca. 100 Raub- und Vorratsmilben je Pflanze aufgehängt (Art im automatischen Transkript unverständlich, vermutlich *Neoseiulus californicus*). In Woche 9 gab es weniger als 2 Spinnmilben pro Pflanze gegenüber über 75 ohne Nützlinge. Ohne Wiederholung ist das nur ein Hinweis.
 
 **Weichhaut- und Rostmilben: die gefährliche Verwechslung**
 - 📄 **Der Schaden zeigt sich, bevor man das Tier sieht.** Glänzende, verdrehte Neutriebe werden oft als Nährstoff- oder Hitzeproblem fehlgedeutet. „Mehr Dünger heilt keine Milbe.“
@@ -2478,14 +2480,14 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 
 ## 22. Krankheiten
 
-**Kein Fungizid ist für Cannabis zugelassen** ✅ ([Kapitel 21](#21-schädlinge)). Bei Krankheiten zählen deshalb **Vorbeugung, Klima und Hygiene**.
+**Für Rauschhanf ist kein Fungizid zugelassen, und für Privatleute gibt es auch über die Kulturgruppen keines** ✅ (eigene BVL-Abfrage, [Kapitel 21](#21-schädlinge)). Bei Krankheiten zählen deshalb **Vorbeugung, Klima und Hygiene**.
 
 ### Überblick
 
 | Krankheit | Leitsymptom | Begünstigt durch | Vorbeugen | Wenn es passiert ist |
 |---|---|---|---|---|
-| **Grauschimmel / Knospenfäule** (*Botrytis cinerea*) | ein einzelnes Blatt ragt aus der Blüte, vergilbt und lässt sich leicht herausziehen; innen grau, flaumig, bröselig | über ca. 70 % Luftfeuchte, ca. 17–24 °C, **freies Wasser**, stehende Luft, dichte Blüten | Luftfeuchte in der mittleren und späten Blüte **45–55 %**, nachts höchstens ca. 60 %; Luftbewegung **durch** den Bestand; entlauben; in der Blüte nicht sprühen | eintüten, großzügig herausschneiden, außerhalb entsorgen, Werkzeug reinigen, Klima korrigieren, notfalls früher ernten |
-| **Echter Mehltau** (*Golovinomyces*-Arten) | weißer, mehliger Belag auf der Blattoberseite, abwischbar, kommt wieder | stehende, gemäßigte Luft, dichter Bestand; **braucht kein freies Wasser** | Luftbewegung, Luftfeuchte im Griff, offener Bestand | befallene Blätter eintüten, Bestand öffnen; in der Blüte bedeutet Befall Qualitätsverlust |
+| **Grauschimmel / Knospenfäule** (*Botrytis cinerea*) | ein einzelnes Blatt ragt aus der Blüte, vergilbt und lässt sich leicht herausziehen; innen grau, flaumig, bröselig | über ca. 70 % Luftfeuchte, ca. 17–24 °C, **freies Wasser**, stehende Luft, dichte Blüten | Luftfeuchte ab Blütewoche 5 **45–55 %** (nachts höchstens ca. 60 %), ab ca. Woche 7 **40–50 %** (auch nachts höchstens 58 %); Luftbewegung **durch** den Bestand; entlauben; in der Blüte nicht sprühen | eintüten, großzügig herausschneiden, außerhalb entsorgen, Werkzeug reinigen, Klima korrigieren, notfalls früher ernten |
+| **Echter Mehltau** (*Golovinomyces*-Arten) | weißer, mehliger Belag auf der Blattoberseite, abwischbar, kommt wieder | mäßige Temperaturen, stehende, feuchte Luft, dichter Bestand; **braucht kein freies Wasser** | Luftbewegung, Luftfeuchte im Griff, offener Bestand | befallene Blätter eintüten, Bestand öffnen; in der Blüte bedeutet Befall Qualitätsverlust |
 | **Wurzelfäule** (*Pythium*) | braune, wässrige Wurzeln, Rinde löst sich; Welke trotz nasser Erde | Nässe, warme und sauerstoffarme Wurzelzone, Wunden durch Trauermücken | nicht übergießen, passende Topfgröße, sauberes Substrat | tote Wurzeln heilen nicht; Pflanze meist entsorgen |
 | **Fusarium** | Stauchung, Vergilben, oft einseitige Welke; Verfärbung im längs aufgeschnittenen Stängel | verseuchte Stecklinge, Werkzeug, Wasser, Substrat | sauberes Pflanzmaterial, Hygiene, Quarantäne | keine Heilung bei Befall der Leitbahnen; entsorgen |
 | **Umfallkrankheit** (Sämlinge) | Stängel schnürt an der Erdoberfläche ein, wird dunkel, Sämling kippt | Nässe, hohe Luftfeuchte, Kälte, stehende Luft | [Kapitel 14](#14-sämlingsphase) | praktisch immer tödlich |
@@ -2502,16 +2504,16 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 - **Leitzeichen:** ein Blatt, das aus der Blüte ragt, **vergilbt oder bräunt plötzlich** und lässt sich leicht herausziehen.
 - Innen ist die Blüte **grau, flaumig**, zerfällt.
 - 📄 Ein **muffiger, heuartiger Geruch** kann dem sichtbaren Befund vorausgehen.
-- 📄 Bei anhaltend hoher Feuchte dauert es vom Befall bis zum sichtbaren Zerfall mit Sporen nur **ca. 3–5 Tage**. „Selten ist nur eine Blüte befallen.“
+- 📄 Bei anhaltend hoher Feuchte dauert es vom Befall bis zum sichtbaren Zerfall mit Sporen nur **ca. 3–5 Tage**. „Selten ist nur eine Blüte befallen“ (DeBacco-Video).
 
-**Messfalle:** 📄 Im dichten Blätterdach liegt die Luftfeuchte ca. **15–25 % höher** als im Raum (Zhang u. a. 2020). Hygrometer auf Bestandshöhe, mit Salztest geprüft.
+**Messfalle:** 📄 In einer Gewächshausstudie lag die Luftfeuchte im dichten Bestand um ca. **15–25 Prozentpunkte** über dem Raumwert (Zhang u. a. 2020, zitiert in den White Papers). Hygrometer auf Bestandshöhe, mit Salztest geprüft.
 
 **Vorbeugen** (📄 White Papers):
-- Luftfeuchte in der Blüte je nach Phase ca. 45–65 %, **in der mittleren und späten Blüte 45–55 %**, 58 % als harte Obergrenze in den letzten Wochen.
+- Luftfeuchte in der frühen Blüte ca. 50–60 %, **ab ca. Woche 5 45–55 %** (nachts höchstens ca. 60 %), **ab ca. Woche 7 40–50 %, 58 % als harte Obergrenze, auch nachts** ([Kapitel 7](#7-klima-und-lüftung)).
 - Luftbewegung **durch** den Bestand. 📄 In einer Studie (Buirs & Punja 2024) werden 0,5–1,0 m/s genannt.
 - Lollipopping und maßvolles Entlauben ([Kapitel 18](#18-pflanzentraining)), Abstand zwischen den Pflanzen.
 - **In der Blüte weder von oben gießen noch sprühen.**
-- Temperaturabsenkung nachts nur **2–4 °C**; die Luftfeuchte nachts höchstens ca. 60 % ([Kapitel 7](#7-klima-und-lüftung)).
+- Temperaturabsenkung nachts nur **2–4 °C**; die Luftfeuchte nachts höchstens ca. 60 %, in den letzten Wochen höchstens 58 % ([Kapitel 7](#7-klima-und-lüftung)).
 - In den letzten Wochen **täglich** kontrollieren.
 
 **Wenn du Grauschimmel findest** (📄 White Papers, Praxis):
@@ -2522,7 +2524,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 5. **Ursache beheben:** Luftfeuchte senken, Luft durch den Bestand, Bestand öffnen.
 6. Alle anderen dichten Blüten prüfen. **Breitet es sich spät in der Blüte aus: früher ernten.**
 
-⚠️ **Verschimmelte Blüten sind Abfall.** 📄 Trocknen senkt die Keimzahl, macht Fäulnis aber nicht rückgängig und entfernt keine Schimmelgifte ([Kapitel 27](#27-curing-und-lagerung)). **Nicht probieren, nicht „wegschneiden und den Rest rauchen“** 🔧.
+⚠️ **Verschimmelte Blüten sind Abfall.** 📄 Trocknen senkt die Keimzahl, macht Fäulnis aber nicht rückgängig und entfernt keine Schimmelgifte ([Kapitel 27](#27-curing-und-lagerung)). **Nicht probieren. Auch den scheinbar gesunden Rest einer befallenen Blüte nicht verwenden**; nur deutlich entfernte, saubere Blüten behalten 🔧.
 
 ### Echter Mehltau
 
@@ -2530,9 +2532,9 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 - **Erkennen:** weißer, pudriger Belag, zuerst als **einzelne, leicht erhabene Flecken** auf Blattoberseiten, später auch auf Blüten. Lässt sich abwischen und kommt wieder. Das Pilzgeflecht wickelt sich um Trichome, die Sporen haften am Harz (Punja).
 - **Verwechslung:** eingetrocknete Spritzbrühe, Kalk- oder Mineralreste, Staub, Trichome, Lichtreflexe. 📄
 - 📄 **Heimtest** (für Hopfen beschrieben, Cornell University): verdächtiges Blatt mit feuchtem Papiertuch in einen Beutel, 1–2 Tage bei Raumtemperatur mit Hell-Dunkel-Wechsel, dann auf Sporen prüfen.
-- 📄 **Mehltau braucht kein freies Wasser** zur Infektion und mag gemäßigte, bedeckte Bedingungen (UV schädigt die Sporen). Auf einer hochanfälligen Sorte erreichte der Befall in einem Versuch in 4–5 Wochen 40–50 % (Punja).
+- 📄 **Mehltau braucht kein freies Wasser** zur Infektion und mag mäßige Temperaturen und trübes Wetter bzw. wenig UV (UV schädigt die Sporen). Auf einer hochanfälligen Sorte erreichte der Befall in einem Versuch in 4–5 Wochen 40–50 % (Punja).
 - **Was tun:** befallene Blätter vorsichtig eintüten (nicht schütteln), Bestand öffnen, feuchte Totluftzonen beheben. **Frühzeitig und möglichst in der Wachstumsphase handeln.** Den Erfolg an **neuen** Flecken messen.
-- 📄 In einem kanadischen Versuch wirkte **kein** getestetes Sprühmittel vollständig; mehrere sind in Deutschland ohnehin nicht für Cannabis zugelassen.
+- 📄 In einem kanadischen Versuch wirkte **kein** getestetes Sprühmittel vollständig; in Deutschland ist ohnehin keines davon für Cannabis zugelassen.
 - 📄 Laut Punja bildet Echter Mehltau **keine Schimmelgifte**; die relevanten Giftbildner sind *Penicillium*, *Aspergillus* und *Alternaria*.
 
 ### Wurzelfäule (*Pythium*) und *Fusarium*
@@ -2549,7 +2551,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 - **Symptome („Dudding“):** 📄 Die Pflanzen sehen im Wachstum normal aus und bleiben dann klein und spröde, mit wenig Harz und geringerer Potenz. **Viele infizierte Pflanzen zeigen gar nichts.** „Kein sichtbares Merkmal ist beweisend.“
 - **Schaden:** 📄 12–42 % weniger Höhe und Blütengewicht je nach Sorte (Punja 2025); eine andere Quelle nennt 50–70 % THC-Verlust bei „gedudden“ Pflanzen. Die Werte messen Verschiedenes.
 - **Übertragung:** 📄 vor allem **mechanisch über Saft und Werkzeug**; über gemeinsame Nährlösung von Wurzel zu Wurzel; auf Tischen und in Gießkannen nachgewiesen. Getrocknetes Gewebe blieb ca. 4 Wochen infektiös. **Auch über Samen und Pollen:** Aus Samen infizierter Pflanzen gingen bis zu 100 % infizierte Sämlinge hervor (Punja u. a. 2025, nur Zusammenfassung).
-- ⚠️ **Desinfektion:** 📄 **70 % Alkohol zerstört HLVd nicht.** 5–10 % Haushaltsbleiche (1–2 Minuten) oder 1.000 ppm hypochlorige Säure (1 Minute) bauen es ab (Punja 2025). 🔧 Scheren zwischen Pflanzen, die du vermehren willst, in verdünnter Bleiche reinigen, danach abspülen (Bleiche greift Metall an).
+- ⚠️ **Desinfektion:** 📄 **70 % Alkohol zerstört HLVd nicht.** 5–10 % einer Bleiche mit 8,25 % Natriumhypochlorit in Wasser (🧮 also ca. 0,4–0,8 % Natriumhypochlorit) für 1–2 Minuten oder 1.000 ppm hypochlorige Säure für 1 Minute bauen es ab (Punja 2025, zitiert in den White Papers). 🔧 Den Hypochloritgehalt deines Produkts auf dem Etikett nachsehen und die Verdünnung entsprechend anpassen. 🔧 Scheren zwischen Pflanzen, die du vermehren willst, in verdünnter Bleiche reinigen, danach abspülen (Bleiche greift Metall an).
 - **Nachweis:** 📄 nur per Labortest (RT-qPCR), Wurzeln sind die zuverlässigste Probe. Ob Privatpersonen in Deutschland solche Tests beauftragen können, habe ich nicht geklärt.
 - **Heilung:** keine. 📄 „Infiziert heißt: entfernen.“ 🔧 **Keine Stecklinge von kümmernden Pflanzen nehmen oder weitergeben.**
 
@@ -2584,12 +2586,12 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 | Symptom | Wahrscheinliche Ursache | Prüfen / Abhilfe |
 |---|---|---|
 | Pflanze hängt, **Erde nass**, Topf schwer; später gekrallte Blätter, untere Blätter gelb | **Überwässern** | nicht gießen, bis der Topf leicht ist; Untersetzer leeren; Topfgröße prüfen |
-| Pflanze hängt, **Erde trocken**, Topf leicht | **Durst** | langsam gießen; erholt sich in wenigen Stunden |
+| Pflanze hängt, **Erde trocken**, Topf leicht | **Durst** | langsam gießen; 🔧 meist erholt sie sich innerhalb eines Tages, dauerhaft braune Stellen bleiben |
 | braune, schleimige Wurzeln, fauliger Geruch, „mehrere Mängel“ | **Wurzelfäule** | [Kapitel 22](#22-krankheiten) |
 | sehr dunkelgrün, glänzend, braune Spitzen, gekrallt | **Überdüngung** (Stickstoff) | Dosis senken; „mehr Dünger“ ist fast nie die erste Maßnahme |
-| braune, knusprige **Blattspitzen** | zu viel Dünger (Salz) | Dosis senken, 1–2 × nur Wasser |
+| braune, knusprige **Blattspitzen** | zu viel Dünger (Salz) | Dosis senken, Ablauf-EC prüfen; 🔧 ggf. 1–2 × nur Wasser |
 | gebleichte, weiß-gelbe Spitzen **nur oben nahe der Lampe** | **zu viel Licht** oder zu schnell gesteigert | dimmen oder höher hängen |
-| Bleiche trotz passender Lichtstärke | Blatttemperatur oder VPD außerhalb des Bereichs | erst Klima korrigieren |
+| Ausbleichen trotz passender Lichtstärke | Blatttemperatur oder VPD außerhalb des Bereichs | erst Klima korrigieren |
 | Blattränder rollen nach oben („Taco“), Ränder knusprig | VPD zu hoch, Hitze, viel Licht | Licht und Blatttemperatur prüfen, dann Luftfeuchte anheben, Luftbewegung |
 | über ca. 30 °C: Blätter rollen, Welke trotz feuchter Erde, neue Blütenspitzen wachsen aus den Blüten („Foxtailing“) | **Hitzestress** | 📄 in dieser Reihenfolge: dimmen, Abluft maximal, Lichtphase in die Nacht, Klimagerät im Raum. **Keine Eiswürfel, Zelt nicht offen stehen lassen** (Praxisdatenbank) |
 | unter ca. 18 °C: violette Stiele oder Blätter, Wachstumsstopp | **Kälte** (Violett kann auch genetisch sein) | Raum heizen (Ölradiator mit Thermostat), Dämmplatte unter die Töpfe |
@@ -2644,7 +2646,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 📄 (White Papers, zitiert Punja & Holmes 2020; Review in *Plants* 2026)
 - **Genetische Veranlagung** einzelner Linien.
 - **Stress:** Lichtlecks bzw. gestörte Photoperiode, Hitze, mechanische Verletzungen, stark überzogene Reife.
-- **Lichtlecks im Speziellen – schwach belegt:** Die einzige gefundene Studie (Universität Guelph, Beobachtungsstudie in einer Studierendenzeitschrift, 403 Pflanzen) fand einen statistisch signifikanten, aber **vernachlässigbar kleinen** Zusammenhang (R² = 0,016). Ein Faktencheck der White Papers nennt die Aussage „schon ein Handydisplay kann Zwitter auslösen“ **irreführend**. Ein Review von 2026 schreibt, der Effekt „könnte von Lichtintensität, Dauer und Entwicklungsstadium abhängen“.
+- **Lichtlecks im Speziellen – schwach belegt:** Die einzige gefundene Studie (Universität Guelph, Beobachtungsstudie in einer Studierendenzeitschrift, 403 Pflanzen) fand einen statistisch signifikanten, aber **vernachlässigbar kleinen** Zusammenhang (R² = 0,016). Ein Faktencheck der White Papers nennt die Aussage „schon wiederholtes Licht eines Handydisplays kann Zwitter auslösen“ **irreführend**. Ein Review von 2026 schreibt, der Effekt „könnte von Lichtintensität, Dauer und Entwicklungsstadium abhängen“.
 - 🔧 **Fazit:** Ein lichtdichtes Zelt ist billige Versicherung, kein bewiesener Hauptfaktor. **Genetik und mehrfacher Stress** treiben die meisten Zwitter.
 - **Autoflowers:** 📄 Dunkelheit ist bei ihnen nicht der Blüteauslöser, Lichtlecks sind dafür irrelevant; Stress bleibt relevant.
 - **Feminisierte Samen:** 📄 Die Feminisierung mit STS verändert das Erbgut nicht. Samen aus **stressbedingter Selbstbestäubung** („Rodelisierung“) können die Zwitterneigung aber weitervererben ([Kapitel 4](#4-samen-genetik-und-sortenwahl)).
@@ -2654,7 +2656,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 📄 (White Papers) · 🔧 eigene Ergänzungen
 1. **Eine freiliegende Anthere wie ein Männchen behandeln.**
 2. **Viele oder frühe männliche Blüten:** Pflanze **aus dem Zelt entfernen**. 🔧 Vorsichtig in eine Tüte stülpen, damit kein Pollen fliegt. Rechtlich: nicht weitergeben, unbrauchbar machen.
-3. **Einzelne späte „Bananen“:** 🔧 vorsichtig mit feuchtem Tuch oder Pinzette entfernen und danach **täglich** kontrollieren. 📄 Das ist **unbelegte** Praktikerpraxis.
+3. **Einzelne späte „Bananen“:** 🔧 vorsichtig mit feuchtem Tuch oder Pinzette entfernen und danach **täglich** kontrollieren. 📄 Das ist eine **unbelegte** Praxisregel.
 4. **Nachbarpflanzen eine Woche lang täglich prüfen.**
 5. **Sorte und vorausgegangenen Stress notieren.**
 6. **Stress abstellen** (Lichtlecks, Hitze, Timer).
@@ -2665,7 +2667,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 
 ### Pollen von außen
 
-🔧 Draußen kann Pollen von männlichen Pflanzen aus der Nachbarschaft oder von Nutzhanffeldern kommen. Belastbare Daten zum Pollenflug in Deutschland habe ich nicht gefunden. Indoor schützt die Abluft mit Unterdruck; Zuluft-Gaze hält Insekten ab, aber nicht sicher Pollen.
+🔧 Draußen kann Pollen von männlichen Pflanzen aus der Nachbarschaft oder von Nutzhanffeldern kommen. Belastbare Daten zum Pollenflug in Deutschland habe ich nicht gefunden. Drinnen kommt die Zuluft aus dem Wohnraum; Fremdpollen gelangen nur hinein, wenn sie schon in der Raumluft sind (z. B. über ein offenes Fenster). Der Unterdruck verhindert eher, dass Pollen aus dem Zelt nach außen gelangen. Zuluft-Gaze hält Insekten ab, aber nicht sicher Pollen.
 
 ---
 
@@ -2682,7 +2684,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 - **Große Blätter werden von unten gelb** („Herbstfärbung“). Die Pflanze verlagert bewegliche Nährstoffe, vor allem Stickstoff, aus alten Blättern in die Blüten. **Ein sanftes Vergilben in den letzten Wochen ist normal**, starkes, knuspriges Vergilben schon in Blütewoche 6 dagegen ein Problem ([Kapitel 12](#12-nährstoffprobleme-erkennen)).
 - **THC entsteht bis zu einem sortentypischen Höhepunkt.** Danach wandelt es sich langsam in **CBN** um (Oxidation). Bernsteinfarbene Trichome zeigen diesen Alterungsprozess an. 📄 Dass „Bernstein“ eine bestimmte, müde machende Wirkung garantiert, ist nicht belegt.
 
-**Warten lohnt sich meist:** 📄 In einem kontrollierten Indoor-Versuch mit einer CBD-Sorte (Massuela u. a. 2022) stieg das Trockengewicht der Blüten bis in die späte Reife weiter an, der beste Gesamtertrag lag bei Woche 9 statt Woche 7. **Einzige gute Ausnahme: Schimmel.** Tritt Knospenfäule auf, lieber sofort ernten ([Kapitel 22](#22-krankheiten)).
+**Warten lohnt sich meist:** 📄 In einem Indoor-Versuch mit einer CBD-Sorte (Massuela u. a. 2022) nahm das Blütentrockengewicht über alle Erntetermine (Woche 5 bis 11) zu; den besten Gesamtertrag nennen die White Papers für Woche 9 statt Woche 7 (die Angaben dort sind nicht ganz stimmig). **Einzige gute Ausnahme: Schimmel.** Tritt Knospenfäule auf, lieber sofort ernten ([Kapitel 22](#22-krankheiten)).
 
 ### Trichome richtig ansehen
 
@@ -2695,7 +2697,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 - **Nicht auf die kleinen Blätter** in der Blüte („Zuckerblätter“). Deren Trichome werden Tage früher bernsteinfarben. Wer dort schaut, erntet eine Woche zu früh.
 - **Oben reift früher als unten.** Die obersten Blüten haben am meisten Licht und laut Studien auch den höchsten Wirkstoff- und Terpengehalt (Namdar u. a. 2018).
 - Zwei bis drei Stellen mit einem Stück Klebeband **markieren** und immer dieselben Stellen ansehen, dazu eine Spitze oben.
-- Wenn es in der Pflanze schlecht geht: **einen kleinen Blütenkelch abknipsen** und in Ruhe außerhalb des Zelts unter weißem Licht ansehen.
+- Kommst du an die Stelle schlecht heran: **einen kleinen Blütenkelch abknipsen** und in Ruhe außerhalb des Zelts unter weißem Licht ansehen.
 
 **Wie oft?** 📄 Ab ca. **Blütewoche 7** (oder wenn die meisten Blütenhärchen braun sind) **alle 2 Tage**. Jedes Mal notieren, z. B. „Tag 52: ca. 15 % klar / 80 % milchig / 5 % bernstein, Mitte“. **Der Verlauf über mehrere Tage ist das eigentliche Signal.**
 
@@ -2709,10 +2711,10 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 |---|---|---|
 | **Blüten (üblich)** | **überwiegend milchig, ca. 5–15 % bernstein** | volle Reife, volles Gewicht und Aroma |
 | Blüten („schwerer“) | 15–30 % bernstein | bewusste Überreife. Belegt ist nur die Alterung des Harzes, die Wirkungsversprechen sind Folklore. Längste Zeit mit Schimmelrisiko. |
-| Früh, „klarer“ | fast alles milchig, kaum bernstein | 📄 Haschisch-Hersteller ernten so, weil die Harzköpfchen dann intakt sind. Zur Rechtslage bei Extraktion siehe [Kapitel 2](#2-rechtliches-in-deutschland). |
+| Für Haschisch (früher) | fast alles milchig, kaum bernstein | 📄 Haschisch-Hersteller ernten so, weil die Harzköpfchen dann intakt sind. Zur Rechtslage bei Extraktion siehe [Kapitel 2](#2-rechtliches-in-deutschland). |
 | **Zu früh** | viele klare Trichome | weniger Gewicht, unreifes Harz |
 
-🔧 **Praxisregel:** Sind die Trichome etwa eine Woche lang fast alle milchig und kommen kaum bernsteinfarbene dazu, ist es Zeit.
+📄 **Praxisregel** (White Papers): Sind die Trichome etwa eine Woche lang fast alle milchig und kommen kaum bernsteinfarbene dazu, ist es Zeit.
 
 ### Gestaffelt ernten (optional)
 
@@ -2724,7 +2726,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 |---|---|
 | „**Spülen** (Flushing) mit reinem Wasser 1–2 Wochen vor der Ernte verbessert Geschmack und Asche“ | 📄 In einem Herstellerversuch (Rx Green Technologies 2019, Kokos, eine Sorte, 0/7/10/14 Tage) gab es **keine signifikanten Unterschiede** bei Ertrag, THC und Terpenen. Der Mineralstoffgehalt der Blüten sank kaum, im Blindtest gab es eine (nicht signifikante) Tendenz **zugunsten der ungespülten** Blüten. Eine Masterarbeit an der Universität Guelph (Stemeroff 2017) fand ebenfalls keinen Abbau der Mineralstoffe in den Blüten. Beide Quellen sind keine begutachteten Fachartikel. **Lange Spülphasen können der Pflanze sogar schaden**, weil sie früh hungert. |
 | „Weiße Asche beweist gutes Spülen“ | 📄 Nicht belegt. Die Aschefarbe hängt von Verbrennung und Restfeuchte ab. |
-| „**24–48 Stunden Dunkelheit** vor der Ernte erhöhen das Harz“ | 📄 Keine kontrollierte Studie belegt das. Schadet nicht, bringt aber nachweislich nichts. |
+| „**24–48 Stunden Dunkelheit** vor der Ernte erhöhen das Harz“ | 📄 Keine kontrollierte Studie belegt einen Nutzen. Laut White Papers schadet es auch nicht. |
 | „Vor Sonnenaufgang ernten fängt die meisten Terpene“ | 📄 Ebenfalls nicht belegt. |
 | „UV-Lampen am Ende erhöhen das THC“ | 📄 In einer Indoor-Studie (Llewellyn u. a. 2022) brachte zusätzliches UV weder mehr Ertrag noch mehr Cannabinoide. Eine weitere Studie (Huebner u. a. 2024) fand unter der stärksten UV-B-Behandlung sogar weniger THC. |
 
@@ -2733,7 +2735,7 @@ Draußen liefert die Sonne das Licht gratis. Dafür bestimmen **Tageslänge, Wet
 ### Letzte Tage vor der Ernte: Schimmel ist der Feind
 
 📄 Reifende, dichte Blüten sind ideale Brutstätten für **Grauschimmel (Botrytis)**. Er beginnt **innen** und ist lange unsichtbar.
-- **Luftfeuchte 45–55 %**, **58 % als harte Obergrenze** (White Papers).
+- **Luftfeuchte 40–50 %**, **58 % als harte Obergrenze** (📄 White Papers; deren Reife-Kapitel nennt 45–55 %, das Blüte-Kapitel 40–50 % ab Woche 7; 🔧 ich folge der vorsichtigeren Spanne, [Kapitel 7](#7-klima-und-lüftung)).
 - **Luftbewegung durch das Blätterdach**, nicht nur darüber.
 - **Beim Wechsel zu „Licht aus“** fällt die Temperatur und die Luftfeuchte steigt. **Diese erste Stunde ist die gefährlichste.** Temperaturunterschied klein halten ([Kapitel 7](#7-klima-und-lüftung)).
 - **Täglich prüfen:** ein einzelnes Blatt, das aus einer Blüte ragt und plötzlich braun-gelb welkt, ist das typische Frühzeichen.
@@ -2756,7 +2758,7 @@ Beim Trocknen kann man in wenigen Tagen die Arbeit von Monaten verderben. **Zu s
 | **Luftfeuchte ca. 55–65 %**, Ziel ca. 60 % | darunter zu schnell (Heugeruch), darüber Schimmel |
 | **Luftaustausch** | Eine frisch geerntete Pflanze gibt sehr viel Wasser ab. In einem geschlossenen Schrank steigt die Feuchte schnell über 65 %. |
 | **sanfte, indirekte Luftbewegung** | Ventilator gegen Wand oder Decke, **nie direkt auf die Blüten**: Sonst trocknen sie außen, bleiben innen nass. 📄 |
-| **abschließbar** | Schutz vor Zugriff Dritter, besonders Kinder (§ 10 KCanG) |
+| **abschließbar** 🔧 | Schutz vor Zugriff Dritter, besonders Kinder und Jugendlicher (§ 10 KCanG verlangt „geeignete Maßnahmen“, ein Schloss ist die naheliegende) |
 | **Geruch beachten** | Trocknende Blüten riechen **sehr stark**. Ideal ist ein Aktivkohlefilter. |
 
 **Möglichkeiten**, von der besten zur einfachsten (📄 nach einer US-Recherchezusammenfassung, Maine-Leitfaden):
@@ -2806,7 +2808,7 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 | Quelle | Temperatur | Luftfeuchte | Dauer |
 |---|---|---|---|
 | White Papers (nach AROYA) | 16 °C | 60 % | ganze Pflanzen ca. 10–14 Tage |
-| BudTrainer („60/60-Regel“) | 15–20 °C | 55–65 % | 10–12 Tage |
+| BudTrainer | 15–20 °C (60/60-Regel: 15,5 °C / 60 %) | 55–65 % | 10–12 Tage |
 | ILGM | 15,5–21 °C | 45–60 % | 7–14 Tage |
 | kamerplanter (deutsche Wissensdatenbank) | 15–20 °C | 55–65 % | 7–14 Tage |
 
@@ -2858,15 +2860,15 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 
 ## 27. Curing und Lagerung
 
-**Curing** (Nachreifen, Fermentieren im Glas) heißt: die getrockneten Blüten wochenlang in geschlossenen Gläsern lagern und regelmäßig lüften. 📄 Dabei gleicht sich die Restfeuchte zwischen innen und außen aus, und das Aroma soll runder werden. Die genannten Vorteile (Abbau von Chlorophyll, „weicherer“ Rauch) stammen aus der Praxis, **kontrollierte Studien dazu gibt es kaum**. Gut belegt ist, dass richtige Lagerung Terpene und Cannabinoide **erhält**.
+**Curing** (Nachreifen im Glas) heißt: die getrockneten Blüten wochenlang in geschlossenen Gläsern lagern und regelmäßig lüften. 📄 Dabei gleicht sich die Restfeuchte zwischen innen und außen aus, und das Aroma soll runder werden. Die genannten Vorteile (Abbau von Chlorophyll, „weicherer“ Rauch) stammen aus der Praxis, **kontrollierte Studien dazu gibt es kaum**. Gut belegt ist, dass richtige Lagerung Terpene und Cannabinoide **erhält**. 🔧 Umgangssprachlich heißt es manchmal „Fermentieren“; eine Gärung soll dabei aber gerade nicht stattfinden (Ammoniakgeruch im Glas ist ein Warnzeichen).
 
 ### Curing Schritt für Schritt
 
 1. **Luftdichte Glasgläser** (Einmach-, Bügel- oder Schraubgläser). 📄 Glas schnitt in einer Nutzhanf-Studie (Fachzeitschrift Plants, 2025) besser ab als Plastikbeutel.
 2. **Zu ca. 60–75 % füllen**, nicht pressen. 📄 (Angaben reichen von „60–70 %, höchstens 75 %“ bis „2/3–3/4“)
 3. Wenn möglich ein **Mini-Hygrometer ins Glas** legen, vorher mit dem Salztest prüfen.
-4. **Dunkel, bei ca. 15–21 °C und abgeschlossen lagern** (§ 10 KCanG).
-5. **Ziel im Glas: 58–62 % Luftfeuchte.** 📄
+4. **Dunkel, bei ca. 15–21 °C lagern**, vor Zugriff geschützt (§ 10 KCanG; 🔧 am besten abgeschlossen).
+5. **Ziel im Glas: 58–62 % Luftfeuchte.** 📄 (Die White Papers halten an anderer Stelle auch ca. 50–55 % für vertretbar; 58–62 % ist der übliche Wert der Praxisquellen und passt zum ASTM-Bereich 0,55–0,65 aw.)
 6. **Lüften („Burpen“)** nach dem Hygrometer, nicht nur nach der Uhr:
 
 | Zeitraum | Wie oft | Wie lange |
@@ -2878,7 +2880,7 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 
 📄 Die Quellen (BudTrainer, THCFarmer, kamerplanter, White Papers) weichen im Detail voneinander ab. Gemeinsam ist: in Woche 1 oft, in Woche 2 täglich, dann seltener.
 
-7. **Zeigt das Glas über ca. 65–70 %:** 📄 Blüten auf einem Netz oder Teller **30–60 Minuten** (bei viel Feuchte auch einige Stunden) an der Luft nachtrocknen lassen, dann zurück ins Glas.
+7. **Zeigt das Glas über ca. 70 %** (oder nach mehreren Tagen Lüften noch über 65 %): 📄 Blüten auf einem Netz oder Teller **30–60 Minuten** (bei viel Feuchte auch einige Stunden) an der Luft nachtrocknen lassen, dann zurück ins Glas.
 8. **Dauer:** 📄 mindestens **2–4 Wochen**, besser **4–8 Wochen**. Manche curen mehrere Monate.
 9. 📄 **Profis hören auf zu lüften**, wenn die Blüten stabil bei ca. 58–60 % liegen (0,58–0,60 aw). Jedes weitere Öffnen kostet dann nur Aroma.
 
@@ -2901,7 +2903,7 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 | Heu- oder Grasgeruch | zu schnell oder zu warm getrocknet | langsames Curing hilft teilweise 📄 |
 | Pappgeruch, bröselige Blüten | übertrocknet | lässt sich kaum rückgängig machen. Ein 62-%-Beutel kann etwas Feuchte zurückgeben. 🔧 |
 
-**Warum Schimmel nicht „weggetrocknet“ werden kann:** 📄 Trocknen senkt zwar die Zahl der Keime, macht Fäulnis aber nicht rückgängig und entfernt keine **Schimmelgifte (Mykotoxine)** (Nutzhanf-Studie in Plants 2025, zitiert in den White Papers). Die White Papers warnen außerdem: Blüten können gefährliche Pilze tragen und trotzdem sauber aussehen und riechen. **Vorbeugen ist wichtiger als Kontrolle.** Besonders gefährlich ist Schimmel für Menschen mit geschwächtem Immunsystem oder Lungenerkrankungen 🔧.
+**Warum Schimmel nicht „weggetrocknet“ werden kann:** 📄 Trocknen senkt zwar die Zahl der Keime, macht Fäulnis aber nicht rückgängig und entfernt keine **Schimmelgifte (Mykotoxine)** (Nutzhanf-Studie in Plants 2025, zitiert in den White Papers). Die White Papers warnen außerdem: Blüten können gefährliche Pilze tragen und trotzdem sauber aussehen und riechen. **Vorbeugen ist wichtiger als Kontrolle.** Besonders gefährlich ist Schimmel für Menschen mit geschwächtem Immunsystem 📄.
 
 ### Langfristig lagern
 
@@ -2920,14 +2922,14 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 | **stabile Feuchte, ca. 58–62 %** | kein Schimmel, kein Austrocknen |
 | **Datum auf das Glas** | Alter im Blick behalten |
 | **nicht lose einfrieren** | 📄 Trichome werden spröde und brechen ab |
-| **abschließbar** | § 10 KCanG, Schutz vor Kindern und Dritten |
+| **vor Zugriff geschützt, 🔧 am besten abschließbar** | § 10 KCanG (Kinder, Jugendliche, Dritte) |
 | **insgesamt höchstens 50 g zuhause** | § 3 KCanG, Überschuss vernichten |
 
 📄 Eine deutsche Wissensdatenbank (kamerplanter) nennt 6–12 Monate ohne deutlichen Wirkungsverlust bei kühler, dunkler Lagerung. Nach den Daten von Ross & ElSohly verliert Cannabis aber auch dann spürbar THC. 🔧 Für Eigenbedarf: lieber frisch verbrauchen als lange horten.
 
 ### Wiegen nicht vergessen
 
-🔧 Nach dem Trocknen und nach dem Trimmen **noch einmal alles wiegen**: Blüten und aufbewahrte Blätter oder Reste, mit einer Feinwaage (Anzeige 0,1 g oder 1 g). Zuhause sind insgesamt **höchstens 50 g** erlaubt. Auch Reste früherer Ernten zählen mit ([Kapitel 2](#2-rechtliches-in-deutschland)).
+🔧 Nach dem Trocknen und nach dem Trimmen **noch einmal alles wiegen**: Blüten und aufbewahrte Blätter oder Reste, mit einer Küchen- oder Feinwaage (Auflösung höchstens 1 g, besser 0,1 g). Zuhause sind insgesamt **höchstens 50 g** erlaubt. Auch Reste früherer Ernten zählen mit ([Kapitel 2](#2-rechtliches-in-deutschland)).
 
 ---
 
@@ -2937,13 +2939,13 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 
 ✅ Herstellervorgaben (Beispiel Spider-Farmer-Handbuch; bei anderen Lampen ähnlich, **Handbuch deiner Geräte lesen**):
 - Lampen der **Schutzklasse I** müssen **geerdet** sein → nur Schuko-Steckdosen und Steckdosenleisten mit Schutzkontakt.
-- **Nennleistung** von Zeitschaltuhr und Steckdosenleiste muss über der angeschlossenen Leistung liegen.
+- ✅ Bei mehreren verketteten Lampen darf die Gesamtleistung die **Nennleistung der Zeitschaltuhr** nicht überschreiten (Spider-Farmer-Handbuch). 🔧 Dasselbe gilt sinngemäß für Steckdosenleisten.
 - **Keine fremden Dimmer** an LED-Lampen.
 - Vor Reinigung und Wartung Stecker ziehen, Dioden nicht anfassen.
 - Maximale Umgebungstemperatur der Lampe beachten.
 
 📄/🔧 **Weitere Regeln:**
-- **FI-Schutzschalter (Typ A, 30 mA)** im Sicherungskasten prüfen (Prüftaste). Ohne FI: Elektrofachkraft fragen oder FI-Zwischenstecker ([Kapitel 8](#8-zelt-technik-strom-und-kosten)).
+- **FI-Schutzschalter (Typ A, 30 mA)** im Sicherungskasten prüfen (Prüftaste). Ohne FI: Elektrofachkraft fragen. 🔧 Als Übergangslösung gibt es FI-Zwischenstecker (Personenschutz-Adapter); dazu habe ich keine Quelle geprüft ([Kapitel 8](#8-zelt-technik-strom-und-kosten)).
 - **Steckdosenleisten nicht hintereinanderstecken** 📄 (Feuerwehr-Tipps Baden-Württemberg, Brennenstuhl).
 - Leisten **hoch am Gestänge oder außerhalb** des Zelts, **nie auf dem Boden**. **Tropfschlaufe** vor jedem Stecker.
 - **Heizgeräte direkt in die Wandsteckdose**, nicht auf die Leiste zu Lampe und Lüfter.
@@ -2966,7 +2968,7 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 
 - 📄 **CO₂-Begasung** ist in Wohnräumen gefährlich (Arbeitsplatzgrenzwert 5.000 ppm, lebensgefährlich ab ca. 40.000 ppm, [Kapitel 7](#7-klima-und-lüftung)). Für Einsteiger nicht empfohlen.
 - 🔧 **Keine Ozongeneratoren** gegen Geruch: Ozon ist gesundheitsschädlich.
-- 📄 **Schimmel:** Verschimmelte Blüten nicht konsumieren. Besonders Menschen mit geschwächtem Immunsystem oder Lungenerkrankungen sind gefährdet ([Kapitel 22](#22-krankheiten)).
+- 📄 **Schimmel:** Verschimmelte Blüten nicht konsumieren. Besonders gefährdet sind Menschen mit geschwächtem Immunsystem ([Kapitel 22](#22-krankheiten)). 🔧 Bei Lungenerkrankungen würde ich zusätzlich vorsichtig sein.
 - 🔧 **Allergien:** Pollen, Harz und Schimmelsporen können Reizungen auslösen. Beim Trimmen Handschuhe tragen.
 - 🔧 **Isopropanol** (zum Reinigen) ist leicht entzündlich: nicht neben heißen Geräten, gut lüften.
 - 🔧 **Bleichlösung** (gegen Viroide): nie mit Säuren oder Ammoniak mischen (giftige Gase), Handschuhe, gut lüften.
@@ -3023,12 +3025,12 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 | 4–5 | Vorblüte, erste Härchen → Blütedünger 50–75 % |
 | 5–9 | Blüte, Stützen, Luftfeuchte senken |
 | ab ca. 8–9 | Trichome alle 2 Tage prüfen |
-| ca. 10–14 | Ernte nach Trichomen |
+| ca. 10–12 (je Sorte auch später) | Ernte nach Trichomen |
 
 ### Checkliste vor dem Start
 
 - [ ] Rechtliches geklärt: ab 18, Wohnsitz (≥ 6 Monate) oder gewöhnlicher Aufenthalt, **höchstens 3 Pflanzen inkl. Keimlingen und Mutterpflanzen**, Samen aus der EU
-- [ ] Abschließbarer Platz (Zelt oder Raum) und abschließbare Box (§ 10)
+- [ ] Zugriffsschutz nach § 10 geplant (🔧 abschließbares Zelt oder abschließbarer Raum, abschließbare Box)
 - [ ] Standort eine Woche gemessen (Temperatur, Luftfeuchte, Min/Max)
 - [ ] Höhe berechnet (nutzbare Höhe, maximale Umschalthöhe)
 - [ ] Lampe passend zur Fläche, Aufhängung, Zeitsteuerung getestet (auch Stromausfall)
@@ -3068,7 +3070,7 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 ### Monatlich
 
 - [ ] pH-Messgerät kalibrieren
-- [ ] Hygrometer mit Salztest prüfen (alle paar Monate)
+- [ ] Hygrometer mit Salztest prüfen (🔧 spätestens alle 3 Monate)
 - [ ] Zelt und Werkzeug reinigen, Staub von Lüftern und Lampe (Stecker ziehen)
 
 ### Nach jedem Durchgang
@@ -3149,7 +3151,7 @@ Zuhause darfst du **höchstens 50 g** Cannabis besitzen, gerechnet **nach dem Ge
 | **THCA / THC** | Säureform (in der Pflanze) / wirksame Form (nach Erhitzen) |
 | **Topping** | Abschneiden der Haupttriebspitze |
 | **Trichome** | Harzdrüsen; ihre Farbe zeigt die Reife |
-| **Umfallkrankheit (Damping-off)** | Pilzkrankheit, bei der Sämlinge am Stängelgrund einschnüren und umfallen |
+| **Umfallkrankheit (Damping-off)** | Krankheit durch Bodenpilze und Eipilze (z. B. *Pythium*), bei der Sämlinge am Stängelgrund einschnüren und umfallen |
 | **VPD** | Dampfdruckdefizit: wie stark die Luft an den Blättern „zieht“ (kPa) |
 | **Vorblüte** | erste einzelne Blütenansätze in den Blattachseln |
 | **Zuckerblätter** | kleine, harzige Blätter in der Blüte |
@@ -3173,7 +3175,7 @@ Ich habe versucht, nichts zu erfinden. Diese Punkte sind **offen, umstritten ode
 7. **Versandverbot für Stecklinge (§ 20 Abs. 5):** Gilt es nur für Anbauvereinigungen oder für alle?
 8. **Eigene Samen erzeugen und weitergeben:** nicht ausdrücklich geregelt, keine amtliche Aussage gefunden.
 9. **Mietrecht:** keine Gerichtsentscheidung zum Anbau gefunden. Ratgeberaussagen sind nicht verifiziert.
-10. **Pflanzenschutz:** Ob Gruppenzulassungen („Gemüsekulturen“) für Rauschhanf gelten und ob ein Growzelt als „Gewächshaus“ oder „Zimmer“ zählt, ist ungeklärt. Ob Nützlinge draußen unter die Genehmigungsausnahme des § 40 BNatSchG fallen, habe ich nicht geprüft. Die BVL-Daten ändern sich laufend.
+10. **Pflanzenschutz:** Ob Gruppenzulassungen („Gemüsekulturen“) für Rauschhanf gelten und ob ein Growzelt als „Gewächshaus“ oder „Zimmer“ zählt, ist ungeklärt. Ob Nützlinge draußen unter die Genehmigungsausnahme des § 40 BNatSchG fallen, habe ich nicht geprüft. Ob genehmigte **Grundstoffe** (§ 12 Abs. 4 Nr. 2 PflSchG, z. B. Brennnessel- oder Schachtelhalmauszüge, Lecithin) bei Cannabis eingesetzt werden dürfen und wie „Neemöl“ als Pflege- oder Stärkungsmittel einzuordnen ist, habe ich ebenfalls nicht geprüft; ich stelle sie deshalb nicht als Alternative dar. Die BVL-Daten ändern sich laufend.
 11. **Sieben, Pressen, Butter, Öl:** Ob das als verbotenes „Herstellen“ (§ 2 Abs. 1 Nr. 3) oder als verbotene Extraktion (§ 2 Abs. 2) gilt, ist ungeklärt. Ich habe dazu weder Rechtsprechung noch eine amtliche Auslegung gelesen.
 
 ### Wissenschaft und Praxis
@@ -3207,7 +3209,7 @@ In der Umgebung, in der dieses Handbuch entstand, waren **fast alle Webseiten ge
 ### Selbst gelesen (✅) – Gesetze, amtliche Daten, Herstellerdokumente
 
 **Gesetze** (gelesen über automatische Kopien von gesetze-im-internet.de, Stand 27.09.2026, z. B. <https://github.com/kmein/gesetze>):
-- Konsumcannabisgesetz (KCanG), §§ 1–5, 9, 10, 16, 19, 20, 34, 35a, 36: <https://www.gesetze-im-internet.de/kcang/>
+- Konsumcannabisgesetz (KCanG), §§ 1–5, 9, 10, 16, 19, 20, 22, 23, 25, 34, 35a, 36: <https://www.gesetze-im-internet.de/kcang/>
 - Straßenverkehrsgesetz §§ 24a, 24c, 25; Strafgesetzbuch § 316
 - Pflanzenschutzgesetz §§ 2, 3, 12, 22, 68; Bundesnaturschutzgesetz § 40; Bundeskleingartengesetz §§ 1, 3, 9
 - Trinkwasserverordnung 2023 (Anlage 3, §§ 19, 23, 26, 45, 46); Wasch- und Reinigungsmittelgesetz § 9; Düngemittelverordnung (Kennzeichnung); BGB § 906
@@ -3230,7 +3232,7 @@ In der Umgebung, in der dieses Handbuch entstand, waren **fast alle Webseiten ge
 - **Symptom-Datenbank dtfgenetics/Thc** (Nährstoffmängel mit Studienverweisen, Outdoor-Modul): <https://github.com/dtfgenetics/Thc>
 - **Düngerrechner bergrow** (deutsches Hobby-Tool mit Literaturliste): <https://github.com/bergrow/duengerrechner>
 - **Maine-Recherchezusammenfassungen** (Trocknung, Curing, Autoflower; zitieren BudTrainer, ILGM, THCFarmer u. a.): <https://github.com/steezkelly/maine-dispensary-guide>
-- **canna-know** (Evidenzsammlung Gartenbau): <https://github.com/JamesTheGiblet/canna-know>
+- **canna-know** (Sammlung ohne überprüfbare Belege, geringe Verlässlichkeit; nur zum Aufzeigen abweichender Angaben genutzt): <https://github.com/JamesTheGiblet/canna-know>
 - **Vortrag Zamir Punja** (Simon Fraser University, ca. 2018, automatisches Transkript) und Vorträge Cornell University und DeBacco University (Transkripte)
 
 ### Studien (📄, nur über Zusammenfassungen gelesen)
@@ -3241,15 +3243,17 @@ In der Umgebung, in der dieses Handbuch entstand, waren **fast alle Webseiten ge
 
 **Keimung, Umtopfen:** Geneve u. a. 2022, Crops 2(4):415 (Nutzhanf) · Poorter u. a. 2012, Functional Plant Biology 39:839 · Amoroso u. a. 2010, HortScience 45:1824 · Bhattacharya & Zittel 2023, Cannabis Business Times · Lamichhane u. a. 2017, Agron. Sustain. Dev. 37:10 · Small & Brookes 2012, J. Natural Fibers (Samenlagerung)
 
+**Wasser, Gießen:** Caplan, Dixon & Zheng 2019, HortScience 54:964
+
 **Nährstoffe:** Cockson u. a. 2019, Applied Sciences 9:4432 · Llewellyn u. a. 2023, Plants 12:422 · Saloner & Bernstein 2020, Front. Plant Sci. 11:572293; 2022, 13:830224 · Westmoreland & Bugbee 2022, Front. Plant Sci. 13:1015652 · Veazie u. a. 2025 · Hershkowitz, Westmoreland & Bugbee 2025 · Caplan u. a. 2017, HortScience 52
 
 **Training, Wachstum:** Massuela u. a. 2022, Plants 11(1):140 · Danziger & Bernstein 2021, Ind. Crops Prod.; 2022, Front. Plant Sci. 13:713481 · Schober u. a. 2024, PLOS ONE 19:e0315951 · Horticulturae 2026, 12(5):619 · Namdar u. a. 2018, Ind. Crops Prod. 113:376
 
-**Ernte, Lagerung:** Punja, Sutton & Kim 2023, J. Cannabis Res. 5:12 · Livingston u. a. 2020, Plant J. 101:37 · Ross & ElSohly 1996, J. Nat. Prod. 59:49; 1997, Bulletin on Narcotics 49:139 · Fairbairn, Liebmann & Rowan 1976, J. Pharm. Pharmacol. 28:1 · Brikenstein u. a. 2024, Med. Cannabis Cannabinoids 7:111 · Birenboim u. a. 2024, Plants 13:1049 · ASTM D8197-21 · Rx Green Technologies 2019 (Spülversuch): <https://www.rxgreentechnologies.com/rxgt_trials/flushing-trial/> · Stemeroff 2017, MSc-Arbeit Universität Guelph · Caplan, Dixon & Zheng 2019, HortScience 54:964
+**Ernte, Lagerung:** Punja, Sutton & Kim 2023, J. Cannabis Res. 5:12 · Livingston u. a. 2020, Plant J. 101:37 · Ross & ElSohly 1996, J. Nat. Prod. 59:49; 1997, Bulletin on Narcotics 49:139 · Fairbairn, Liebmann & Rowan 1976, J. Pharm. Pharmacol. 28:1 · Brikenstein u. a. 2024, Med. Cannabis Cannabinoids 7:111 · Birenboim u. a. 2024, Plants 13:1049 · ASTM D8197-21 · Rx Green Technologies 2019 (Spülversuch): <https://www.rxgreentechnologies.com/rxgt_trials/flushing-trial/> · Stemeroff 2017, MSc-Arbeit Universität Guelph · Nutzhanf-Studie zu Trocknung und Curing, Plants 2025, 14(3):414
 
 **Genetik, Stecklinge:** Toth u. a. 2022, Front. Plant Sci. 13:991680 · Punja & Holmes 2020, Front. Plant Sci. 11:718 · Flajšman u. a. 2021, Front. Plant Sci. 12:718092 · Watts u. a. 2021, Nature Plants 7:1330 · Sawler u. a. 2015, PLOS ONE 10:e0133292 · Schwabe & McGlaughlin 2019, J. Cannabis Res. 1:3 · de Meijer u. a. 2003, Genetics 163:335 · Spitzer-Rimon u. a. 2019, Front. Plant Sci. 10:350 · Caplan u. a. 2018, Can. J. Plant Sci. (Stecklinge)
 
-**Krankheiten, Schädlinge:** Punja u. a. 2025 (HLVd), Plants 14(5):830 · Punja u. a. 2025 (Botrytis), Can. J. Plant Pathol. · Mahmoud u. a. 2023, Botany · Moyses u. a. 2022, Journal für Kulturpflanzen 74:205 · Cranshaw u. a. 2018/2020 · Cloyd 2015
+**Krankheiten, Schädlinge:** Punja u. a. 2025 (HLVd), Plants 14(5):830 · Punja u. a. 2025 (Botrytis), Can. J. Plant Pathol. · Mahmoud u. a. 2023, Botany · Moyses u. a. 2022, Journal für Kulturpflanzen 74:205 · Cranshaw u. a. 2018/2020 · Cloyd 2015 · Buirs & Punja 2024, Plants 13:786 · McKernan u. a. 2016, F1000Research 5:2471 · Punja 2021, Pest Manag. Sci. 77:3857 · Benedict, Thompson & Jackson 2020, Emerg. Infect. Dis. 26:1308 · Review „Plants“ 2026, 15(11):1643 (nur Suchauszug) · Guelph-Beobachtungsstudie zu Lichtlecks (SURG Journal, Studierendenzeitschrift)
 
 ### Rechtsprechung und Behörden (📄, nur über Berichte und Suchauszüge)
 
@@ -3264,7 +3268,7 @@ In der Umgebung, in der dieses Handbuch entstand, waren **fast alle Webseiten ge
 
 ### Züchter und Händler (📄, nur Suchauszüge)
 
-Sensi Seeds, Royal Queen Seeds, Dutch Passion (Keimung, Sämling, Autoflower, Outdoor-Kalender), Plagron (Erden), Koppert, Re-Natur, Landwirtschaftskammern (Nützlinge), Bluelab (EC/ppm), Grodan (Steinwolle).
+Sensi Seeds, Royal Queen Seeds, Dutch Passion (Keimung, Sämling, Autoflower, Outdoor-Kalender), Plagron (Erden), Koppert, Re-Natur, Royal Brinkman, hortipendium, Green Methods, Landwirtschaftskammern (Nützlinge), Bluelab (EC/ppm), Grodan (Steinwolle), Brennenstuhl (Steckdosenleisten).
 
 ### Die erste Anleitung
 
